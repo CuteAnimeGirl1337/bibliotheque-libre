@@ -1,0 +1,1021 @@
+{
+  "id": 9053,
+  "title": "Poésies du troubadour Peire Raimon de Toulouse: Texte et traduction",
+  "authors": [
+    {
+      "name": "Peire Raimon, of Toulouse"
+    }
+  ],
+  "subjects": [
+    "Peire Raimon, of Toulouse, approximately 1180-approximately 1225",
+    "Provençal poetry -- Translations into French",
+    "Troubadours"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "source": "https://www.gutenberg.org/ebooks/9053",
+  "download_count": 528,
+  "stats": {
+    "total_chars": 134432,
+    "total_words": 21963,
+    "chapter_count": 124,
+    "reading_time_minutes": 88
+  },
+  "table_of_contents": [
+    {
+      "index": 0,
+      "title": "Préface"
+    },
+    {
+      "index": 1,
+      "title": "I."
+    },
+    {
+      "index": 2,
+      "title": "II."
+    },
+    {
+      "index": 3,
+      "title": "III."
+    },
+    {
+      "index": 4,
+      "title": "IV."
+    },
+    {
+      "index": 5,
+      "title": "V."
+    },
+    {
+      "index": 6,
+      "title": "VI."
+    },
+    {
+      "index": 7,
+      "title": "VII."
+    },
+    {
+      "index": 8,
+      "title": "I."
+    },
+    {
+      "index": 9,
+      "title": "II."
+    },
+    {
+      "index": 10,
+      "title": "III."
+    },
+    {
+      "index": 11,
+      "title": "IV."
+    },
+    {
+      "index": 12,
+      "title": "V."
+    },
+    {
+      "index": 13,
+      "title": "VI."
+    },
+    {
+      "index": 14,
+      "title": "I."
+    },
+    {
+      "index": 15,
+      "title": "II."
+    },
+    {
+      "index": 16,
+      "title": "III."
+    },
+    {
+      "index": 17,
+      "title": "IV."
+    },
+    {
+      "index": 18,
+      "title": "V."
+    },
+    {
+      "index": 19,
+      "title": "VI."
+    },
+    {
+      "index": 20,
+      "title": "I."
+    },
+    {
+      "index": 21,
+      "title": "II."
+    },
+    {
+      "index": 22,
+      "title": "III."
+    },
+    {
+      "index": 23,
+      "title": "IV."
+    },
+    {
+      "index": 24,
+      "title": "V."
+    },
+    {
+      "index": 25,
+      "title": "VI."
+    },
+    {
+      "index": 26,
+      "title": "VII."
+    },
+    {
+      "index": 27,
+      "title": "I."
+    },
+    {
+      "index": 28,
+      "title": "II."
+    },
+    {
+      "index": 29,
+      "title": "III."
+    },
+    {
+      "index": 30,
+      "title": "IV."
+    },
+    {
+      "index": 31,
+      "title": "V."
+    },
+    {
+      "index": 32,
+      "title": "VI."
+    },
+    {
+      "index": 33,
+      "title": "VII."
+    },
+    {
+      "index": 34,
+      "title": "I."
+    },
+    {
+      "index": 35,
+      "title": "II."
+    },
+    {
+      "index": 36,
+      "title": "III."
+    },
+    {
+      "index": 37,
+      "title": "IV."
+    },
+    {
+      "index": 38,
+      "title": "V."
+    },
+    {
+      "index": 39,
+      "title": "VI."
+    },
+    {
+      "index": 40,
+      "title": "VII."
+    },
+    {
+      "index": 41,
+      "title": "VIII."
+    },
+    {
+      "index": 42,
+      "title": "I."
+    },
+    {
+      "index": 43,
+      "title": "II."
+    },
+    {
+      "index": 44,
+      "title": "III."
+    },
+    {
+      "index": 45,
+      "title": "IV."
+    },
+    {
+      "index": 46,
+      "title": "I."
+    },
+    {
+      "index": 47,
+      "title": "II."
+    },
+    {
+      "index": 48,
+      "title": "III."
+    },
+    {
+      "index": 49,
+      "title": "IV."
+    },
+    {
+      "index": 50,
+      "title": "V."
+    },
+    {
+      "index": 51,
+      "title": "VI."
+    },
+    {
+      "index": 52,
+      "title": "VII."
+    },
+    {
+      "index": 53,
+      "title": "I."
+    },
+    {
+      "index": 54,
+      "title": "II."
+    },
+    {
+      "index": 55,
+      "title": "III."
+    },
+    {
+      "index": 56,
+      "title": "IV."
+    },
+    {
+      "index": 57,
+      "title": "V."
+    },
+    {
+      "index": 58,
+      "title": "VI."
+    },
+    {
+      "index": 59,
+      "title": "I."
+    },
+    {
+      "index": 60,
+      "title": "II."
+    },
+    {
+      "index": 61,
+      "title": "III."
+    },
+    {
+      "index": 62,
+      "title": "IV."
+    },
+    {
+      "index": 63,
+      "title": "V."
+    },
+    {
+      "index": 64,
+      "title": "VI."
+    },
+    {
+      "index": 65,
+      "title": "VII."
+    },
+    {
+      "index": 66,
+      "title": "VIII."
+    },
+    {
+      "index": 67,
+      "title": "I."
+    },
+    {
+      "index": 68,
+      "title": "II."
+    },
+    {
+      "index": 69,
+      "title": "III."
+    },
+    {
+      "index": 70,
+      "title": "IV."
+    },
+    {
+      "index": 71,
+      "title": "V."
+    },
+    {
+      "index": 72,
+      "title": "VI."
+    },
+    {
+      "index": 73,
+      "title": "I."
+    },
+    {
+      "index": 74,
+      "title": "II."
+    },
+    {
+      "index": 75,
+      "title": "III."
+    },
+    {
+      "index": 76,
+      "title": "IV."
+    },
+    {
+      "index": 77,
+      "title": "V."
+    },
+    {
+      "index": 78,
+      "title": "VI."
+    },
+    {
+      "index": 79,
+      "title": "I."
+    },
+    {
+      "index": 80,
+      "title": "II."
+    },
+    {
+      "index": 81,
+      "title": "III."
+    },
+    {
+      "index": 82,
+      "title": "IV."
+    },
+    {
+      "index": 83,
+      "title": "V."
+    },
+    {
+      "index": 84,
+      "title": "I."
+    },
+    {
+      "index": 85,
+      "title": "II."
+    },
+    {
+      "index": 86,
+      "title": "III."
+    },
+    {
+      "index": 87,
+      "title": "IV."
+    },
+    {
+      "index": 88,
+      "title": "V."
+    },
+    {
+      "index": 89,
+      "title": "VI."
+    },
+    {
+      "index": 90,
+      "title": "VII."
+    },
+    {
+      "index": 91,
+      "title": "I."
+    },
+    {
+      "index": 92,
+      "title": "II."
+    },
+    {
+      "index": 93,
+      "title": "III."
+    },
+    {
+      "index": 94,
+      "title": "IV."
+    },
+    {
+      "index": 95,
+      "title": "V."
+    },
+    {
+      "index": 96,
+      "title": "I."
+    },
+    {
+      "index": 97,
+      "title": "II."
+    },
+    {
+      "index": 98,
+      "title": "III."
+    },
+    {
+      "index": 99,
+      "title": "IV."
+    },
+    {
+      "index": 100,
+      "title": "V."
+    },
+    {
+      "index": 101,
+      "title": "VI."
+    },
+    {
+      "index": 102,
+      "title": "VII."
+    },
+    {
+      "index": 103,
+      "title": "I."
+    },
+    {
+      "index": 104,
+      "title": "II."
+    },
+    {
+      "index": 105,
+      "title": "III."
+    },
+    {
+      "index": 106,
+      "title": "IV."
+    },
+    {
+      "index": 107,
+      "title": "V."
+    },
+    {
+      "index": 108,
+      "title": "VI."
+    },
+    {
+      "index": 109,
+      "title": "I."
+    },
+    {
+      "index": 110,
+      "title": "II."
+    },
+    {
+      "index": 111,
+      "title": "III."
+    },
+    {
+      "index": 112,
+      "title": "IV."
+    },
+    {
+      "index": 113,
+      "title": "V."
+    },
+    {
+      "index": 114,
+      "title": "VI."
+    },
+    {
+      "index": 115,
+      "title": "I."
+    },
+    {
+      "index": 116,
+      "title": "II."
+    },
+    {
+      "index": 117,
+      "title": "III."
+    },
+    {
+      "index": 118,
+      "title": "IV."
+    },
+    {
+      "index": 119,
+      "title": "V."
+    },
+    {
+      "index": 120,
+      "title": "I."
+    },
+    {
+      "index": 121,
+      "title": "II."
+    },
+    {
+      "index": 122,
+      "title": "III."
+    },
+    {
+      "index": 123,
+      "title": "IV."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Préface",
+      "content": "the PG Online Distributed Proofreaders. Html-version,\n\nthanks to David Widger.\n\n\nJOSEPH ANGLADE\n\n\nPROFESSEUR DE LANGUE ET DE LITTÉRATURE MÉRIDIONALES\n\nA L'UNIVERSITÉ DE TOULOUSE\n\n\nPOÉSIES\n\n\nDU TROUBADOUR\n\n\nPEIRE RAIMON DE TOULOUSE\n\n\nTEXTE ET TRADUCTION\n\n\n(Extrait des _Annales du Midi_, 1919-1920.)\n\n\n_Tiré à cent vingt-cinq exemplaires\n\n        dont dix sur papier de Hollande._\n\n\nJOSEPH ANGLADE\n\n\nPOÉSIES\n\n\nDU TROUBADOUR\n\n\nPEIRE RAIMON DE TOULOUSE\n\n\nJ'avais commencé, en 1916, la publication des poésies de Peire Raimon\n\nde Toulouse dans la revue l'_Auta_, organe de la _Société des\n\nToulousains de Toulouse_. Malgré la bonne volonté de la Société\n\net de son président, les circonstances ne se prêtèrent pas à la\n\ncontinuation de ce travail. Je l'arrêtai donc, après avoir publié\n\nquatre pièces[1]. Cette édition était destinée à des lecteurs non\n\ninitiés, en général, à la philologie romane, mais connaissant leur\n\nlangue maternelle. Il nous faudrait bien décider, en attendant des\n\néditions critiques qui ne paraissent qu'à de longs intervalles et qui\n\nne paraissent pas toutes en France, à avoir des éditions provisoires\n\nde nos troubadours, dont le texte serait emprunté à quelques bons\n\nmanuscrits. Nos troubadours--et je dis _nos_ à dessein--ne\n\nsont pas faits exclusivement pour servir de thème à des exercices\n\nphilologiques. Ce sont des poètes, facilement abordables, et dont la\n\npoésie n'est pas tout à fait éteinte, malgré les ans. Nous ne savons\n\nquand tous nos troubadours, même quelques-uns des plus grands, seront\n\nédités d'une manière critique. Faut-il se résigner jusque-là à\n\nles lire dans les recueils introuvables--et d'un si joli\n\naspect typographique!--de Mahn ou dans le recueil, plus beau\n\ntypographiquement, mais aussi rare, de Raynouard? Nous ne le croyons\n\npas. Une _Bibliothèque Romane_, où seraient publiés les vingt ou\n\ntrente troubadours les plus marquants, serait la bienvenue[2]. Elle\n\nn'empêcherait pas la préparation des éditions critiques, qui arrivent\n\nà leur heure, et elle procurerait de belles joies aux amoureux de\n\nnotre poésie. Notre édition n'a pas d'autre ambition. Nous pensons\n\nqu'elle rendra des services à nos études; et on ne sera plus obligé,\n\nen ce qui concerne Peire Raimon, d'aller chercher les _membra\n\ndisjecta poetae_, et d'un bon poète, dans les recueils les plus\n\ndisparates et les plus rares.\n\n\nNotes:\n\n\n[1] Elles ont paru dans les numéros suivants de l'_Auta_: mars\n\n1916; juillet 1916; janvier 1917; juin 1917. Avec tirage à part. Par\n\nsuite d'une erreur qui n'est pas imputable à l'imprimeur, le titre du\n\ntirage à part portait: Peire _Guilhem_ de Tolosa; un papillon a\n\nrectifié sur la plupart des exemplaires cette erreur. Quatre\n\nautres pièces ont été publiées dans le _Bulletin de la Société\n\nArchéologique du Midi de la France_, nouv. série, no. 45 (Toulouse,\n\n1919); il a été fait de cet article un tirage à part à un très petit\n\nnombre d'exemplaires, dans notre publication intitulée: _A propos\n\ndes troubadours toulousains_, Toulouse, 1917.\n\n\n[2] Le fondateur de la _Bibliothèque Méridionale_, M. Antoine\n\nThomas, écrivait, en 1888, dans la préface de son édition de Bertran\n\nde Born: «Nous nous proposons de faire pour les principaux troubadours\n\nce que nous venons de faire pour Bertran de Born.» Idée et programme\n\nexcellents, qui pourraient être repris.\n\n\nBIOGRAPHIE.\n\n\nLa biographie suivante de Peire Raimon nous a été conservée par cinq\n\nmanuscrits.[3] «Peire Raimonz de Tolosa lo vielz si fo fillz d'un\n\nborzes, e fetz se joglars, et anet s'en en la cort del rei N'Anfos\n\nd'Aragon; e·l reis l'acuilhic e·il fetz grant honor. Et el era savis\n\nhom e sotils, e saup molt ben chantar et trobar, e fetz de bons vers\n\ne de bonas chansos e de bons mots; e estet en la cort del rei, e del\n\nbon comte Raimon de Tolosa, lo sieu seignor, et en la cort d'En\n\nGuilhem de Monpeslier, longa sazon. Pois tolc moiller a Pamias, et\n\nlai definet.»\n\n\n«Peire Raimon de Toulouse, le Vieux, était fils d'un bourgeois. Il\n\nse fit jongleur et s'en alla à la cour du roi Alfonse d'Aragon\n\n(1162-1196); et le roi l'accueillit et lui fit grand honneur. Il était\n\nsavant (en poésie) et subtil; il savait bien chanter et bien trouver,\n\net il fit de bons vers, de bonnes chansons et de bonnes compositions;\n\net il resta à la cour du roi et du bon comte de Toulouse, son\n\nseigneur, et à la cour du seigneur Guilhem de Montpellier, longtemps.\n\nPuis il prit femme à Pamiers, et c'est là qu'il mourut.»\n\n\nSur les cinq manuscrits, deux (_A_ et _B_) remplacent la\n\nmention de la cour du «seigneur de Montpellier» par celle de «de\n\nSaint-Leidier»; le fait n'aurait rien d'invraisemblable, le troubadour\n\nGuilhem de Saint-Leidier ayant été en même temps un grand seigneur qui\n\npouvait avoir une «cour»; cependant, nous croyons que cette mention de\n\n_cour_ fait plutôt penser à Guilhem de Montpellier,[4] à la cour\n\nduquel nous savons que plusieurs troubadours furent accueillis avec\n\nfaveur.[5]\n\n\nLe roi d'Aragon est le roi Alfonse II, mort en 1196, père de Pierre\n\nII. Quant au seigneur de Toulouse, il s'agit vraisemblablement de\n\nRaimon VI (1194-1222).\n\n\nOn remarquera le détail qui nous est donné sur le mariage[6] de Peire\n\nRaimon. Quelque défiance qu'on ait, à bon droit, pour les biographies\n\ndes troubadours, il ne semble pas qu'on puisse mettre en doute la\n\nvaleur de ce renseignement. On remarquera de plus qu'il n'est fait\n\naucun allusion, dans la biographie, au séjour de Peire Raimon en\n\nItalie; ce silence est surprenant, si les biographies sont dues à un\n\ntroubadour qui séjournait en Italie, ou même à un Italien; mais il est\n\nvraisemblable qu'une partie des biographies a été composée dans le\n\nMidi de la France, assez loin de l'Italie; celle-ci nous paraît être\n\ndu nombre.\n\n\nSi la biographie mérite quelque créance, c'est en Aragon que se\n\nserait passée la première partie de la vie de Peire Raimon; quelques\n\nallusions à ce séjour se retrouvent dans son oeuvre. Un roi d'Aragon\n\nest cité, IV, str. 6 et VIII, str. 6; une allusion à un amour dont\n\nl'objet est à Barcelone se trouve ch. X, str. 7. Ces chansons\n\nparaissent d'ailleurs avoir été composées en dehors de l'Aragon, à\n\nmoins que la formule d'envoi ne soit, comme il arrive souvent, une\n\nfiction du poète.\n\n\nEn ce qui concerne Toulouse, Peire Raimon a écrit quelques chansons\n\nen l'honneur d'une noble dame qui y habitait. Les deux chansons\n\nsur l'amour médecin paraissent être du nombre (ch. II et VI). La\n\n_Comtessa_, qui est citée dans cette dernière, ne peut guère être\n\nque la comtesse de Toulouse, mais laquelle?\n\n\nNous pensons que le «bon seigneur Raimon» est le comte Raimon VI\n\n(1194-1222). La comtesse pourrait être «Éléonore», soeur du roi\n\nd'Aragon Pierre II, la dernière des cinq épouses du comte Raimon VI;\n\nle contrat qui l'unissait au comte de Toulouse fut fait en 1200, mais,\n\nà cause de la jeunesse de la princesse, le mariage n'eut lieu que\n\ntrois ou quatre ans plus tard (_Hist. Gén. Lang_., VI, 190).[7]\n\nCeci nous mènerait, en ce qui concerne Peire Raimon, en 1204 environ.\n\n\nTrois manuscrits de la biographie[8] sur cinq, donnent à Peire Raimon\n\nle surnom de «lo Vieil», le Vieux; ce qui laisserait supposer qu'il y\n\na eu un troubadour du même nom, mais plus jeune. Chabaneau est disposé\n\na l'admettre, en faisant remarquer que l'hypothèse de deux troubadours\n\nexpliquerait mieux une partie de l'oeuvre de Peire Raimon[9].M. Bertoni\n\naprès avoir été d'abord de cet avis, est aujourd'hui d'une opinion\n\ncontraire[10] et nous partageons sa manière de voir. L'hypothèse de\n\ndeux troubadours de la même famille n'a rien d'impossible; nous en\n\navons deux de la famille de Saint-Didier, l'aïeul, Guilhem, et le\n\npetit-fils Gauseran; et nous avons deux Bertran de Born, le père et\n\nle fils. Mais, en ce qui concerne Peire Raimon, l'epithete de _vieil_\n\nne suffit pas pour lui attribuer un fils ou tout autre parent, poète\n\ncomme lui. Nous expliquerons plutôt cette désignation en disant que\n\npour l'auteur de la biographie, qui peut-être écrivait assez tard après\n\nla mort de Peire Raimon, ce troubadour lui paraissait appartenir à\n\nl'ancienne génération.\n\n\nNostredame appelle Peire Raimon _Lou Proux_, le Preux[11]; ce mot\n\nse trouve à la suite du nom du troubadour dans le ms. _f_.\n\n\nLes renseignements que donne Nostredame sur Peire Raimon sont un\n\nmélange de vérités et de mensonges. Ainsi: «Plusieurs belles chansons»\n\nde Peire Raimon auraient été adressées à une noble dame de Toulouse\n\nqui s'appelait _Jausserande del Puech_, nom inconnu dans\n\nl'onomastique des troubadours, et d'autres auraient été composées en\n\nl'honneur d'une «gentil femme» de Provence, de la maison de Codollet.\n\nLa seule donnée vraisemblable qui se trouve dans la biographie de\n\nNostredame, c'est la date de 1225, qui serait celle de la mort de\n\nPeire Raimon. Quant à l'imitation que Pétrarque aurait faite de l'une\n\nde ses poésies, dans son sonnet _Benedetto sia_ (Son. XLVII),\n\nil s'agit d'une chanson attribuée par un manuscrit (P) à Giraut de\n\nBorneil et par un autre (C) à Peire Vidal.\n\n\nLe séjour de Peire Raimon à Montpellier doit se placer avant 1202,\n\ndate de la mort de Guilhem VIII (1177-1202); mais nous ne pouvons pas\n\npréciser davantage.\n\n\nLa tenson de Peire Raimon avec Bertran de Gourdon doit se placer avant\n\nl'année 1211, date à laquelle le seigneur de Gourdon fit hommage de\n\nsa ville an roi Philippe-Auguste.[12] Il n'est pas probable que Peire\n\nRaimon fût encore, à cette date-là, dans le Midi de la France, où la\n\nCroisade était déchaînée depuis 1209. Cependant on pourrait admettre\n\nque Peire Raimon, ayant quitté le comte de Toulouse à cette époque,\n\nfut pendant quelque temps l'hôte de ce seigneur besogneux avec lequel\n\nil tensonna.\n\n\nPÉRIODE ITALIENNE.--La période «italienne» de la vie de Peire Raimon\n\nnous paraît pouvoir être reportée à la fin de sa vie. On peut fixer\n\ncertaines dates de ses chansons aux environs des années 1218 et 1221.\n\nIl est vraisemblable que notre troubadour quitta la France soit avant\n\nla tourmente albigeoise, soit, par exemple, après la bataille de Muret\n\n(1213). C'est dans la première période de son séjour en Italie que\n\nnous placerions la composition de son _descort_: le «comte\n\nvaillant de Savoie» auquel il est dédié ne peut être que Thomas 1er,\n\nqui fut aussi chanté par Pistoleta.[13] Ce prince (1178-1233), nous dit\n\nla _Généalogie des comtes de Savoie_, «était jeune et beau et\n\ndansait et chantait mieux que nul autre».[14]\n\n\nPeire Raimon fut ensuite en relations avec la cour d'Este, si on en\n\njuge par l'envoi de la chanson _Totztemps auch dir_ (no. XVI de\n\nnotre édition). Béatrix d'Este, à qui est adressée cette chanson,\n\nétait née en 1191; elle était la fille d'Azzo VI d'Este. Un\n\nchroniqueur du temps nous dit qu'elle était _mira pulcritudine\n\ncorporis et virtute multipliciter decorata_.[15] Après avoir passé\n\nsa jeunesse, ajoute le chroniqueur, _in pompis et favoribus seculi,\n\nin ornamentis et vanitatibus diversi generis, sicut mos est nobilium\n\net secularium feminarum_, elle prit le voile entre 1218 et 1220 et\n\nmourut en 1226. Telle est la femme extrêmement belle et vertueuse que\n\nchanta Peire Raimon et que chantèrent aussi Rambertino Buvalelli,\n\nAimeric de Pégulhan, Guilhem de la Tour et Falquet de Romans.[16] La\n\ncomposition de Peire Raimon serait d'avant 1218.\n\n\nC'est vers la même époque que Peire Raimon fut en relations avec un\n\nautre prince italien protecteur des troubadours, Guilhem de Malaspina,\n\nmort en 1220. La chanson _Pos vei parer la flor_ lui est adressée\n\net son nom se retrouve dans la chanson _Ara pus iverns_ (str.\n\nIV). La chanson _Si com celuy_ est adressée à Conrad d'Auramala,\n\nmarquis de Malaspina, qui fut aussi chanté par Guilhem de la Tour;[17]\n\nla pièce est, au plus tôt, de 1221, date où Conrad succède à Guilhem\n\nde Malaspina; il est vraisemblable qu'elle n'est pas de beaucoup\n\npostérieure à cette date.\n\n\nC'est aux environs de 1221 (mais avant cette date) que nous ramène la\n\nchanson[18] adressée par Peire Raimon au troubadour italien Rambertino\n\nBuvalelli, originaire de Bologne, mort en 1221.\n\n\nLes strophes, assez obscures, d'Uc de Saint-Cyr sur Peire Raimon ont\n\nété sans doute écrites en Italie après 1220, date à laquelle Uc de\n\nSaint-Cyr alla dans ce pays[19]. Je crois, avec les auteurs de\n\nl'édition de ce troubadour, qu'il s'agit de notre poète. Je ne sais pas\n\nd'ailleurs à quoi Uc de Saint-Cyr fait exactement allusion, dans ses\n\nplaisanteries sur Peire Raimon; il est question de «racines» et de\n\n«syllabes» que Peire Raimon se vante de savoir trouver mieux qu'aucun\n\nautre troubadour. Quelques-unes de ses poésies sont écrites avec une\n\ncertaine recherche de la difficulté, dans les rimes ou dans les mots,\n\nen particulier les pièces _Ara pus iverns_ et _Pos vezem_\n\n[20]; mais je ne sais si tout cela est suffisant pour justifier les\n\nplaisanteries d'Uc de Saint-Cyr et expliquer ses allusions; je croirais\n\nplutôt que les unes et les autres s'adressent à des poésies perdues de\n\nPeire Raimon, des pièces de circonstance, comme les deux pièces de son\n\ncritique. La seconde (XXIX) rappelle d'ailleurs par le ton et, en partie\n\npar le mètre, la tenson de Peire Raimon et de Bertran de Gourdon.\n\n\nQuand notre poète revint-il dans le Midi pour se marier à Pamiers?\n\nC'est ce que nous ne savons pas. Nous connaissons les dates\n\napproximatives de plusieurs des chansons écrites en Italie, mais il\n\nn'est pas possible d'établir, même approximativement, de quelle date\n\nsont ses premières compositions. Une date _ante quam_ nous est\n\nfournie seulement par la mort d'Alfonse II d'Aragon, 1196; d'autre\n\npart la date de 1221 (avènement de Conrad de Malaspina, mort de\n\nRambertino Buvalelli) nous paraît marquer à peu près la fin de\n\nl'activité poétique de Peire Raimon en Italie.\n\n\nIl est probable que ses premières poésies sont antérieures à 1196,\n\nmais de combien? Nous n'avons aucun moyen de fixer ce point. Diez\n\ndonne comme dates de son activité poétique 1170-1200[21], mais ce\n\nsont des dates erronées; Chabaneau[22] donne les mêmes dates, mais\n\nen marquant, entre parenthèses, qu'il les emprunte à Diez. Il me\n\nsemble qu'en faisant remonter les premières compositions de Peire\n\nRaimon aux environs de 1190 et en plaçant les dernières aux environs\n\nde 1121-1222 nous ne serons pas trop éloignés de la vérité. Peire\n\nRaimon aurait pu, entre cinquante et soixante ans, revenir dans le\n\nMidi et prendre femme à Pamiers.\n\n\nPeire Raimon emploie deux fois le _senhal_ d'_Ereubut_.\n\n_Ereubut_ se trouve dans les chansons: _Enquera·m vai\n\nrecalivan_ et _Non puese suffrir_. D'après l'envoi de la\n\npremière, il semble que nous ayons affaire à un jongleur; mais,\n\nd'après la seconde, il semble qu'il s'agisse d'une dame; dans\n\nla première des deux chansons elle est chargée de présenter la\n\ncomposition du poète à la «noble comtesse», qui pourrait être la\n\ncomtesse de Toulouse; dans la seconde pièce, c'est, au contraire, le\n\npoète qui a reçu «des prières et une demande» de faire une chanson.\n\nNous ne savons si ce _senhal_ désigne une des épouses de Raimon\n\nVI ou une de celles de Raimon V.\n\n\nBartsch attribue à Peire Raimon vingt compositions; mais celle qui\n\nporte le numéro 2, dans sa liste, est une partie du numéro 9, et son\n\nnuméro 11 correspond à 330, 12, et appartient à Peire Bremon. Nous la\n\ndonnons en appendice.\n\n\nLe ms. _a_ attribue à Peire Raimon la pièce _Mas camjat ai de\n\nfar chanso_ (qui est d'Elias de Barjols; Bartsch, 132, _8_).\n\n\nDeux mss., _Sc_, lui attribuent la pièce _Ses alegratge_,\n\nqui est de Guilhem Augier (Bartsch, 205, _5_).\n\n\nLe ms. _N_ lui attribue la pièce unique de Jordan de l'Isla de\n\nVenaissi (Bartsch, 276, _1_). De même _T_ lui attribue la\n\npièce unique de Peire Bremon lo Tort (Bartsch, 331, _1_).\n\n\nEnfin le ms. _M_ lui attribue la célèbre chanson de R. de\n\nBarbezieux, _Tuit demandon qu'es devengud' Amors_.\n\n\nNostredame attribue à notre troubadour la chanson _Non es savis ni\n\ngaire ben apres_, qui est donnée à P. Vidal par le ms. _c_\n\net à Giraut de Borneil par le ms. _P_, ainsi qu'une chanson qui\n\naurait commencé ainsi:\n\n\n    _Amour, si ton poder es tal,\n\n    Ensins que cad'un ho razona_,\n\n\net qui paraît être de l'invention de Nostredame.[23]\n\n\nPeire Raimon mérite une bonne place à côté des grands noms de la\n\npoésie méridionale. Moins original que Peire Vidal, et moins varié, au\n\nmoins dans l'état actuel de son oeuvre, qu' Aimeric de Pégulhan, il\n\npeut aller cependant de pair avec ses deux compatriotes. Il a, comme\n\nla plupart des troubadours, le culte de la forme et il nous laisse\n\nvoir, à plusieurs reprises, quelle est sa conception de l'art\n\npoétique; mais il ne tombe pas dans un excès ridicule et puéril, comme\n\nd'autres troubadours. Il a de la grâce et de l'élégance, et plus d'une\n\nfois laisse percer sa sensibilité. Ses descriptions du printemps,\n\nquoique conventionnelles, sont fraîches et pittoresques. Son oeuvre\n\nest, dans l'ensemble, remarquable par la finesse de la pensée et la\n\ngrâce du style. Et c'était un vrai poète celui qui savait si bien dire\n\ncomment le coeur des poètes se consume en chantant (_Atressi com\n\nla candela_) et si bien exprimer comment naît la poésie, non des\n\naspects les plus variés de la nature, mais de la sincérité du coeur\n\n(_S'ieu fos aventuratz_); par là il se rapproche de celui qui\n\nreste pour nous le maître de la poésie méridionale, de Bernard de\n\nVentadour.[24]\n\n\nNotes:\n\n\n[3]_ABIKN_(2); Chabaneau, _Hist. Gén. Lang_., X, 271.\n\n\n[4] Guilhem VIII, 1172-1202.\n\n\n[5] Cf. Ch. Brun, _Les troubadours à la cour des seigneurs de\n\nMontpellier_. (Extr. du _Félibrige latin_, Montpellier, 1893.)\n\n\n[6] _N_(2): _tolc moiller a paruias_...\n\n\n[7] Éléonore a été nommée par les troubadours suivants: Guilhem de\n\nBerguedan, Raimon de Miraval, Cadenet, Gaubert de Puycibot, Elias de\n\nBarjols, Arnaut Catalan, Aimeric de Belenoi, Aimeric de Pegulhan;\n\npeut-être aussi est-ce Éléonore qui est désignée par _reina_ dans\n\nla pièce de Guilhem de Baux, _Gr_., 209, 2. Cf. sur tout ceci: F.\n\nBergert, _Die von den Trobadors gefeierten Damen_, p. 26.\n\n\n[8] _A B N_(2); les autres mss. contenant la biographie sont\n\n_I_ et _K_, qui proviennent de la même source. La\n\nbiographie de N(2) est publiée dans _l'Archiv. f. d. Studium d. n.\n\nSprachen_, t. CII (1899), p. 204.\n\n\n[9] «Il paraît difficile que toutes les pièces qui portent ce nom\n\naient été composées par la même personne.» _Hist. Gén. Lang_.,\n\nX, 373, n. 2. La difficulté disparaît, en ne faisant pas commencer\n\ntrop tôt--et il n'y a aucune raison pour le faire--la carrière poétique\n\nde Peire Raimon.\n\n\n[10] _Trovatori d'Italia_, p. 14.\n\n\n[11] _Vies_, éd. Chabaneau-Anglade, p. 48. Le ms. _D_, dans la\n\nsuscription de la chanson _Encara·m vai recalivan_, appelle Peire\n\nRaimon _lo Gros_; Bertoni, _Trovatori d'Italia_, p. 14, n. 2.\n\n\n[12] Chabaneau, _Hist. Gén. Lang_., X, 340.\n\n\n[13] Dans sa chanson: _Mainta gen fatz meravilhar_.\n\n\n[14] _Genealogia comitum Sabaudiae_, c. 66; cité par Bertoni,\n\n_Trovatori d'Italia_, p. 8, n. 3.\n\n\n[15] _Rerum ital. Script_., VIII, 720, in Bergert, _Die...\n\ngefeierten Damen_, p. 81 sq.\n\n\n[16] Bergert, _Die... gefeierten Damen_, p. 81 sq.\n\n\n[17] Bertoni, _Trovatori d'Italia_, p. 13.\n\n\n[18] _De fin' amor son tuit mei pensamen_, no. V de notre édition.\n\n M. Bertoni a remarqué que le ms. _D_ (_D_(a)), d'origine\n\nitalienne, attribue deux pièces de Peire Raimon à R. Buvalelli (_Pos\n\nvei parer; Us novels pensamens_). Il est probable que le manuscrit\n\nprimitif dont s'est servi l'auteur du chansonnier contenait des poésies\n\ndes deux troubadours; ce n'est pas le seul hasard qui les avait réunies.\n\n\n[19] Ed. Jeanroy et De Grave, XXVII, XXIX; cf. pp. 161, 204.\n\n\n[20] Jeanroy, De Grave, _Op. laud_., p. 204.\n\n\n[21] Diez, _Leben und Werke_, p. 92.\n\n\n[22] Chabaneau, _Hist. Gen. Lang_., X, 373.\n\n\n[23] Nostredame, _Vies_, éd. Chabaneau-Anglade, pp. 48 et 312.\n\n\n[24] On trouvera, à la fin de notre édition, la pièce du poète valencien\n\nAuzias March imitée de Peire Raimon. Voir sur cette imitation: A. Pagès,\n\n_Auzias March et ses prédécesseurs_, p. 286 sq.\n\n\nBIBLIOGRAPHIE\n\n\nANGLADE (J.).--_A propos des troubadours toulousains_. Toulouse,\n\n1917. (Extr. du _Bulletin de la Société Archéologique du Midi de la\n\nFrance_, nouvelle série, no. 45. Toulouse, 1919, p. 195-245.)\n\n\nANGLADE (J.).--_Quatre poésies du troubadour Peire Raimon de\n\nTolosa_. Toulouse, 1917.\n\n\nAPPEL (C.)--_Provenzalische Inedita aus Pariser Handschriften_.\n\nLeipzig, 1892 (et _Altfr. Bibliothek_, t. XIII). P. 244, _Ar ai\n\nben d'Amor apres_; p. 246, _Pois lo bels temps_; p. 248, _Si\n\ncom l'enfans_.\n\n\nBARBIERI (G.-M.).--_Origine della poesia rimata_. Modène, 1790.\n\nP. 129.\n\n\nBARTSCH (K.).--_Chrestomathie provençale_. 6e éd. Marbourg, 1904.\n\nC. 95, _Atressi com la candela_.\n\n\nBASTERO.--_La Crusca provenzale_. Rome, 1724. P. 80 et 91.\n\n\nBERGERT (FRITZ).--_Die von den Trobadors genannten oder gefeierten\n\nDamen_. Halle, 1913. (_Beihefte zur Zeitschrift from. Phil_.,\n\nXLVI.) P. 62, 63, 65, 83, 117.\n\n\nBERTONI (G.).--_Rambertino Buvalelli_. Dresde, 1908.\n\n(_Gesellschaft für rom. Literatur_, no. 17.) P. 11.\n\n\nBERTONI (G.).--_I Trovatori d'Italia_. Modène, 1915.\n\n\nCHABANEAU (C.).--_Biographies des Troubadours_, in _Hist. Gén.\n\nLang_., éd. Privat, X, 271, 373.\n\n\nCHABANEAU (C.) et ANGLADE (J.).--_Essai de reconstitution du\n\nchansonnier de Sault_, in _Romania_, 1911, p. 297.\n\n\nDIEZ (F.).--_Leben und Werke der Troubadours_. P. 97, 267.\n\n\n_Histoire littéraire de la France_, XV, 457; XVII, 419; cf.\n\nencore XVIII, 641. La notice du tome XV est de Ginguené; celles des\n\ntomes XVII et XVIII sont d'Emeric-David.\n\n\nJEANROY (A.) et S. DE GRAVE.--_Poésies de Uc de Saint-Circ_.\n\nToulouse, 1913. (BIBL. MÉRID., 1re série, t. XV.) P. 161, 204.\n\n\nKOLSEN (A.).--_Dichtungen der Troubadours_. Halle, 1916, 1917\n\n(2 fascicules parus). P. 132, _Era pus l'iverns_, texte et\n\ntraduction).\n\n\nMAHN (C.-A.-F.).--_Gedichte der Troubadours_. Berlin, 1856-1873.\n\n(Trois pièces: _Ara pos iverns_, no. 790, 791; _Lo dous\n\nchan_, no. 611; _Pos vezem boscs_, no. 942.)\n\n\nMAHN (C.-A.-F.).--_Die Werke der Troubadours_. Tome I, Berlin,\n\n1846. P. 133-147. Neuf poésies complètes empruntées au _Choix_ et\n\nau _Lexique Roman_ de Raynouard, avec des fragments plus ou moins\n\nimportants de cinq autres tirées des mêmes recueils.\n\n\nMAUS (F.-W.).--_Peire Cardenal's Strophenbau_. Marbourg, 1884.\n\n(_Ausgaben und Abhandlungen_... no. V.) P. 24, 63.\n\n\nMILÁ Y FONTANALS.--_De los Trovadores en España_. Barcelone,\n\n1861. P. 108.\n\n\nMILLOT.--_Histoire littéraire des Troubadours_. Paris, 1774; 3\n\nvol. P. 1, 114 et 1,442 (B. de Gourdon).\n\n\nNOSTREDAME (Jean de).--_Les vies des plus célèbres et anciens poètes\n\nprovençaux_. Ed. CHABANEAU-ANGLADE, p. 50, 166, 177, 224, 241, 270,\n\n290, 311.\n\n\nRAYNOUARD (F.).--_Choix de poésies originales des troubadours_.\n\nParis, 1816-1821; 6 vol. (T. III, p. 120-132, cinq pièces: _Atressi\n\ncom la candela_; _Enquera'm vai recalivan_; _No·m puesc\n\nsufrir_; _Pessamen ai e cossir_; _Pus vey parer la flor_.\n\nTome V (fragments): _Ar ai ben d'Amor apres_, p. 325; _Si com\n\ncelui qu'a servit_, p. 323; _Si com l'enfans_, p. 326.). Même\n\ntome, p. 102, B. de Gourdon (fragment); _ibid_., autres fragments\n\nassez nombreux.\n\n\nRAYNOUARD.--_Lexique Roman_. Paris, 1844; 6 vol. Le tome\n\n1 contient un _Nouveau Choix des poésies originales des\n\nTroubadours_ (p. 1-580). P. 334, _Us novels pessamens_; p.\n\n513, _Ab son gai plan e clar_.\n\n\n[DE ROCHEGUDE].--_Parnasse Occitanien_. P. 29. Une seule pièce:\n\n_Us novels pessamens m'estai_.\n\n\nTASSONI.--_Considerazioni sopra le rime del Petrarca_. Modène,\n\n1609. P. 356.\n\n\nMUSIQUE.--Les manuscrits ne nous ont conservé qu'une mélodie de\n\nPeire Raimon; c'est celle de sa célèbre chanson: _Atressi com la\n\ncandela_. Cette mélodie se trouve dans le ms. _G_, f(o) 52(b).\n\nCf. J. Beck, _Melodien der Troubadours_, Strasbourg, 1908, p. 33.\n\n\nI [No. 1 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Ab son gai plan e car\n\n    Fas descort leu et bon,\n\n    Avinen per chantar\n\n    E de bella razon;                        4\n\n    E s'eu pogues trobar\n\n    A leis, cui Dieus bes don!\n\n    Chausimen, ges no·m par\n\n    Agues ren si ben non.                    8"
+    },
+    {
+      "title": "II.",
+      "content": "Car cela m'a conqes\n\n    On son tuit faich preisan,\n\n    E anc tan bella res\n\n    No fo on vir e m'an;             12\n\n    Car son fin pres cortes\n\n    Puoja e creis e s'espan;\n\n    E s'eu ren far saubes\n\n    Qe il venghes en talan!             16"
+    },
+    {
+      "title": "III.",
+      "content": "Ben fora rics e gais,\n\n    Ses pen' e ses dolor,\n\n    Si cela cui bons prez nais\n\n    Mi volgues dar s'amor,                  20\n\n    Q'aisi·l sui fis e verais\n\n    E ses cor trichador;\n\n    Et a cen tan e mais\n\n    Q'eu vos die de valor.                  24"
+    },
+    {
+      "title": "IV.",
+      "content": "Tan m'agenza\n\n    Sa parvenza\n\n    Que d'al no consire;\n\n    Penedenza                               28\n\n    Et abstinenza\n\n    Ai c'altra non mire;\n\n    Mantenenza\n\n    Ab sovinenza                            32\n\n    Ai gran del martire.\n\n    Car plivensa\n\n    Ses fallensa\n\n    Que ja no traire,                       36"
+    },
+    {
+      "title": "V.",
+      "content": "Farai sos mans a mon poder,\n\n    Car ren mai\n\n    Tan no·m plai,\n\n    Sitot mi fai doler;                     40\n\n    E s'eu n'ai\n\n    Un dolz bai,\n\n    Ren no·m pot dan tener.                 43"
+    },
+    {
+      "title": "VI.",
+      "content": "Bella domna, aiaz chausimen\n\n    De mi q'eu non ai mais secors,\n\n    Et ja per malvais parlamen\n\n    No·us bais ni 'streing vostras lauzors. 47"
+    },
+    {
+      "title": "VII.",
+      "content": "Descors, vai al conte valen\n\n    De Savoia, car sa valors\n\n    Meillora tot jorn e no men,\n\n    Sos ries pres val mai dels meillors.    51\n\n\nI.--Avec une mélodie gaie, facile et rare, je fais un descort léger\n\net bon, avenant pour chanter et sur un beau thème; et si je pouvais\n\ntrouver pitié auprès de ma dame (--puisse Dieu la combler de\n\nfaveurs!--), il me semble que je n'en obtiendrais que du bien.\n\n\nII.--Car celle-là m'a conquis, dont toutes les actions sont si\n\ndistinguées; et jamais n'exista si bel objet où que je me tourne ni où\n\nque j'aille; car son noble mérite et sa courtoisie montent, croissent\n\net se répandent; si je savais faire quelque chose dont elle eût envie!\n\n\nIII.--Je serais riche et heureux, sans peine et sans douleur, si celle\n\nen qui bonne renommée prend naissance me voulait donner son amour, car\n\nje suis pour elle un (amant) si parfait et si sincère et sans coeur\n\ntrompeur. Elle a cent fois et plus de valeur que je ne vous dis.\n\n\nIV.--Tant me plaît son image que je ne pense pas à d'autre objet; je\n\nme repens et je m'abstiens d'en regarder une autre; je continue à me\n\nsouvenir longuement de mon martyre; car je promets sans tromperie que\n\njamais traître.\n\n\nV.--Je ferai ses commandements de tout mon pouvoir, car nulle autre\n\nchose ne me plaît tant, quoiqu'elle me fasse souffrir; et si j'en ai\n\nun doux baiser, rien ne peut me causer de dommage.\n\n\nVI.--Belle dame, ayez pitié de moi, car je n'ai pas d'autre secours;\n\net jamais par de mauvaises paroles je n'abaisse ni ne diminue vos\n\nlouanges.\n\n\nVII.--Descort, va-t-en auprès du vaillant comte de Savoie, car sa\n\nvaleur augmente tous les jours et ne se dément pas: son noble mérite\n\nvaut mieux que celui des meilleurs.\n\n\nNotes:\n\n\nLe texte que nous publions est celui de Raynouard, _Lexique\n\nRoman_, I, 513; nous donnons quelques leçons des mss. _G_ et\n\n_c_.\n\n\nV. 10 prisan _Rayn_. preisan _G_. V. 12 Zous iur e man\n\n_G_ sous iur eus man _c_. V. 34. Lire _qu'a_? c-à-d.\n\ncar elle a? V. 36 Qe je traire nol (le vers précédent manque) _c_\n\nQe ia _non_ traire _G_. V. 47 bais _Rayn_. baiss\n\n_c_. V. 49, 51 valor, meillor _Rayn_. valors... del meillors\n\n_G_ valors... dels milhors _c_.\n\n\nV. 48-49. Le comte de Savoie est le comte Thomas I (1188-1233).\n\n\nII [No. 3 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Ar ai ben d'amor apres\n\n    Cum sap de son dart ferir;\n\n    Mas cum pueys sap gent guerir,\n\n    Enqueras no sai ieu ges.                4\n\n    Lo metge sai ben qui es,\n\n    Que·m pot sols salut donar,\n\n    Mas que·m val, s'ieu demostrar\n\n    Ja non l'aus ma mortal playa?           8"
+    },
+    {
+      "title": "II.",
+      "content": "Morrai per mon nescies,\n\n    Quar no·l vau mostrar e dir\n\n    La dolor que·m fai sofrir,\n\n    Dom no·m pot cosselhar res             12\n\n    Mas quan sos gais cors cortes,\n\n    Qu'ieu tan desir e tenc car\n\n    Que non l'aus merce clamar,\n\n    Tal paor ai que·l desplaya.            16"
+    },
+    {
+      "title": "III.",
+      "content": "Gran talan ai cum pogues\n\n    De ginols yes lieys venir\n\n    De tan luenh cum hom cauzir\n\n    La poiria, que vengues                 20\n\n    Mas juntas far homenes,\n\n    Cum sers a senhor deu far,\n\n    Et en ploran merceyar\n\n    Ses paor de gent savaya.               24"
+    },
+    {
+      "title": "IV.",
+      "content": "Bona dona on totz bes\n\n    Vezem granar e florir,\n\n    Pus tan vos am eu·s dezir,\n\n    Merce vos clam que merces              28\n\n    Mi valha e ma bona fes,\n\n    Qu'ieu serai de bon celar\n\n    E plus fis, si Dieus m'ampar,\n\n    Que no fo Landrix a N'Aya.             32"
+    },
+    {
+      "title": "V.",
+      "content": "Ja no·m digua lipaudes\n\n    Nulhs hom per mon cor auzir,\n\n    (Qu'ieu l'en sabrai gent mentir),\n\n    Que pus trahit me·n agues,             36\n\n    En crides pueys mon fades.\n\n    Mas tan suy greus a proar,\n\n    Qu'ans poiratz mi·l bureus far\n\n    De presset dir que fos saya.           40"
+    },
+    {
+      "title": "VI.",
+      "content": "Mon Diaman, que tenc car,\n\n    Vuelh de ma chanso pregar\n\n    Qu'a Toloza la·m retraya.              43\n\n\nI.--Maintenant j'ai bien appris d'Amour comment il sait frapper de son\n\ndard; mais comment ensuite il sait gentiment guérir, cela je ne le\n\nsais pas encore. Je connais le médecin qui seul peut me donner la\n\nsanté, mais à quoi cela me sert-il, si je n'ose lui montrer ma plaie\n\nmortelle?\n\n\nII.--Je mourrai par ma sottise, car je ne vais pas lui montrer et dire\n\nla douleur qui me fait souffrir; personne ne peut me donner un remède\n\ncontre cette douleur sauf la dame gaie et courtoise, que j'aime et que\n\nje chéris tant que je n'ose lui crier pitié, tellement j'ai peur que\n\ncela lui déplaise.\n\n\nIII.--J'ai un grand désir de pouvoir venir à genoux vers elle, d'aussi\n\nloin qu'on pourrait la voir, de venir vers elle mains jointes, lui\n\nfaire hommage, comme un serf doit le faire à son seigneur, et en\n\npleurant implorer sa pitié sans crainte des mauvaises gens.\n\n\nIV.--Bonne dame où nous voyons tous biens naître comme graines et\n\nfleurs, puisque je vous aime et vous désire tant, je vous crie pitié;\n\nque pitié et ma bonne foi me viennent en aide auprès de vous, car je\n\ngarderai bien mon secret et je vous serai plus fidèle--que Dieu me\n\nprotège!--que Landric ne le fut à Aye.\n\n\nV.--Qu'aucun homme ne me dise de flatterie pour entendre mon coeur\n\n(_c.-à-d_. le fond de ma pensée, de mon coeur) (--car je saurai\n\nlui dire gentiment un mensonge!--) pour que après qu'il m'aurait trahi\n\nil criât ensuite ma sottise. Mais je suis si dur à l'épreuve que vous\n\npourriez me faire dire plutôt que la bure de _presset_ est de la\n\nlaine.\n\n\nVI.--Je veux prier Mon Diamant, que j'aime tant, de réciter ma chanson\n\nà Toulouse.\n\n\nNotes:\n\n\nTexte du ms. _C_, d'après C. Appel, _Provenzalische Inedita aus\n\nPariser Handschriften_, p. 244. La chanson n'existe que dans\n\nce manuscrit; les trois premières strophes se retrouvent dans le\n\n_Breviari d'Amor_, v. 31564. Aux vers 12 et 39 nous avons\n\nremplacé la graphie _ll_ par _lh_.\n\n\nV. 32. Landric et Aya: Aye d'Avignon est l'héroïne d'une chanson de\n\ngeste française; Landric est le héros d'une chanson qui ne nous est\n\npas parvenue. V. 40. _Presset_ ou _perset_, sorte de laine,\n\nopposée souvent chez les troubadours à _saia_.\n\n\nIII [No. 4 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Era pus hyverns franh los brotz\n\n    E pareysson florit li ram,\n\n    E·l gibres e·l neus son a floxs\n\n    Pels termes e pels playssadencx,              4\n\n    Be·s tanh [doncs l] qu'ieu me lueng d'enueg.\n\n    Chantan e no pareys ges pecx,\n\n    Sitot s'es braus et enuios lo temps,\n\n    Pus d'aitals digz sai far chanso ni vers.     8"
+    },
+    {
+      "title": "II.",
+      "content": "Ben sai parelhar e far motz\n\n    Plas e clars, d'un semblan d'estam;\n\n    Mas que val? qu'eras non es locx,\n\n    E·ls tersols mal azautz ramencx               12\n\n    Be sai que son de bon art vueg,\n\n    De trics qu'an afilatz lurs becx;\n\n    E·ls pros cortes [adreg I] fan plors e gems,\n\n    Quar pretz es mortz e cazuts en evers.   16"
+    },
+    {
+      "title": "III.",
+      "content": "Jurar vos puesc per Santa Crotz\n\n    Qu'un non vey que pretz entier am,\n\n    Que d'avareza·ls art lo focx;\n\n    E tug lor fait son de fadencx,                20\n\n    E mant hom pert lo gran e·l glueg;\n\n    Doncx per que·s fai quecx sorts ni secz\n\n    Pel mal [astre I] que los te vuetz e sems\n\n    De tots bos ayps don elh van ras e ters?      24"
+    },
+    {
+      "title": "IV.",
+      "content": "Ah! Malvestatz, non prendas totz\n\n    Los ricx baros en ton liam,\n\n    Ni Malespina ges non tocx\n\n    Per ren, qu'ans t'es ben mielhs que·t trencx, 28\n\n    Qu'a totz jors vuelh que sos bes pueg.\n\n    E doncs, Valors, ja no l'abnecz.\n\n    Quar ieu aug dir que totz bos faitz essems\n\n    Renhon ab lui, per qu'es bes si·ls sufers.    32"
+    },
+    {
+      "title": "V.",
+      "content": "D'aver la bella suy tan glotz\n\n    Cui pessan dezir, don ai fam,\n\n    Que no·m platz tan nul autre jocx;\n\n    Ni no vuelh aver Foys ni Brencx,              36\n\n    Si·lh platz que no·m meta en refueg\n\n    Tan cum lieys; e si mos fis precx\n\n    No·m val, mal fas, Amors, quar aissi·m prems,\n\n    Que fis amans adreitz sui totz convers.       40"
+    },
+    {
+      "title": "VI.",
+      "content": "E pos tan fort mas nien consecs,\n\n    Be·m deurias far un ben calque temps\n\n    Entre .C. mals, que del dan tu·m malmers.\n\n\nI.--Maintenant que l'hiver brise les branches, que les rameaux\n\nparaissent fleuris et que le givre et la neige sont répandus à flocons\n\nsur les tertres et les haies, il convient que je m'éloigne d'ennui en\n\nchantant; et je ne parais pas maladroit, quoique le temps soit rude et\n\nennuyeux, puisque sur de tels propos je sais faire vers et chansons.\n\n\nII.--Je sais bien accoupler les mots et les rendre unis et clairs,\n\nsemblables à une chaîne (de tisserand); mais à quoi cela me sert-il?\n\nMaintenant ce n'est pas le moment, et les tiercelets mal élevés,\n\nvivant dans les branches, je sais qu'ils sont dépourvus de bon art,\n\net qu'ils ont, en se dissimulant, aiguisé leurs becs; et les preux\n\ncourtois et bien élevés font pleurs et gémissements, car Mérite est\n\nmort et tombé à la renverse.\n\n\nIII.--Je puis vous jurer par la Sainte Croix que je n'en vois pas\n\nun seul qui aime le mérite parfait, car le feu d'avarice les brûle;\n\ntoutes leurs actions sont celles d'hommes fous et maint homme perd le\n\ngrain et la paille; donc pourquoi chacun se fait-il sourd et aveugle\n\npar la mauvaise chance qui les fait vides et dénués de toutes bonnes\n\nqualités dont ils sont privés et dénués?\n\n\nIV.--Ah! Méchanceté, ne prends pas tous les puissants barons dans\n\nton lien, et ne touche en rien à Malaspina; il vaut mieux que tu te\n\nbrises; car je veux que son bien croisse tous les jours. Et toi,\n\nVaillance, ne l'abandonne pas, car j'entends dire que toutes les\n\nnobles actions réunies vivent auprès de lui: aussi est-il juste que tu\n\nles soutiennes.\n\n\nV.--Je suis si désireux d'avoir la belle que je désire et dont j'ai si\n\nfort envie (faim) qu'aucune autre joie ne me plaît autant; et j'aime\n\nmieux la posséder que d'avoir Foix ni Brens, s'il lui plaît de ne pas\n\nme dédaigner (=de m'aimer); et si mes sincères prières ne me secourent\n\npas, vous faites mal, Amour, de me tourmenter ainsi, car je suis un\n\namant parfait tout tourné vers elle.\n\n\nVI.--Et puisque, malgré ces durs tourments, tu n'obtiens rien, Amour,\n\ntu devrais bien pendant quelque temps me faire du bien, parmi cent\n\nmaux, car du dommage c'est toi qui es coupable.\n\n\nNOTES\n\n\nTexte de _C_ (Mahn, _Gedichte_, no. 790) sauf les cinq\n\nderniers vers et quelques leçons empruntées à _I_ (Mahn,\n\n_Ged_., 791). La pièce se trouve encore dans les mss. _D_(a)\n\net _K_.\n\n\nV. 2 _florit I, floritz C_. V. 10 _en ram C, etam I_; je\n\nlis _estam_, chaîne du tisserand. V. 12 _eus ren bocx C, eus\n\ntersols malazautz I_; je lis _e·ls tersols_. V. 14 _Ve nicx\n\nC, uetrics I_; l. _Phénix_? ou _de trics_?\n\n\nV. 19 _que davas ren C, d'avareza I_. V. 21 _e mas hom per los\n\ngrans els glotz C, ema hom pert lo gran el glueg I_; cf. Levy,\n\n_Suppl. W_. IV, 138-139, et Raynouard, _Lex. Rom_., 479, où\n\nest cité le présent exemple; la même opposition de _gran_ et\n\nde _glueg_ se retrouve dans la pièce de Peire Bremon attribuée\n\nfaussement à Peire Raimon, _Pois lo bels temps_; le mot\n\n_glueg_ s'y présente sous la forme _glui_. V. 24 _rars CI\n\nsers C_. V. 25 _A m. I De m. C_. V. 29 _lor bes I_. V. 30\n\n_nols CI_. V. 32 _sil I, sils C_. V. 34 _don ai fam I, ai\n\ngran fam C_. V. 35 _nous C, non I_. V. 36 _Berens I_. V.\n\n37 _refocx C, refueg I_; la forme ordinaire du mot est _refug,\n\nrefui_. V. 39 _nom val om. C_. V. 40-42 dans _I_\n\nseulement.\n\n\nNOTE SUR LES MOTS-RIMES\n\n\n  I        II       III       IV          V\n\n\nbrotz     motz     crotz     totz      glotz (_o_ fermé)\n\nram       estam    am        liam      fam\n\nflox      locs     focs      tocs      joc (_o_ ouvert)\n\nencs      encs     encs      trencs    Brencs\n\nenocs     nec      glotz     pueg      refogs\n\npecs      becs     secs      abnecs    precs     consecs (_e_ ouvert)\n\ntemps     gems     sems      essems    prems     prems\n\nvers      vers     ters      supers    convers   mers\n\n\nTelles sont les rimes dans _C_: on voit qu'il y a des différences\n\ndans la cinquième rime de chaque vers. La correction est facile et est\n\nindiquée par le texte de _I_, qui donne des rimes en -_ueg_:\n\nnous écrivons donc _enueg, vueg, glueg, pueg, refueg_.\n\n\nIV [No. 5 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Atressi com la candela\n\n    Que si meteissa destrui\n\n    Per far clartat ad autrui,\n\n    Chant, on plus trac greu martire\n\n    Per plazer de l'autra gen.                  5\n\n    E car a dreit escien\n\n    Sai qu'eu fatz folatge,\n\n    C'ad autrui don alegratge\n\n    Et a mi pen'e tormen,\n\n    Nulha res, si mal m'en pren,                10\n\n    No·m deu planher del damnatge."
+    },
+    {
+      "title": "II.",
+      "content": "Car ben conosc per uzatge\n\n    Que lai on Àmors s'aten\n\n    Val foudatz en loc de sen.\n\n    Doncs pos tant am e dezire                  15\n\n    La gensor qu'el mon se mir\n\n    Per mal que·m deia venir\n\n    No·s tanh que·m recreia;\n\n    Car on plus m'auci d'enveia,\n\n    Plus li dei ma mort grazir,                 20\n\n    Si·l dreit d'amor voill seguir,\n\n    Qu'estiers sa cortz non plaideia."
+    },
+    {
+      "title": "III.",
+      "content": "Doncs pos aisso que·m guerreia\n\n    Conosc que m'er a blandir,\n\n    Ab honrar et ab servir                      25\n\n    Li serai hom e servire;\n\n    E s'aissi·m vol retener,\n\n    Vec me tot al seu plazer,\n\n    Fin, franc, ses bauzia.\n\n    E s'ab aital tricharia                      30\n\n    Posc en sa cort remaner,\n\n    El mon non a nulh saber\n\n    Per qu'eu camjes ma folia."
+    },
+    {
+      "title": "IV.",
+      "content": "Lo jorn que sa cortezia\n\n    Mi mostret e·m fetz parer                   35\n\n    Ab un amoros plazer\n\n    Que·m fetz me cujet aucire:\n\n    Qu'ins el cor m'anet sazir,\n\n    E'l cor mi mes un dezir\n\n    Que m'auci d'enveia;                        40\n\n    Et eu, com fols que foleia,\n\n    Fui leus ad enfoletir,\n\n    Car cujei so per albir\n\n    Qu'eu eis no·m pens qu'esser deia.          45"
+    },
+    {
+      "title": "V.",
+      "content": "Si per nulh' autra que seia\n\n    Mi pogues plus enriquir,\n\n    Be·m n'agr'a cor a partir;\n\n    Mas com plus fort m'o consire,\n\n    En tant quant lo mons perpren,\n\n    Non sai una tant valen                     50\n\n    De negun paratge;\n\n    Per qu'eu el seu senhoratge\n\n    Remanh tot vencudamen,\n\n    Pos non trob melhuramen\n\n    Per fors'o per agradatge.                  55"
+    },
+    {
+      "title": "VI.",
+      "content": "Cansos, al port d'alegratge\n\n    On Pretz e Valors s'aten,\n\n    Al Rei que sap et enten,\n\n    M'iras en Arago dire\n\n    C'anc mais tant jauzens non fui            60\n\n    Per fin' amor com er sui;\n\n    C'ab rems et ab vela\n\n    Poj'ades so que no·s cela;\n\n    E per so non fatz gran brui\n\n    Ni volh c'om sapcha de cui                 65\n\n    M'o dic, plus que d'un' estela."
+    },
+    {
+      "title": "VII.",
+      "content": "Mas vos am, ges un' amela\n\n    No·m pretz, car ab vos non sui.\n\n    Pero als ops vos estui\n\n    Que·m siatz governs e vela.                70\n\n\nI.--Semblable à la chandelle, qui se détruit elle-même pour faire\n\nclarté aux autres, je chante, plus je souffre un dur martyre, pour le\n\nplaisir d'autrui. Et quoique je sache parfaitement que je fais folie,\n\ncar aux autres je donne allégresse et à moi peine et tourment,\n\npersonne, s'il m'en arrive du mal, ne doit me plaindre de mon malheur.\n\n\nII.--Car je sais bien par expérience que là où Amour porte son\n\nattention folie vaut mieux que sens; donc puisque j'aime et désire\n\ntant la plus belle qui puisse se voir dans le monde, quelque mal qui\n\npuisse m'en arriver, il ne convient pas que je cesse de l'aimer; car\n\nplus elle me fait mourir d'envie, plus je lui dois être reconnaissant\n\nde ma mort, si je veux suivre le droit d'amour, car sa cour ne plaide\n\npas autrement.\n\n\nIII.--Donc, puisque je reconnais que je devrai flatter ce\n\n(_c'est-à-dire_ celle) qui me combat, je serai, en l'honorant\n\net la suivant, son homme-lige et son serviteur; et si elle veut me\n\nretenir dans ces conditions, me voici tout entier à son plaisir,\n\nfidèle, franc, sans tromperie. Et si par un tel subterfuge je puis\n\nrester en sa cour, il n'y a au monde aucun savoir pour lequel je\n\nvoulusse changer ma folie.\n\n\nIV.--Le jour où elle me montra sa courtoisie et me la témoigna par\n\nl'accueil amoureux qu'elle me fit, elle pensa me tuer; car au fond\n\ndu coeur elle alla me saisir et me mit au coeur un désir qui me tue\n\nd'envie; et moi, comme un fou qui fait des folies, je devins fou\n\nrapidement, car je pensai dans mon esprit ce que moi-même je ne crois\n\npas qui doive arriver.\n\n\nV.--Si par nulle autre femme qui soit je pouvais obtenir plus de\n\nbonheur, j'aurais bien à coeur de me séparer d'elle; mais plus je\n\nréfléchis en moi-même, dans tout ce que le monde embrasse je n'en\n\nsais aucune, de quelque noble origine qu'elle soit, qui l'égale en\n\ndistinction; aussi je reste en sa seigneurie, complètement vaincu,\n\npuisque je ne trouve aucune amélioration de gré ou de force.\n\n\nVI.--Chanson, au port d'allégresse, vers lequel Mérite et Valeur se\n\ntournent, tu iras dire en Aragon, au Roi qui sait et qui comprend, que\n\njamais je ne fus aussi heureux d'amour parfait comme maintenant; car\n\navec les rames et la voile monte maintenant ce qui ne peut pas se\n\ncacher; et pour cela je ne mène pas grand bruit et je ne veux pas\n\nqu'on sache de qui je parle pas plus que d'une étoile.\n\n\nVII.--Depuis (?) que je vous aime, je ne m'estime pas une amande, car\n\nje ne suis pas près de vous. Cependant je vous cache pour que en cas\n\nde besoin vous me serviez de gouvernail et de voile.\n\n\nNotes:\n\n\nTexte de Bartsch, _Chrestomathie provençale_, 6e éd., col. 95-98.\n\nNous écrivons au v. 67 _un' amela_ au lieu de _ana mela_.\n\n\nOn remarquera an vers 22 une allusion à la «cour» (_cortz_) qui\n\npourrait donner quelque créance à la légende des «Cours d'amour». Il\n\nne peut pas y avoir autre chose qu'une métaphore.\n\n\nJ'ai trouvé, dans les papiers de Chabaneau, la note suivante, que je\n\ntranscris: «_Lou Brusc_, du 18 avril 1880; traduction en vers\n\nfrançais de _Atressi com la candela_, par Ch. D. de la _Société\n\ndes Langues Romanes_; à citer dans mon travail sur Richard de\n\nBarbezieux.» Je ne sais qui est Ch. D.\n\n\nLe ms. T attribue cette chanson à Rigaut de Barbezieux; ce dernier\n\nétait célèbre par sa recherche des comparaisons et plusieurs pièces\n\nqui commençaient par _Aissi com, Atressi com_, lui ont été\n\nattribuées de ce chef. On les trouvera énumérées dans notre édition de\n\nRigaut de Barbezieux, actuellement sous presse.\n\n\nCette pièce est une des plus célèbres de Peire Raimon; elle se trouve\n\ndans dix-neuf manuscrits.\n\n\nV [No. 6 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "De fin'amor son tot mei pensamen\n\n    E mei desir e mei meillor jornal\n\n    E pres d'Amor voill aver mon ostal,\n\n    Per so car fis ab fin cor finamen               4\n\n    Li·m sui renduz, setot ben no m'acoil;\n\n    E ges per tan de leis servir no·m toil,\n\n    Setot son greu e perillos li fais\n\n    Qe fai als seus soven Amors sofrir.             8"
+    },
+    {
+      "title": "II.",
+      "content": "Pero m'a fait Amors tan d'onramen\n\n    Qe mai e mels ab ferm cor natural\n\n    Am qe nuls hom; ni non dic qom ni qal,\n\n    Tot per paor de malvais parlamen;              12\n\n    Mas lo dolz ris e la faz e·ill beil oil\n\n    E sa faichos plaisenz de bel escoil\n\n    E·l gai solaz e·l gen parlar no·m lais\n\n    Mostra[r] quals es a cel qi sap chausir.       16"
+    },
+    {
+      "title": "III.",
+      "content": "E car tan son vostre ric faiç valen,\n\n    Humils temen vos port amor coral;\n\n    Q'el mon non a amador tan leial\n\n    Qom eu vos sui, dompna, ses falimen.           20\n\n    E sai qe faiz ardimen et orguoil,\n\n    S'eu dic qe·us am, per qe·s taing q'eu en moil\n\n    Mos oilz soven, car anc de mi no·s tais\n\n    Q'en tan ric loc per amar mon cor vir.         24"
+    },
+    {
+      "title": "IV.",
+      "content": "Las! non pot hom retener son talen\n\n    Q'ades no an lai don plus fort li cal,\n\n    E si non a mais dolor e gran mal,\n\n    E seg ades son mal ad escien;                  28\n\n    E sapiaz, domna, qe om plus mi doil\n\n    Ades mi creis l'amor[s] e·1 bes qe·us voil;\n\n    C'us dolz pensar[s] plaisenz del cor me nais\n\n    Qe noit ni jor no·s pot de vos partir.         32"
+    },
+    {
+      "title": "V.",
+      "content": "No·us aus merce clamar mo chausimen,\n\n    Car de valer no·us trob par ni egal;\n\n    Pero qan hom als seus socor e val,\n\n    Bella domna, fai son pro veramen.             36\n\n    E car tenez de pretz l'auzor capdoil\n\n    E de beltat, ades mais q'eu non soil\n\n    Vos voil servir, et no·m part ni·m biais\n\n    De vostr'onor amar e car tenir.               40"
+    },
+    {
+      "title": "VI.",
+      "content": "Domna valens, mais vos désir e·us voilh\n\n    Que tot lo mon, qar fin'amors m'atrais\n\n    Vostre bel cors don me lau de cauçir.         43"
+    },
+    {
+      "title": "VII.",
+      "content": "Ser Rambertis de Buvalel acoil\n\n    Prez et valor et anc jorn no s'estrais\n\n    De granz solaz e de joi mantenir.             46\n\n\nI.--Vers l'amour parfait vont toutes mes pensées et mes désirs et mes\n\nmeilleures journées, et près d'Amour je veux bâtir ma maison, parce\n\nque je me suis rendu à lui, sincère et d'un coeur fidèle, simplement;\n\nquoiqu'il m'accueille mal, je ne veux pourtant cesser de le servir,\n\nbien qu'ils soient pénibles et dangereux les tourments qu'Amour fait\n\nsouvent souffrir à ses fidèles.\n\n\nII.--Cependant Amour m'a fait tant d'honneur que j'aime d'un coeur sûr\n\net sincère plus et mieux qu'aucun autre homme; si je ne dis pas qui\n\nj'aime, c'est surtout par peur de la médisance; pourvu que son doux\n\nsourire, son visage et ses beaux yeux, ses manières agréables et\n\ndistinguées, sa gaieté, son aimable entretien ne me laissent pas\n\nmontrer qui elle est aux connaisseurs qui savent choisir!\n\n\nIII.--Vos actions sont si nobles et si belles qu'humble et craintif je\n\nvous porte un amour sincère; car il n'y a pas au monde d'amant aussi\n\nloyal ni aussi sûr que je le suis envers ma dame. Et je sais que je\n\npèche par hardiesse et orgueil, si je dis que je vous aime; aussi\n\nconvient-il que j'en mouille souvent mes yeux, car jamais je n'aurais\n\ndû tourner mon coeur si haut pour aimer.\n\n\nIV.--Hélas! on ne peut retenir son désir et l'empêcher d'aller là où\n\nil veut énergiquement; aussi n'en retire-t-il que douleur et grand mal\n\net il cherche aussitôt et sciemment son dommage. Et sachez, dame, que\n\nplus je me plains, plus s'accroissent aussitôt l'amour et le bien que\n\nje vous veux; car un doux et agréable penser me naît au fond du coeur,\n\nqui nuit ni jour ne peut se séparer de vous.\n\n\nV.--Je n'ose implorer votre grâce et votre pitié, car je ne trouve\n\npersonne qui vous soit égale en distinction; cependant quand on\n\nsecourt les siens et qu'on leur vient en aide, belle dame, on\n\ntravaille vraiment à son avantage; et comme vous tenez du mérite et de\n\nla beauté le sommet le plus élevé, je veux vous servir toujours plus\n\nque je n'ai coutume de le faire; et je ne cesserai d'aimer votre\n\nhonneur et de le tenir cher.\n\n\nVI.--Noble dame, je vous désire et vous veux plus que tout au monde,\n\ncar amour parfait m'a entraîné à remarquer votre beau corps, choix\n\ndont je me loue.\n\n\nVII.--Le seigneur Rambertin de Buvalel donne asile au mérite et à la\n\nvaleur et jamais il ne cessa de maintenir grande gaîté et grande joie.\n\n\nNotes:\n\n\nTexte du ms. G, publié par G. Bertoni [Note: _Il Canzoniere\n\nprovenzale della Biblioteca Ambrosiana_ R. 71 Sup. Dresde, 1912, p.\n\n157. (_Gesellschaft für romanische Literatur_, t. XXVIII.)],\n\nsauf aux vers: 5 _setot_ (ms. _setat_), 8, où nous lisons\n\n_Amors_; 15, où nous lisons _nom_ avec c; 16, où nous\n\nlisons _mostrar_; 29, _qe om_ (ms. _qom_); et 41, où\n\nnous lisons _Ser Rambertis_ au lieu de _Ver R'bertis_. (La\n\ncorrection _Ser_ a été déjà faite par M. Bertoni, _Rambertino\n\nBavalelli_, p. 11.)\n\n\nDe plus, nous avons modifié le premier vers de la str. V, où nous\n\nadoptons la leçon du ms. c.\n\n\nLa deuxième _tornada_ n'existe pas dans le ms. _G_; nous\n\nl'empruntons au ms. c.\n\n\nRamberti de Buvalel est un troubadour italien du début du treizième\n\nsiècle qui a exercé dans sa patrie de hautes fonctions administratives\n\net judiciaires (podestat de Milan, Mantoue, Vérone). Ses poésies ont\n\nété publiées en dernier lieu par M.G. Bertoni [Note: _Rambertino\n\nBuvalelli trovatore bolognese e le sue rime provenzali_. Dresde,\n\n1908. (_Gesellschaft für romanische Literatur_, t. XVII.)]. Il\n\nfut peut-être en relations avec le troubadour toulousain Aimeric de\n\nPégulhan. Il mourut à Vérone en 1221.\n\n\nVI [No. 7 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Enquera·m vai recalivan\n\n    Lo mals d'amor qu'avi'antan;\n\n    Qu'una dolor mi sent venir\n\n    Al cor d'un angoyssos talan,                4\n\n    E·l metges que·m pogra guerir\n\n    Vol me per traitura tenir,\n\n    Aissi cum l'autre metge fan.                7"
+    },
+    {
+      "title": "II.",
+      "content": "E pogra·m guerir ses afan,\n\n    Que ja non traysses pauc ni gran;\n\n    Pero sitot mi fai languir,\n\n    En re no·lh port pejor talan;              11\n\n    Mas si m'alongues de morir,\n\n    Ma vida for'al sieu servir,\n\n    E ma mort conosc a son dan.                14"
+    },
+    {
+      "title": "III.",
+      "content": "E ja no·m desesper per tan,\n\n    Qu'anc de re non passei son man,\n\n    Ni·m vuelf per nulh autre dezir;\n\n    De so gart que·lh n'er benestan;           18\n\n    Qu'Ipocras, so ai auzit dir,\n\n    Ditz que metges non deu fallir\n\n    De nulh cosselh qu'om li deman.            21"
+    },
+    {
+      "title": "IV.",
+      "content": "Doncx, pus pres m'a en son coman,\n\n    Ja no m'anes plus languian,\n\n    Ni no·m volgues del tot aucir;\n\n    Quar no·s cug, si be·m ri ni·m chan,       25\n\n    Qu'o puesca longamen sufrir;\n\n    Ni no·s poira tostemps cubrir\n\n    La dolors qu'ins el cor s'espan.           28"
+    },
+    {
+      "title": "V.",
+      "content": "Mas ieu atendray merceyan,\n\n    Sirven e sufren e preyan,\n\n    Tro que denh mos precx eyssauzir;\n\n    Mas d'una ren vauc trop doptan,           32\n\n    Si·m fai trop dieta tenir;\n\n    Si·m sen lo cor afrevolir\n\n    Que paor ai l'arma s'en an.               35"
+    },
+    {
+      "title": "VI.",
+      "content": "Mas si·m fezes un bel semblan\n\n    Que m'anes mon cor adoussan,\n\n    Enquer cugera revenir;\n\n    Quar s'ieu muer, colpa n'aura gran;       39\n\n    Per so deu guardar e chauzir.\n\n    E s'en cor m'a pro a tenir,\n\n    Per Dieu no m'o anes tarzan.              42"
+    },
+    {
+      "title": "VII.",
+      "content": "Que·l febles cors vai sospiran,\n\n    Quar conois qu'ieu mezeis m'engan,\n\n    E·m vey tot dia magrezir;\n\n    Aissi·m va·l cors e·l sens camjan,       46\n\n    Com si l'arm' en devi' issir;\n\n    Tan fort m'anguoysson li sospir,\n\n    Qu'a pauc tro al derrier no·m van.       49"
+    },
+    {
+      "title": "VIII.",
+      "content": "A Mon Ereubut prec e man\n\n    Qu'a la pro Comtessa prezan\n\n    Fassa ma chansonet' auzir;\n\n    E si a nul mot malestan,                53\n\n    No m'o deu hom a mal tenir:\n\n    Que tant ai d'ira e de cossir\n\n    Que re no sai que·m vau parlan.         56\n\n\nI.--Le mal d'amour que j'avais antan va encore se ravivant; car je me\n\nsens venir au coeur une douleur et un désir angoissants, et le médecin\n\nqui pourrait me guérir veut me traiter par la diète, comme font les\n\nautres médecins.\n\n\nII.--Et il pourrait me guérir sans peine, de manière que je ne souffre\n\nni peu ni prou; cependant, quoiqu'il me fasse vivre dans la douleur,\n\nje ne lui en veux nullement; mais s'il retardait ma mort, ma vie\n\nserait à son service et je reconnais que ma mort lui causerait du\n\ntort.\n\n\nIII.--Et jamais cependant je ne me désespère, car en rien je n'ai\n\njamais enfreint ses ordres et nul autre désir ne me fait changer;\n\nqu'il prenne garde à sa bonne renommée (_m. à m_.> à ce qui lui\n\nsera convenable): car Hippocrate, à ce que j'ai entendu dire, dit\n\nqu'un médecin ne doit pas se tromper, quelque conseil qu'on lui\n\ndemande.\n\n\nIV.--Donc, puisqu'il m'a pris en son pouvoir, qu'il n'aille plus\n\nme faire souffrir et qu'il veuille bien ne pas me faire mourir\n\ncomplètement; car qu'il ne pense pas, quoique je rie et que je chante,\n\nque je puisse le supporter longtemps; et elle ne pourra pas se cacher\n\ntoujours la douleur qui se répand dans le coeur.\n\n\nV.--Mais je patienterai en suppliant, en servant, souffrant et priant,\n\njusqu'à ce qu'il daigne écouter mes prières; mais je crains bien une\n\nchose, s'il me fait observer la diète trop longtemps: je sens que mon\n\ncoeur s'affaiblit au point que j'ai peur que l'âme s'en aille.\n\n\nVI.--Mais s'il me faisait un bon accueil qui me mît du baume au coeur,\n\nencore je penserais pouvoir me remettre; car si je meurs, il sera bien\n\ncoupable; aussi doit-il prendre garde et faire attention. Et s'il a le\n\ndésir de me secourir, pour Dieu! qu'il ne tarde pas à le faire!\n\n\nVII.--Car mon faible coeur va soupirant; il reconnaît que je me\n\nfourvoye et il me voit maigrir tous les jours; ainsi mon intelligence\n\net mon corps vont changeant, comme si l'âme devait sortir du corps; et\n\nmes soupirs m'angoissent au point que peu s'en faut qu'ils ne viennent\n\nau dernier.\n\n\nVIII.--Je prie Mon Ereubut et je lui mande qu'il fasse entendre ma\n\nchansonnette à la noble Comtesse honorée; et s'il s'y trouve quelque\n\nmot malséant, qu'on ne m'en tienne pas rigueur; car j'ai tant de\n\ntristesse et de souci que je ne sais ce que je dis.\n\n\nNotes:\n\n\nTexte de Raynouard, _Choix_, III, 130; reproduit dans Mahn,\n\n_Werke der Troubadours_, I, 134-136. Au v. 18 nous changeons\n\n_qu'il_ en _que·lh_.\n\n\nDiez (_Leben und Werke_, 2e éd., p. 100) voit une obscénité dans\n\nle dernier vers de la strophe VII, où _derrier_ signifierait\n\n_le derrière_: et il en rapproche le mot _malestan_ du v.\n\n53; nous ne sommes pas de son avis. Le mot _malestan_ pourrait\n\ns'appliquer aux termes médicaux _dieta, traitura; derrier_ ne\n\nparait pas avoir eu en ancien provençal le sens de _derrière_.\n\n\nLa mention de Mon Ereubut, qui était peut-être un jongleur, se\n\nretrouve dans la chanson _Non puesc sofrir_.\n\n\nLa Comtesse pourrait être la comtesse de Toulouse.\n\n\nOn remarquera, au point de vue de la syntaxe, l'emploi fréquent, dans\n\ncette pièce, du verbe _anar_ avec un gérondif: il n'y en a pas\n\nmoins de huit exemples.\n\n\nHippocrate (v. 19) est cité plusieurs fois dans des traités\n\ndidactiques (cf. notre _Onomastique des Troubadours_), mais non\n\ndans des textes lyriques.\n\n\nVII [No. 8 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Lo dolz chan qu'au de la calandra\n\n    Qu'en preisen chant'e la douchor\n\n    Del temps novel e·l fin'odor       3\n\n    De las flors mi dona talent\n\n    De chantar; per qu'eu eissamen\n\n    Voill un novell vers comensar             6\n\n    Per conortar mi meteis, car Amor\n\n    Mi destreing fort e·m dona grant dolor;\n\n    Mas eu ades chant e·m deport e·m joc.     9"
+    },
+    {
+      "title": "II.",
+      "content": "E fatz si com la salamandra,\n\n    Quar es de tan fera fredor\n\n    Que viu en foc e la chalor              12\n\n    Esteing si que no·il notz nient;\n\n    Et eu per bon entendimen\n\n    Estreing cho que·m degra bruslar;      15\n\n    E s'al cujar no·m faill, mais amillior.\n\n    Non ac home el mont tant grant seingnor\n\n    Com eu aurai quant midons veira loc.     18"
+    },
+    {
+      "title": "III.",
+      "content": "Pero qui·m dones Alixandra\n\n    No volgra camiar leis qu'es flor\n\n    De Jovent et e de Joi sabor              21\n\n    Per nuill'autra; qu'en mon vivent\n\n    No pogra trobar tan plazent\n\n    Ni cointa d'amoros parlar;              24\n\n    Per qu'eu amar la voill, quar en valor\n\n    M'a fait entendre e pojar en honor,\n\n    Et encara, si·ll platz, donar mi poc.    27"
+    },
+    {
+      "title": "IV.",
+      "content": "Que zo que mais val qu'Alixandra\n\n    E meill de nuill'autra ricor\n\n    S'amor que·m tolra duel e plor           30\n\n    E·m donara joi covenent\n\n    E·m fara estar baut e jauzent;\n\n    Donc me dei eu ben alegrar               33\n\n    E mais onrar leis cui ai socor...\n\n\nI.--Le doux chant que j'entends de l'alouette qui chante en ce moment,\n\nla douceur du printemps et la fine odeur des fleurs me donnent envie\n\nde chanter; aussi je veux aussitôt commencer un nouveau _vers_\n\npour me réconforter moi-même; car Amour me presse fortement et me\n\ndonne grande douleur; et cependant toujours je chante, je me réjouis\n\net folâtre.\n\n\nII.--Et je fais comme la salamandre, qui est d'une «froideur» si rude\n\nqu'elle vit dans le feu et qu'elle éteint la flamme sans en avoir nul\n\ndommage; ainsi moi, par bonne affection, j'étreins ce qui devrait me\n\nbrûler; et il me semble que, si je ne me trompe pas, je m'améliore. Il\n\nn'y a pas eu au monde de si grand seigneur, comme je le serai quand\n\nma dame en verra l'occasion (_ou plutôt_: quand il plaira à ma\n\ndame).\n\n\nIII.--Cependant, si on me donnait Alexandrie, je ne voudrais pas\n\nchanger pour nulle autre celle qui est fleur de Jeunesse et saveur de\n\nJoie; car de mon vivant je ne pourrais en trouver d'aussi agréable, ni\n\nd'aussi aimable en paroles amoureuses: aussi je veux l'aimer, car elle\n\nm'a fait gagner en valeur et monter en honneur; et s'il lui plaît,\n\nelle peut encore me faire d'autres dons.\n\n\nIV.--Car ce qui vaut mieux qu'Alexandrie et mieux que nulle autre\n\nrichesse, c'est son amour qui m'enlèvera deuil et pleurs, qui me\n\ndonnera joie convenable et me fera rester gai et joyeux. Aussi dois-je\n\nbien me réjouir et honorer davantage celle dont j'ai la faveur...\n\n\nNotes:\n\n\nTexte du ms. _I_, d'après Mahn, _Gedichte der Troubadours_,\n\nno. 611. Le texte ne se retrouve que dans le ms. _K_ (apparenté à\n\n_I_) et dans _D_(a). Voici les principales corrections que\n\nnous avons faites au texte de _I_:\n\n\nV. 5, Eissamen _manque dans le ms_. V. 6, _ms_. neu. V. 8,\n\n_ms_. grat nat dolor. V. 12, _ms_. es foc en la ch. V. 13,\n\n_ms_. estreing si que uoïl uotz ment. J'adopte la correction de\n\nM. Jeanroy, _Annales_, XXXI, 220. V. 15, _ms_. que debra\n\nbrusar. V. 16, _ms_ et al.\n\n\nAu v. 27, la rime paraît avoir amené la forme _poc_ an lieu de\n\n_pot_. La 4(o) strophe est incomplète; il y a anacoluthe dans les\n\ncinq premiers vers; mais on peut l'éviter en lisant _me_ an lieu\n\nde _quem_, au v. 30.\n\n\nVIII [No. 9 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "No·m puesc sufrir d'una leu chanso faire,\n\n    Pus prec e man n'ai de Mon Ereubut;\n\n    Qu'apres lo dan e·l mal qu'ieu n'ai agut,\n\n    Coven qu'ab joy m'esbaudey e m'esclaire:\n\n    Quar segon l'afan                          5\n\n    Qu'ai sufert tan gran,\n\n    Non agra razo\n\n    Qu'ieu cantes oguan;\n\n    Mas quar fin'amors\n\n    Mi mostr'e m'ensenha                        10\n\n    Que·ls mais no·m sovenha\n\n    E torn en mon chan,\n\n    Farai derenan\n\n    Un non chantaret prezan.                 14"
+    },
+    {
+      "title": "II.",
+      "content": "Anc per ren al de mon major maltraire\n\n    De tan bon cor non desirey salut,\n\n    Mas sol qu'a lieys cui Amors m'a rendut\n\n    Pogues ancar servir, petit o guaire;\n\n    Quar tot l'autre dan                       19\n\n    Non prezera un guan,\n\n    S'ieu moris o no,\n\n    Sol leis pogues tan\n\n    Servir que l'honors\n\n    Ar parra que·m fenha                       24\n\n    Per qu'ela m'estenha\n\n    Que non digu' enan;\n\n    Mas al sieu coman\n\n    Sui e serai on qu'ieu m'an.                28"
+    },
+    {
+      "title": "III.",
+      "content": "Las! que faray, pois non li aus retraire,\n\n    Ans quan la vey, estau a ley de mut;\n\n    E per autruy no vuelh sia saubut,\n\n    S'aqui mezeis sabi' estre emperaire.\n\n    A Dieu mi coman                        33\n\n    Cum vau trebalhan;\n\n    Qu'ab la sospeisso\n\n    N'aurai atretan,\n\n    Quar tan grans ricors\n\n    Non cug que·m n'avenha;                38\n\n    Mas vas on qu'ieu teinha,\n\n    Fis e ses enguan\n\n    L'amarai quad'an,\n\n    De jorn en jorn melluyran.                 42"
+    },
+    {
+      "title": "IV.",
+      "content": "Que·l cors e·l cor e·l saber e·l vejayre\n\n    E l'ardimen e·l sen e la vertut\n\n    Ai mes en lieys e non ai retengut\n\n    Ni pauc ni pro per negun autr'afaire;\n\n    Ni als non deman,                        47\n\n    Ni vau deziran,\n\n    Mas que Dieus me do\n\n    Vezer l'or'e l'an\n\n    Que sa grans valors\n\n    Tan vas mi·s destrenha                52\n\n    Qu'en mos bratz la seinha,\n\n    E qu'ieu, en baizan,\n\n    Tot al mieu talan\n\n    Remir son cors benestan.                56"
+    },
+    {
+      "title": "V.",
+      "content": "Ai! franca res, cortez' e de bon aire,\n\n    Merce n'ajatz que veus m'aissi vencut;\n\n    Qu'aissi vos ren lo basto e l'escut,\n\n    Cum selh que plus non pot lansar ni traire:\n\n    Vostr' huelh belh truan                61\n\n    Que tot mon cor m'an\n\n    Emblat, non sai co,\n\n    No·m van confortan.\n\n    Ja castels ni tors\n\n    No·us cugetz que·s tenha,                66\n\n    Pus gran forsa·l venha,\n\n    Si secors non an\n\n    Sylh que dins estan:\n\n    Mas a mi vai trop tarzan.                70"
+    },
+    {
+      "title": "VI.",
+      "content": "Esta chansos vuelh que tot dreg repaire\n\n    En Arago, al rey cuy Dieus ajut;\n\n    Que per lui son tug bon fan mantengut,\n\n    Plus que per rey que anc nasquet de maire:\n\n    Qu'aissi·s vai trian                75\n\n    Sos pretz, e s'espan\n\n    Sobr'autres que so,\n\n    Cum sobre·l verjan\n\n    Fai la blanca flors:\n\n    Per qu'ieu on que·m venha                  80\n\n    Ades crit sa senha,\n\n    E vau razonan\n\n    Son pretz, e non blan\n\n    Duc ni rey ni amiran.                      84"
+    },
+    {
+      "title": "VII.",
+      "content": "Et ab ma chanso,\n\n    Enans qu'alhor an,\n\n    M'en vau lai de cors\n\n    On Jois e Pretz renha,                     88\n\n    E vuelh que l'aprenha,\n\n    Cobletas viulan,\n\n    E puois en chantan\n\n    De qual guiz' hom la·i deman.              92\n\n\nI.--Je ne puis m'empêcher de faire une chanson légère, puisque j'en\n\nai reçu prière et commandement de mon _Ereubut_; car après le\n\ndommage et le mal que j'en ai eus, il convient qu'avec joie je me\n\nréjouisse et je m'éclaire; car après le chagrin si grand que j'ai\n\nsouffert, je n'aurais pas de raison pour chanter cette année; mais\n\npuisque Amour parfait me démontre et m'enseigne que je ne dois pas me\n\nsouvenir des maux et que je revienne à mon chant, je ferai aussitôt\n\nune nouvelle chansonnette prisée.\n\n\nII.--Jamais pour rien autre je ne désirai de si bon coeur me sauver\n\nde mon plus grand tourment, mais pourvu seulement que je pusse encore\n\nservir peu ou prou celle à qui Amour m'a soumis; car tout l'autre\n\ndommage, je ne l'estimerais pas un gant, que je mourusse ou non,\n\npourvu seulement que je puisse tellement la servir qu'il paraîtrait\n\nhonorable pour elle que je me vante afin qu'elle m'anéantisse et dise\n\nnon auparavant (?), mais je suis et je serai à son commandement où que\n\nj'aille.\n\n\nIII.--Las! que ferai-je, puisque je n'ose lui parler, mais quand je\n\nla vois, je suis comme un homme muet; et je ne veux pas que mon amour\n\nsoit connu d'autrui, même si je savais être sur-le-champ empereur. Je\n\nme recommande à Dieu, [en lui montrant] comme je vais souffrant; car\n\navec l'attente, j'en aurai autant: je ne pense pas qu'un aussi grand\n\nbonheur m'en advienne; mais où que j'aille, parfait et sans tromperie,\n\nje l'aimerai chaque année, m'améliorant tous les jours.\n\n\nIV.--Car je lui ai donné mon corps et mon coeur, mon talent et mon\n\njugement (?), hardiesse, prudence et courage, et je n'en ai retenu\n\nni peu ni prou pour aucune autre affaire; je ne demande et ne vais\n\ndésirant nulle autre chose, si ce n'est que Dieu me donne de voir\n\nl'heure et l'année où sa grande valeur fasse un tel effort sur elle\n\nque je la tienne en mes bras, et que, en l'embrassant, je contemple\n\nson beau corps tout à loisir.\n\n\nV.--Ah! noble créature, courtoise et de bonne naissance, ayez pitié\n\nde moi, car me voici vaincu; je vous rends la lance et l'écu comme un\n\nhomme qui ne peut plus frapper de la lance ni jeter des traits. Vos\n\nbeaux yeux trompeurs qui, je ne sais comment, m'ont pris tout mon\n\ncoeur, ne me réconfortent pas. Ne pensez pas que jamais château ni\n\ntour attaqués par une grande force résistent, si les assiégés ne sont\n\npas secourus; mais pour moi cela tarde trop.\n\n\nVI.--Cette chanson, je veux qu'elle aille tout droit en Aragon, au\n\nroi que Dieu veuille protéger; car pour lui sont tous hauts faits\n\nmaintenus plus que par aucun roi qui jamais soit né de mère. Car ainsi\n\nva se distinguant son mérite et il se répand au-dessus de tous les\n\nautres, comme au-dessus du verger fait la blanche fleur. C'est\n\npourquoi, quelque part que j'aille, je pousse aussitôt son cri de\n\nguerre, je vais exposant son mérite et je ne crains ni duc, ni roi, ni\n\namiral.\n\n\nVII.--Et avec ma chanson, avant que j'aille en un autre pays, je m'en\n\nvais en courant là-bas, où Joie et Mérite règnent; et je veux qu'elle\n\nl'apprenne, en accompagnant les couplets sur la viole, et puis en\n\nchantant, de quelque manière qu'on la lui demande.\n\n\nNotes:\n\n\nTexte de Raynouard, _Choix_, III, 124, reproduit dans Mahn,\n\n_Werke der Troubadours, I_, 139. La chanson a été conservée par\n\nquatorze manuscrits; parmi les chansons de Peire Raimon, seule celle\n\nqui commence par _Atressi com la candela_ a été conservée par un\n\nnombre de manuscrits plus grand (dix-neuf).\n\n\nAu vers 25, le texte de Raynouard donne: _Per qu'ela m\n\nn'estrenha_, dont le sens ne me satisfait pas; je lis, avec\n\n_B_ et _C: per qu'ela m'estenha_; le sens ne me satisfait\n\nguère plus d'ailleurs; j'ai longuement hésité pour la traduction de\n\n_fenher_.\n\n\nIX [No. 10 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Pessamen ai e cossir\n\n    D'una chanso faire\n\n    Qu'a lieys denhes abelhir\n\n    Cuy suy fis amaire;\n\n    E s'ieu pogues avenir           5\n\n    En bos digz retraire,\n\n    Far pogra saber\n\n    Que ieu plus fin joy esper,\n\n    Que nuls natz de mayre.           9"
+    },
+    {
+      "title": "II.",
+      "content": "Lo cors e·l sen e l'albir\n\n    Ai mes e·l vejaire\n\n    En lieys honrar e servir,\n\n    Quar es la belhaire\n\n    Qu'om pogues el mon chauzir,         14\n\n    Don no·m puesc estraire\n\n    Ni mon cor mover;\n\n    Qu'Amors me fai tan temer\n\n    Lieys qu'als non am guaire.          18"
+    },
+    {
+      "title": "III.",
+      "content": "La fina vera valors\n\n    Plus d'autra valensa,\n\n    E·l pretz, e·l fresca colors\n\n    Me platz e m'agensa:\n\n    Que si me valgues Amors          23\n\n    Tan que m'entendensa\n\n    Mi dons abelhis,\n\n    Plus ric joy que Paradis\n\n    Agr' a ma parvensa.                  27"
+    },
+    {
+      "title": "IV.",
+      "content": "Nulh' autra no·m pot secors\n\n    Far ni dar guirensa;\n\n    Et on plus en sen dolors\n\n    Plus n'ai sovinensa;\n\n    Mas ges dire mas clamors          32\n\n    No l'aus per temensa;\n\n    Tan li sui aclis\n\n    Qu'on plus vas me s'afortis,\n\n    Mai l'am ses falhensa.               36"
+    },
+    {
+      "title": "V.",
+      "content": "E fora li benestan\n\n    Si·m des alegransa,\n\n    Tan qu' aleuges mon afan\n\n    Ab douss' acoindansa:\n\n    Qu'ieu li suy senes enguan,          41\n\n    E non ai membransa\n\n    D'als, mas quom fezes\n\n    Tot so qu'a mi dons plagues;\n\n    Pero pauc m'enansa.                  45"
+    },
+    {
+      "title": "VI.",
+      "content": "Qu'ades m'en vauc meluyran\n\n    On plus n'ai pezansa\n\n    Vas lieys, e suefri mon dan\n\n    Ab bon' esperansa;\n\n    E doblera mon talan                 50\n\n    Sil belha semblansa,\n\n    Gentils cors cortes,\n\n    Si·t prezes de me merces\n\n    O qualsque pitansa.                 54\n\n\nI.--J'ai souci et désir de faire une chanson qui pût plaire à celle\n\ndont je suis l'amant parfait: et si je pouvais réussir à le dire en\n\nbelles paroles, je pourrais faire savoir que j'attends une joie plus\n\nparfaite que nul homme né de mère.\n\n\nII.--J'ai mis mon corps, ma raison et mon jugement à l'honorer et à la\n\nservir, car elle est la plus belle que l'on pourrait distinguer dans\n\nle monde; je ne puis ni m'en éloigner ni en retirer mon coeur; car\n\nAmour me la fait tellement craindre que je n'aime aucune autre\n\npersonne.\n\n\nIII.--Sa valeur, plus parfaite et plus vraie qu'aucune autre, son\n\nmérite, sa fraîche couleur, me plaisent et m'agréent; et si Amour\n\ndaignait me secourir au point que ma requête amoureuse plût à ma dame,\n\nil me semble que j'aurais une joie plus parfaite que le Paradis.\n\n\nIV.--Aucune autre ne peut me secourir on me guérir; plus j'en éprouve\n\nde douleurs, plus j'en ai souvenance; mais, par timidité, je n'ose lui\n\nfaire entendre mes plaintes; je lui suis tellement soumis, que plus\n\nelle s'obstine envers moi, plus je l'aime sans défaillance.\n\n\nV.--Il lui serait bienséant de me donner tant d'allégresse, qu'elle\n\nallégeât mon chagrin avec ses douces manières: car je lui appartiens\n\nsans tromperie; et je ne pense pas à autre chose, si ce n'est comment\n\nje ferai tout ce qui pourrait plaire à ma dame; mais cela m'avance\n\npeu.\n\n\nVI.--Car je vais toujours en m'améliorant, quand j'ai plus\n\nd'irritation envers elle, et je souffre mon dommage en conservant bon\n\nespoir: et ce bel accueil, ces belles manières doubleraient mon désir,\n\nô noble corps courtois, si tu avais de moi quelque pitié ou quelque\n\ncommisération.\n\n\nNOTES\n\n\nTexte de Raynouard (ms. _C_), _Choix des Poésies originales des\n\nTroubadours_, III, 120. La chanson se trouve encore dans le ms.\n\n_a_; texte publié par Stengel, _Rev. lang. rom_., XLV\n\n(1902), p. 132.\n\n\nX [No. 12 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Pos lo prims verjans brotona\n\n    De que nais lo frug e·l fuelh,\n\n    E·l rossinhols s'abandona                  3\n\n    De chantar per mieg lo bruelh,\n\n    Bela m'es la retindida\n\n    Que fai per mieg la giardina.              6"
+    },
+    {
+      "title": "II.",
+      "content": "Drutz que pros don' abandona\n\n    Ben laus que·s gart de jangluelh,\n\n    Que lauzengier, bec d'ascona,        9\n\n    (Car son plan en far lur truelh)\n\n    Ab lor mensonja forbida\n\n    Cujon falsar amor fina.                   12"
+    },
+    {
+      "title": "III.",
+      "content": "Qui de joi porta corona\n\n    Ben es dreg c'om l'en despuelh,\n\n    Si ves sa dona tensona                    15\n\n    O totz sos fatz non acuelh,\n\n    Que amors es tan chauzida\n\n    C'ab humilitat s'aizina.                  18"
+    },
+    {
+      "title": "IV.",
+      "content": "Gellosia·m tol e·m dona\n\n    So que pus am e mais vuelh;\n\n    A me non cal, qui q'en grona,       21\n\n    Pueys que dossamens m'acuelh\n\n    Ma domna cui fin Joys guida\n\n    E Pretz e Jovens aclina.               24"
+    },
+    {
+      "title": "V.",
+      "content": "Si ma domna no·m perdona,\n\n    Grieu viurai mais ses corduelh,\n\n    E vueilh q'om viu me repona,       27\n\n    Qar anc li mostriei ergueilh;\n\n    Mas dretz es qi merce crida\n\n    Que trueb de son mal mescina.             30"
+    },
+    {
+      "title": "VI.",
+      "content": "Tan com la mars avirona\n\n    N'ay triat, ses dig baduelh,\n\n    La gensor e la pus bona               33\n\n    C'oncas vezesson miey huelh,\n\n    Blanca, fresc' e colorida,\n\n    Et es de bona doctrina.                   36"
+    },
+    {
+      "title": "VII.",
+      "content": "Lai al renc de Barsalona\n\n    Estay l'amors c'amar suelh;\n\n    E qui d'autr'amor me sona               39\n\n    Perda Dieus que non l'acuelh;\n\n    Qu'ieu non partray a ma vida,\n\n    Tant es de bona razina.                   42"
+    },
+    {
+      "title": "VIII.",
+      "content": "Le vers s'a hueimais fenida\n\n    Q'En Gintartz d'Anton l'afina.       44\n\n\nI.--Au moment où la première branche fait éclore ses bourgeons, d'où\n\nnaît le fruit et la feuille, et où le rossignol s'abandonne au chant,\n\nau milieu du bocage, il m'est agréable d'entendre l'écho de ce chant\n\nqu'il fait retentir dans le jardin.\n\n\nII.--A un amant qui abandonne une noble femme je conseille qu'il se\n\ngarde de bavardage, car les médisants au bec affilé (et ils sont\n\nhabiles à faire leur tromperie) avec leurs mensonges doucereux pensent\n\nfausser l'amour parfait.\n\n\nIII.--Qui porte une couronne de joie, il est bien juste qu'on l'en\n\ndépouille, s'il se querelle avec sa dame ou s'il n'approuve pas tous\n\nses actes; car Amour est si indulgent qu'il vit avec la bonté.\n\n\nIV.--Jalousie m'enlève et me donne ce que j'aime et désire le plus;\n\npeu m'importe, qui qu'en grogne, puisqu'elle m'accueille doucement,\n\nma Dame, qu'Amour partout guide et devant qui s'inclinent Mérite et\n\nJeunesse.\n\n\nV.--Si ma Dame ne me pardonne, je vivrai désormais difficilement sans\n\nchagrin; et je veux qu'on m'ensevelisse vivant, car jamais je ne lui\n\ntémoignai de l'orgueil; mais il est juste que celui qui crie pitié\n\ntrouve un remède à son mal.\n\n\nVI.--Par toutes les terres que la mer environne, j'ai choisi, sans\n\nexagération (sans mentir?) la plus noble et la meilleure que jamais\n\naient vue mes yeux, blanche, fraîche, colorée, et de si bonnes\n\nmanières!\n\n\nVII.--Là-bas, au royaume de Barcelone, se trouve l'Amour que j'ai\n\ncoutume d'aimer, et qui me parle d'autre amour, que Dieu le confonde,\n\ncar je ne l'accueille pas; je ne m'en séparerai pas de toute ma vie,\n\ntellement il est bien enraciné.\n\n\nVIII.--Le vers a maintenant sa fin, car Gintartz d'Anton le termine\n\n(?).\n\n\nNOTES\n\n\nNous donnons le texte de cette pièce d'après Raynouard, _Choix_,\n\nV, 326 (reproduit dans Mahn, _Werke_, I, 138); nous complétons le\n\ntexte de Mahn-Raynouard en ajoutant la strophe V et la tornada d'après\n\nMahn, _Gedichte der Troubadours_, no. 792 (ms. _M_). La\n\npièce se trouve dans les mss. _D_(a) _M R_ sous le nom de\n\nPeire Raimon, et dans les mss. _l K d_ (qui forment un même\n\ngroupe) sous le nom de Uc de la Bacalaria. L'attribution à Peire\n\nRaimon paraît sûre.\n\n\nV. 6. _Giardina_ ne paraît pas se trouver ailleurs que dans ce\n\npassage.\n\n\nV. 9. _Ascona_, dard, lance; cf. sur ce mot la note de F. Michel,\n\ndans _Hist. de la guerre de Navarre_, de Guilhem Anelier, note à\n\nla p. 367. Le mot a existé en ancien espagnol: _azcon, azcona_;\n\nen a. fr. _asconne; asc_, lance, en anglo-saxon. On rattache le\n\nmot au germ. _Esche_, frêne, la lance étant souvent en frêne; cf.\n\na. fr. _fraisnine_.\n\n\nV. 44. Gintart d'Anton doit être le nom d'un chevalier catalan; mais\n\nje ne sais rien sur ce personnage.\n\n\nXI [No. 13 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Pos vei parer la flor e·l glay\n\n    É dels auzels m'agrada·l chans,\n\n    De far chanso m'es pres talans             3\n\n    Ab motz plazens et ab so guay;\n\n    E pus de ben amar melhur,\n\n    Segon razo,                                6\n\n    Trop en dey mielhs far motz ab so:\n\n    E si per ma domn' es grazitz\n\n    Mos chans, ben er mielhs enantitz.         9"
+    },
+    {
+      "title": "II.",
+      "content": "Fis e francs ab fin cor veray\n\n    Suy ves lieys qu'es guay' e prezans,\n\n    Bel' e plazens e benestans               12\n\n    Mil tans plus que dire no say,\n\n    E te son cors ferm e segur\n\n    De falhizo:                               15\n\n    Que de nulh preyador fello\n\n    Per cuy fis domneys es delitz\n\n    Non es per lieys sos pretz auzitz.        18"
+    },
+    {
+      "title": "III.",
+      "content": "E pus fin'amors la m'atray,\n\n    Per Deu no m'en deu venir dans,\n\n    Qu'ieu li suy tan fizels amans       21\n\n    Que re al cor tan no m'estay;\n\n    Per que ja lauzengier tafur,\n\n    Cui Dieus mal do!                         24\n\n    No·m degran neguna sazo\n\n    Tener dan, c'usquexs gab'e ditz,\n\n    Que per luy es Joys desconfitz.           27"
+    },
+    {
+      "title": "IV.",
+      "content": "Dona promet e don' estray,\n\n    E mostr' erguelh e bels semblans,\n\n    E ditz per guab e per bobans       30\n\n    Mayntas res ab certes essay,\n\n    E siey fait son leyal e pur\n\n    Ses aunit do;                             33\n\n    E son mayntas d'aytal faisso\n\n    En cui Pretz entiers es complitz,\n\n    E d'autras en cuy es aunitz.              36"
+    },
+    {
+      "title": "V.",
+      "content": "Belha domna, ja no serai\n\n    Jauzens ses vos, ni benanans;\n\n    Qu'ieu suy selh que vostres comans      39\n\n    Tostemps a mon poder faray:\n\n    Aisso vos man per ver e·us jur\n\n    Qu'anc hom no fo                         42\n\n    Plus leyals ves amor qu'ieu so;\n\n    E fuy per vos servir noyritz\n\n    E suy d'autras amors fayditz.            45"
+    },
+    {
+      "title": "VI.",
+      "content": "Ja no·m tenran fossal ni mur\n\n    Que ma chanzon\n\n    Non port al valen et al pro              48\n\n    Guillem Malaspina q'es guitz\n\n    De Pretz, c'us no·ill lo contraditz.     50\n\n\nI.--Puisque je vois paraître la fleur an glaïeul et que le chant des\n\noiseaux me plaît, il m'a pris un désir de faire une chanson avec des\n\nmots agréables et une mélodie gaie; et puisque en aimant bien je\n\nm'améliore, suivant raison, je dois en faire mieux mots et mélodie; et\n\nsi mon chant est agréé par ma Dame, il aura beaucoup plus de succès.\n\n\nII.--Je suis sincère et franc, avec un coeur sincère et vrai, envers\n\ncelle qui est belle, agréable et parfaite mille fois plus que je ne\n\nsaurais le dire et elle se tient fermement éloignée de tromperie; car\n\nd'aucun suppliant félon, par qui la parfaite courtoisie est détruite,\n\nelle n'écoute l'éloge de son mérite.\n\n\nIII.--Et puisque Amour parfait l'attire à moi, par Dieu il ne doit pas\n\nm'en venir du dommage, car je lui suis un amoureux si fidèle que\n\nrien ne me tient tant au coeur; c'est pourquoi jamais les vils\n\nmédisants--que Dieu les confonde!--ne devraient me causer quelque\n\ndommage, car chacun fait le fanfaron et dit qu'Amour est vaincu par\n\nlui.\n\n\nIV.--Femme promet et femme retire sa promesse; elle se montre\n\norgueilleuse ou accueillante; elle dit par plaisanterie et par\n\nostentation maintes choses avec courtoisie et ses actes sont loyaux et\n\npurs, sans don avilissant; et il y a beaucoup de femmes de ce naturel,\n\nen qui Mérite parfait est accompli et d'autres où il est honni.\n\n\nV.--Noble dame, sans vous jamais je ne serai joyeux ni heureux; car je\n\nsuis celui qui toujours et de tout mon pouvoir exécuterai vos ordres;\n\nc'est la déclaration sincère que je vous envoie, et je vous jure que\n\njamais homme ne fut plus loyal que moi envers amour; je fus élevé pour\n\nvous servir et j'ai quitté (pour vous) d'autres amours.\n\n\nVI.--Jamais fossés ni murs ne m'empêcheront de porter ma chanson au\n\nvaillant et au preux Guilhem Malaspina, qui est le guide de la valeur,\n\ncar personne ne le lui conteste.\n\n\nNOTES\n\n\nTexte de Raynouard, _Choix_, III, 122, réimprimé dans Mahn,\n\n_Werke der Troubadours_, I, 144.\n\n\nL'envoi (str. VI), dont l'importance historique est grande pour la\n\nbiographie de Peire Raimon, ne se trouve que dans le ms. _D_,\n\ncomme l'a fait observer M.G. Bertoni, qui en donne le texte\n\n(_Trovatori d'Italia_, p. 14). Ce ms. _D_ (Modène) attribue\n\nd'ailleurs la chanson par erreur à Rambertino de Buvalel. Guillem de\n\nMalaspina, à qui est adressée la présente chanson, régna de 1194 à\n\n1220. Il fut chanté par Albert de Sisteron, Aimeric de Pégulhan, qui\n\nfit un _planh_ sur sa mort, et peut-être par Falquet de Romans.\n\n\nXII [No. 14 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Pos vezem boscs e broils floritz\n\n    E·il prat son groc vert e vermeil,\n\n    E·l chant e·l refrim e·l trepeil\n\n    Auzem dels auzellos petitz,               4\n\n    Be·s taing c'un novel chan fabrec\n\n    En aquest bel douz temps d'avril;\n\n    E si be so·ill mot maestril,\n\n    Leu seran d'entendr' a unquec.            8"
+    },
+    {
+      "title": "II.",
+      "content": "E quar non trop gair on desplec\n\n    Mon ferm natural sen sotil,\n\n    Per tan non clam mon saber vil,\n\n    Sitot enquer grans non parec;            12\n\n    C'aissi com si trobav' escritz\n\n    Bons motz, tan gen los appareill\n\n    Que no·m par que ja trop pareil\n\n    Qu'en chantan formes meillors ditz.      16"
+    },
+    {
+      "title": "III.",
+      "content": "Mas uns gens cors, francs e grazitz,\n\n    C'anc tan bels no·s vie en espeill,\n\n    Per cui pes e fremisc e veill,\n\n    M'es e mon cor tant abellitz             20\n\n    Que d'alre servir no m'embrec\n\n    Mas ma domna franqu'et humil;\n\n    Per qu'eu ses tot enjan m'apil\n\n    Ens'amor que·m ten cobes lec.            24"
+    },
+    {
+      "title": "IV.",
+      "content": "Anc om en ben amar non crec\n\n    Tan con en midonz, don m'apil\n\n    En leis servir, c'ab un pauc fil\n\n    M'a pres e cug qu'e[n] pauc m'eisec;     28\n\n    Mas ges non tem parliers ni critz,\n\n    Tant esper son liai conseill;\n\n    E si·l platz qu'ella m'aconseill,\n\n    Gen serai de fin joi garnitz.            32"
+    },
+    {
+      "title": "V.",
+      "content": "Ades es lai mos esperitz\n\n    On il es, don non meraveill;\n\n    C'aitan con fer rais de soleill,\n\n    Non es tan de bos aips complitz          36\n\n    Nul' autra ni par c'ab leis s'ec\n\n    De beutat, s'eran d'autras mil;\n\n    Don prec midonz que no m'avil,\n\n    Se mos cors vol mais que non dec.        40"
+    },
+    {
+      "title": "VI.",
+      "content": "Per ma domna maigrisc e sec,\n\n    Car son gen cors format gentil\n\n    Non vei; e fora mortz de gil\n\n    Tro qu'un pauc mos cors s'esperec.      44\n\n\nI.--Puisque nous voyons les bois et les bocages fleuris, et que les\n\nprés sont jaunes verts et vermeils, et puisque nous entendons le\n\nchant, le refrain et le tapage des oisillons, il convient bien que que\n\nje fabrique un chant nouveau en ce beau doux temps d'avril; et quoique\n\nles mots soient excellents, ils seront faciles à entendre pour tout le\n\nmonde.\n\n\nII.--Quoique je ne sache guère où déployer mon sens subtil, ferme et\n\nnaturel, cependant je n'appelle pas mon savoir commun, quoiqu'encore\n\nil n'ait pas paru grand; car, comme si je trouvais écrits les beaux\n\nmots, je les accouple si bien qu'il ne me semble pas que jamais\n\nje trouve un poète semblable qui en chantant formât de meilleures\n\nparoles.\n\n\nIII.--Mais un gentil corps, noble et aimé--tel que jamais aussi beau\n\nne se vit dans un miroir--pour lequel je pense, je frémis et je\n\nveille, m'a tellement plu en mon coeur que je ne m'embarrasse pas\n\nde servir d'autre objet que ma dame douce et bienveillante; c'est\n\npourquoi, sans tromperie, je m'enracine en son amour, qui me maintient\n\ndans le désir.\n\n\nIV.--Jamais homme ne fit de progrès en amour parfait comme j'en fais\n\nà propos de ma dame; et je m'affine à son service; car elle m'a pris\n\navec un petit fil et je crois qu'en peu de temps je me dessècherai;\n\nmais je ne crains pas du tout ni les bavards ni leurs cris, tellement\n\nj'espère son loyal secours; et s'il lui plaît de me conseiller, je\n\nserai noblement orné de joie, parfaite.\n\n\nV.--Mon esprit est toujours là où elle est; cela ne m'étonne pas, car\n\naussi loin que frappe le rayon du soleil il n'y en a pas d'autre qui\n\npossède autant de bonnes qualités accomplies; et il ne semble pas\n\nqu'aucune autre puisse l'égaler en beauté, même si les autres étaient\n\nau nombre de mille; aussi je prie ma dame qu'elle ne m'avilisse pas,\n\nsi mon coeur veut plus qu'il n'aurait dû.\n\n\nVI.--Pour ma dame je maigris et je me dessèche, quand je ne vois pas\n\nson gentil corps noblement formé; et je serais mort de froid jusqu'an\n\nmoment où mon coeur se réveilla.\n\n\nNotes:\n\n\nNous avons pris pour base le texte de _I_ (Mahn, _Gedichte der\n\nTroubadours_, no. 942); nous avons corrigé plusieurs passages\n\nà l'aide de c(a); la chanson se trouve encore dans les mss.\n\n_D_(a) _K R_.\n\n\nVoici les corrections que nous avons introduites dans le texte:\n\n\nV. 3, eill _I_; v. 4, auzels los _I_; v. 13, don _I_,\n\ncom _a_; trop aues critz _I_, fi trobau escritz _a_; v.\n\n15, j'ai _I_; _c_ et _a_ ont omis ce vers; v. 18, bel\n\n_I_; non vic _a_; v. 19, fremics _I_, fremisc _a_;\n\nv. 21, non m. _I_, no membrec _a_; v. 24, que _I_;\n\nv. 28, texte de _a_ (sauf _me sec_ que nous changeons en\n\n_m'eisec_), don non par que me fec _I_; v. 29, gen. cen\n\n_I_, pero non tem parlers meriz _a_, ni criz _c_; v.\n\n32, qen _I_, gent _a_; v. 36, non regna _a_; v. 40, s.\n\nm. c. v., q'autra non dec _c_; v. 42, formatz _I_.\n\n\nLes strophes se correspondent deux par deux (1, 3. 5; 2, 4); les rimes\n\nen _ec_ sont en _e_ fermé; au v. 37, si la leçon _s'ec_\n\nde _s'egar_ (_se acquare_) est la bonne, le changement\n\nd'_e_ ouvert de _egar_, en _e_ fermé pourrait être dû à\n\nla rime; les confusions de _e_ fermé et de _e_ ouvert à la\n\nrime ne sont pas rares chez les troubadours.\n\n\nV. 12. Ce vers pourrait laisser entendre que le talent de Peire Raimon\n\nest encore peu connu et cette pièce pourrait être de la jeunesse du\n\npoète.\n\n\nV. 21. Du verbe _s'embregar_; vers cité par Raynouard, _Lex.\n\nRom_., II, 256.\n\n\nV. 28. Nous rattachons _eisec_ au verbe _eisegar_, formé sur\n\n_sec_, quoique la suite des images ne nous satisfasse pas; si on\n\ngarde _sec_ et qu'on se rattache à _segar_, on a encore ici\n\nune rime en _e_ ouvert.\n\n\nV. 37-38. Mêmes expressions dans deux passages cités par Raynouard,\n\n_Lex. Rom_., III, 136 (P. Bremon et Arnaut Daniel).\n\n\nV. 44. _Esperec_, parf., 3e p. sing., de _espereisser_:\n\nautres formes _esprec, espric, esperic_. Cf. Levy, _Suppl.\n\nW_., au mot _espereisser_.\n\n\nXIII [No. 15 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "S'ieu fos aventuratz\n\n    De domna ni d'amor,\n\n    De tot' altra ricor\n\n    Fora manentz assatz;\n\n    Mas lausenger truan                         5\n\n    Mi tolon joi e chan,\n\n    Per q'eu son tant iratz\n\n    C'ab pauc desesperatz\n\n    Non muer; et es non senz\n\n    Qi s'aïra per autrui faillimenz.           10"
+    },
+    {
+      "title": "II.",
+      "content": "Mas granz es lo pechatz\n\n    A tot mal parlador\n\n    Qe si met en amor\n\n    Don ja non er laudatz;\n\n    Qe mentir ab enjan                         15\n\n    Tol honor et fai dan,\n\n    Don es deseretatz\n\n    Mainz hom pros e cochatz.\n\n    Ai! Deu(s), per que consentz\n\n    C'om sofra·ls tortz don non es malmerenz.  20"
+    },
+    {
+      "title": "III.",
+      "content": "Vergiers ni flors ni pratz\n\n    No m'an fait chantador,\n\n    Mas per vos cui ador,\n\n    Domna, si m'allegratz;\n\n    Q'eu non chantera onguan,                  25\n\n    Mas lo gent cors preisan\n\n    E vostra gran beutatz\n\n    M'abelis tant e·m platz\n\n    Q'a mils vers sagramenz\n\n    No·us puesc mostrar com vos sui benvolenz. 30"
+    },
+    {
+      "title": "IV.",
+      "content": "Se ma fia 'amistatz\n\n    Vos avia sabor\n\n    Tan qe per servidor\n\n    Vostr' on fos reclamatz,\n\n    Ben agra meinz d'afan,                     35\n\n    Qe ren als no deman.\n\n    E rics dons qant es datz\n\n    Es grazitz et presatz\n\n    Trop mais pels conoiscenz\n\n    Qe per malvais parliers desavinenz.        40"
+    },
+    {
+      "title": "V.",
+      "content": "Domna, ben voil sapchatz\n\n    Qe la fina color\n\n    E·l sen e la valor\n\n    E·l vostre pretz hondratz\n\n    Mi fan far desiran                         45\n\n    Maint sospir, per q'eus man\n\n    Qe vostre endomenjatz\n\n    Son com serf qu'es compratz:\n\n    E qui·l sieu meteis venz,\n\n    Non par sia ges si bons afortimenz.        50\n\n\nI.--Si j'étais heureux en femmes et en amour, de toute autre richesse\n\nje serais suffisamment riche; mais les médisants mauvais m'enlèvent\n\njoie et chant. Aussi suis-je si irrité qu'il s'en faut de peu que je\n\nne meure presque désespéré; et pourtant c'est de la folie de s'irriter\n\npour les fautes d'autrui.\n\n\nII.--Mais la faute est grande pour tout médisant qui se met à aimer\n\n[une personne] dont il ne sera jamais loué; car le mensonge et la ruse\n\nenlèvent l'honneur et causent du dommage, par suite de quoi maint\n\nhomme preux et pressé (?) est déshérité. Ah! Dieu, pourquoi consens-tu\n\nqu'on supporte les torts dont on n'est pas coupable?\n\n\nIII.--Ce ne sont ni les vergers, ni les fleurs, ni les prés qui m'ont\n\nfait poète, mais c'est vous, vous que j'adore, dame, tellement vous\n\nme mettez en joie (_ou_: si vous me mettez en joie?); car cette\n\nannée je n'aurais pas chanté, mais votre gentille et agréable personne\n\net votre grande beauté me plaisent tant qu'avec mille serments\n\nsincères je ne saurais vous témoigner mon amour.\n\n\nIV.--Si ma parfaite amitié avait pour vous assez de saveur pour que je\n\nfusse proclamé votre serviteur, j'aurais bien moins de chagrin, car je\n\nne demande pas autre chose. Et un riche don accordé est loué et prisé\n\npar les connaisseurs beaucoup plus que par les médisants déplaisants.\n\n\nV.--Dame, je désire que vous sachiez que votre fine couleur, votre\n\nintelligence et votre distinction et votre mérite honoré me font\n\nfaire maints soupirs de désir; aussi je vous envoie que je suis votre\n\nserviteur, comme un serf acheté; et celui qui détruit son propre bien,\n\nil ne semble pas que ce soit là un bon accroissement.\n\n\nNotes:\n\n\nTexte de _c_ avec les corrections indiquées par Stengel (_Die\n\naltprovenzalische Liedersammlung_ c, no. CXVII). Nous avons\n\nfait, en dehorsdes changements purement orthographiques (_lz_\n\npour _z, s, z_ pour _ç_), les corrections suivantes: v.\n\n8, _c'ab pauc_ manque dans le ms.; v. 20, ms. _borç_ (l.\n\n_tortz_), _malmenenç_ (l. _malmerenç_); v. 26, ms.\n\n_plesan_ (l. _preisan_). Au v. 46, nous lisons _q'eus_\n\nan lieu de _q'eu_. Au v. 49, faut-il entendre _lo sieu_\n\ncomme un neutre ou le faire rapporter à _serf_?\n\n\nXIV [No. 16 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Si cum seluy qu'a servit son senhor\n\n    Lonc temps e·l pert per un pauc falhimen,\n\n    M'aven per so qu'avia leyalmen\n\n    Fagz sos comans de ma dona e d'amor          4\n\n    E ja d'aisso nom degr' ocaizonar\n\n    Ni mal voler ma dona, si·l plagues;\n\n    Pero be sai, quant hom plus savis es,\n\n    Adoncx si deu mielhs de falhir guardar.      8"
+    },
+    {
+      "title": "II.",
+      "content": "Tan tem son pretz e sa fina valor\n\n    E tant ai cor de far tot son talen,\n\n    E tan mi fan lauzengier espaven,\n\n    Per qu'ieu non aus de lieys faire clamor    12\n\n    Ni mon fin cor descobrir ni mostrar,\n\n    Mas mil sospirs li ren quec jorn per ces;\n\n    E veus lo tort de qu'ieu li suy mespres,\n\n    Quar anc l'auzei tan finamen amar.          16"
+    },
+    {
+      "title": "III.",
+      "content": "E si·l plagues que·m fezes tan d'onor\n\n    Qu'a genolhos sopleyan humilmen\n\n    Son belh cors guay, gen format, avinen,\n\n    E·l dous esguart e la fresca color          20\n\n    Mi laissesson sospiran remirar,\n\n    Ben cre que mais no·m falhira nulhs bes;\n\n    Quar tant fort m'a s'amor lassat e pres\n\n    Que d'als non pes ni puesc mon cor virar. 24"
+    },
+    {
+      "title": "IV.",
+      "content": "De paratge no suy ni de ricor\n\n    Que ja·m tanhes que·l fes d'amar parven,\n\n    Mas quan lo ricz sos menors acuelh gen\n\n    Dobla son pretz e·l creys mais de lauzors; 28\n\n    Per que feira ma dona ben estar,\n\n    Si qualque belh semblan far mi volgues,\n\n    Qu'en tot lo mon non es mais nulla res\n\n    Que ja ses lieis mi pogues joy donar.       32"
+    },
+    {
+      "title": "V.",
+      "content": "Be sai qu'ieu fatz ad escien folhor,\n\n    Quar ai en lieis mes mon entendemen,\n\n    Mas non puesc als; cum plus li vau fugen,\n\n    Mais la dezir e dobli ma dolor.             36\n\n    So q'om vol fort no pot hom oblidar;\n\n    S'apres cen mals un be de lieis agues,\n\n    Be fora ricz, e sol qu'a lieis plagues\n\n    Iria·l tost denan merce clamar.             40"
+    },
+    {
+      "title": "VI.",
+      "content": "Sa gran beutat, son gen cors nou e clar,\n\n    Son pretz, s'onor sal Dieus e·ls digz cortes,\n\n    Que res de be no·y falh mas quan merces,\n\n    Qu'ab sol aitan no·lh trobari' hom par.     44"
+    },
+    {
+      "title": "VII.",
+      "content": "Canso, vai mi tost retrair' e comtar\n\n    Ad Auramala e di m'al pros marques\n\n    Mecier Colrat qu'en luy a tans de bes\n\n    Per qu'om lo deu Sobretotz apellar.         48\n\n\nI.--Il m'en prend comme à celui qui a servi son seigneur longtemps et\n\nqui le perd par une petite faute, parce que j'avais exécuté loyalement\n\nles commandements de ma dame et d'amour; mais pour cette faute ma dame\n\nne devrait pas, s'il lui plaisait, me reprendre ni me vouloir du mal;\n\ncependant je sais que plus un homme est sage, mieux il devrait se\n\ngarder de faillir.\n\n\nII.--J'ai tant de souci de sa réputation et de sa parfaite valeur\n\n(morale) et j'ai tant à coeur d'accomplir tous ses désirs, et (d'autre\n\npart) les médisants me font tant peur que je n'ose me plaindre d'elle\n\nni découvrir et montrer le fond de mon coeur; mais tous les jours\n\nje lui donne mille soupirs comme rente; voilà la faute dont je suis\n\ncoupable envers elle, c'est d'avoir osé l'aimer si parfaitement.\n\n\nIII.--Et s'il lui plaisait de me faire tant d'honneur qu'elle et amour\n\nme laissassent considérer en soupirant, à genoux et en suppliant\n\nhumblement, son beau corps gai, bien formé, avenant, son doux regard\n\net sa fraîche couleur, je crois bien que jamais ne me manquerait aucun\n\nbien. Car son amour m'a si bien enlacé et pris que je ne pense pas à\n\nautre chose et que je n'en peux éloigner mon coeur.\n\n\nIV.--Je ne suis ni assez puissant ni d'assez haute naissance pour\n\nqu'il me convienne de lui témoigner mon amour, mais quand l'homme\n\npuissant accueille gentiment ses inférieurs, il double sa renommée et\n\naugmente sa réputation; aussi mettrais-je ma dame en haut renom, si\n\nelle voulait me témoigner quelques égards, car dans le monde entier il\n\nn'y a pas d'autre créature qui sans elle pût me donner la joie.\n\n\nV.--Je sais que sciemment je fais une folie, pour avoir mis en elle\n\nmon affection, mais je ne puis faire autrement; plus je vais la\n\nfuyant, plus je la désire et plus je double ma douleur. Ce qu'on veut\n\nfortement, on ne peut l'oublier; si, après cent maux, j'avais un bien\n\nd'elle, je serais bien riche, et si seulement cela lui plaisait,\n\nj'irais rapidement devant elle lui crier pitié.\n\n\nVI.--Que Dieu protège sa grande beauté, son gentil corps, jeune et\n\nfrais, son grand mérite, sa réputation, ses propos courtois, car aucun\n\nbien n'y manque, sauf un peu de pitié, car si elle en avait, on ne lui\n\ntrouverait pas sa pareille.\n\n\nVII.--Chanson, va-t-en vite dire et raconter (tout ceci) à Auremale\n\net dis-moi au preux marquis Messire Colrat qu'en lui il y a tant de\n\nqualités qu'on doit l'appeler _Sobretotz_ (Au-dessus de tous).\n\n\nNotes:\n\n\nTexte de Raynouard, _V_, 223, reproduit dans Mahn, _Werke der\n\nTroubadours_, I, 136.\n\n\nA la strophe VII, il s'agit du marquis Conrad de Malaspina; Auramala\n\nétait un fief de la famille de Malaspina. Conrad succède à Guilhem de\n\nMalaspina en 1221.\n\n\nAu _v_. 26, le ms. _G a taisses (avec_ signe d'abréviation\n\nde _n_ sur _i_) au lieu de _tanhes_, et le ms. _a\n\ntaisses (= taisses_).\n\n\nXV [No. 17 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Si com l'enfans qu'es alevatz petitz\n\n    En cort valen et honratz del seingnor,\n\n    Pois, quant es grantz, se·n part e quer meillor,\n\n    No·l pot trobar, ten se per escarnitz,          4\n\n    Vol s'en tornar, non a tant d'ardimen,\n\n    Aitals son eu, que·m parti follamen\n\n    Da lleis, cui ren merces, se·m vol sofrir,\n\n    Que venjament en prend'; al no desir.           8"
+    },
+    {
+      "title": "II.",
+      "content": "Venjar s'en pot de mi, qu'er'afollitz.\n\n    Mais hom qu'es fols, cho dizon li autor,\n\n    Non er jujatz, tan que·l ten be iror,\n\n    Del mal qu'il fai, ni per raison punitz;       12\n\n    Mas quant n'er for, er jujatz, s'il mespren,\n\n    O s'il avia enanz fait faillimen.\n\n    E se·l fis anc, ben vos dic ses mentir,\n\n    Il sap lo ver, fassa·m totz temps languir.     16"
+    },
+    {
+      "title": "III.",
+      "content": "Ben o pot far e totz sera grazitz\n\n    Lo mals; l'afan, la pena e la dolor\n\n    Suffr'eu en pais, e semblara·m doussor;\n\n    Mais il gart sei, qu'al seu bon pretz floritz  20\n\n    Ges non eschai ni non es avinen\n\n    De totz mals faitz qu'il prenda venjamen;\n\n    Mais val perdos e mielz fai a grazir,\n\n    E sel qui·l prent en val mais per servir.      24"
+    },
+    {
+      "title": "IV.",
+      "content": "Eu valgra mais per servir; e garitz\n\n    M'agra merces, pietatz et amor,\n\n    S'omilies midons sa grant ricor\n\n    Qu'il mandes chai saluz en breu escritz;       28\n\n    E sui trop fols, quant ai tal pensamen\n\n    Qu'ill mandes chai man; sofra·n solamen\n\n    ...Ver leis mains jonchas obezir\n\n    Tot son coman, si·l platz viure o morir.       32"
+    },
+    {
+      "title": "V.",
+      "content": "Per son coman no fo mortz ni traïtz\n\n    . . . . . . . . . . . . . . . . . .\n\n    . . . . . Que·m parti de la flor\n\n    De tot lo mon, que m'avia noiritz.             36\n\n    Puois me·n parti, fui en tal marrimen\n\n    Don fora mortz, si no fos jauzimen\n\n    Q'atent merce, per cho qu'al departir\n\n    Me dis ploran: «Deus te lais revenir!»    40\n\n\nI.--Je suis semblable à l'enfant qui a été élevé tout jeune dans une\n\nnoble cour et y a été honoré de son seigneur; puis, devenu grand, il\n\nla quitte et en cherche une meilleure; il ne peut la trouver et\n\nse croit trompé; il veut s'en revenir, mais il n'a pas assez de\n\nhardiesse; je suis semblable à lui, car je quittai follement celle que\n\nje remercierai de s'en venger, pourvu qu'elle veuille me supporter\n\nprès d'elle; je ne désire pas autre chose.\n\n\nII.--Elle peut bien s'en venger, de moi, car j'étais devenu fou. Mais\n\nun homme fou, disent les auteurs, ne sera pas condamné pour le mal\n\nqu'il fait et il ne sera pas juste de le punir, tant que la folie le\n\ntient bien; mais quand la folie lui aura passé, il sera condamné, s'il\n\ncommet une faute, ou s'il en avait commis quelqu'une auparavant. Et si\n\njamais j'en ai commis une, je vous le dis en vérité, et elle sait que\n\nje ne mens pas, qu'elle me fasse languir éternellement.\n\n\nIII.--Elle peut bien le faire et béni sera le mal; je supporterai\n\nsilencieusement chagrin, peine et douleur et tout cela me semblerait\n\nbien doux; mais qu'elle remarque bien qu'il ne convient pas et qu'il\n\nn'est pas avenant pour sa bonne renommée en fleur de prendre vengeance\n\nde tous les méfaits; pardon vaut mieux et mérite mieux la louange et\n\ncelui qui le reçoit en devient meilleur pour servir.\n\n\nIV.--Je serais meilleur pour servir; Pitié et Amour m'auraient guéri,\n\nsi ma dame inclinait son orgueil au point de m'envoyer ici des\n\n«saluts» écrits en forme de lettre; mais je suis trop fou, quand\n\nje lui mande cette pensée de m'adresser ici (ses saluts); qu'elle\n\nsupporte seulement que j'aille vers elle, mains jointes, obéir à tous\n\nses ordres, qu'il lui plaise de me faire vivre ou de me faire mourir.\n\n\nV.--Je ne fus ni tué ni trahi par son ordre, [mais je fut pris de\n\ntristesse depuis le jour où] je me séparai de celle qui est la fleur\n\ndu monde et qui m'avait élevé. Après l'avoir quittée, je fus dans une\n\ntelle tristesse que je serais mort, si ce n'était la joie qui espère\n\nen la pitié, parce qu'elle me dit à mon départ en pleurant: «Que Dieu\n\nte laisse revenir!»\n\n\nNotes:\n\n\nTexte de Appel, _Provenzalische Inedita_, p. 248, d'après les\n\nmanuscrits _I_ et _K_, qui se ressemblent. V. 7, je mets une\n\nvirgule après _sofrir_; v. 11 et 12, j'adopte les corrections\n\nproposées par Appel: v. 11, _tan_ au lieu de _tro_ (et\n\n_que·l_ pour _que llo_), v. 12, _ni_ au lieu de\n\n_n'es_; ces corrections paraissent assurées. V. 13, j'écris:\n\n_quant n'er for_, au lieu de _n'es_ des mss; v. 15,\n\nmss. _il saup lo ver, fatz om_... Appel propose: _E·n...\n\nfassa·m_; j'adopte _fassa·m_, mais je garde _il saup_\n\nsous la forme du présent: _il sap_; v. 19, l. _patz_? V.\n\n19: mss. _petitz_; il faut une rime en -_or_; j'adopte\n\n_doussor_ avec Appel. V. 20, lire: _que·l seus bos pretz\n\nfloritz_? Mais au v. 38 on a _jauzimen_ au lieu de\n\n_jauzimens_ à cause de la rime; peut-être ici aussi la rime a\n\namené _floritz_. V. 28, _salutz en breu escritz_: saluts\n\n(_saluts d'amour_, au sens de genre poétique ou _saluts_\n\ntout court) écrits en lettre, en forme de lettre; cf. J. Rudel,\n\n_Senes breu de pergamina_ (_Quan lo rius_). v. 27:\n\nmss. _s'omielis tant sa gran ricor_; Appel propose de lire\n\n_granda_, ce qui me paraît peu probable; je propose _midons_\n\navec suppression de _tant_. V. 30, la leçon du ms. ne me\n\nsatisfait pas; c'est la répétition du v. 28; on attendrait: «Je suis\n\ntrop fou d'avoir une telle pensée» (il faudrait lire: _ai tal\n\npensamen_); «je ne lui demande pas cela» ou «je ne demande rien\n\nde sa main, mais qu'elle souffre seulement...»; _man_ me paraît\n\ndevoir être changé en: _mas_ (_sofra solamen_); v. 31,\n\n[_quez an_] _ver_ [s] _leis_? Appel: _Ans vuelh_;\n\nv. 34-35, le sens des vers manquants paraît être: «Je fus saisi d'une\n\nprofonde tristesse depuis le jour (_depois cel di_?)» etc. V. 39:\n\nla joie qui attend la pitié, qui attend, qui espère de la pitié.\n\n\nCette pièce a été imitée par le grand poète valencien Auzias March:\n\n_Nom pren axi com al petit vaylet_. On trouvera cette poésie à la\n\nfin de l'édition.\n\n\nXVI [No. 18 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Totztemps auch dir q'us jois un autre adutz,\n\n    Per que non voill nuill temps de joi partir,\n\n    Q'ab joi fui natz et ab joi, on qe·m vir,          3\n\n    Soi et serai, q'aissi·m soi captengutz;\n\n    E si·l fin joi de lei en cui enten.\n\n    Q'eu plus aten,                                    6\n\n    Pogues aver, ben fora plus joios;\n\n    Que dobles jois es rix e cabalos\n\n    E qi joi sec jois li ve ses doptansa.              9"
+    },
+    {
+      "title": "II.",
+      "content": "Per q'eu me soi autrejatz e rendutz\n\n    A fin' Amor et a lei cui desir,\n\n    Que finamen m'an fach mi oill chausir             12\n\n    La bella q'es flors e mirailz e lutz\n\n    E caps e guitz de tot ensegnamen;\n\n    E pos tan gen                                     15\n\n    Nafret mon cors d'un esgart amoros,\n\n    D'al no·m soven ni no·m fo saboros\n\n    Nuilz altre bes ni d'al non ac membransa.       18"
+    },
+    {
+      "title": "III.",
+      "content": "Bona domna, vostre rix pretz saubutz\n\n    E las faissos e·ill plazen acuoillir\n\n    E la bocha don tan gen vos vei rir               21\n\n    M'an tan sobrat qe soven deveing mutz\n\n    E la on cuch gent parlar pert lo sen;\n\n    Q'ab espaven                                      24\n\n    Qer hom ric do, per qu'eu soi temoros;\n\n    Mas eu auch dir q'hom savis, a sazos,\n\n    Conqer mainz bes sofren ab esperansa.             27"
+    },
+    {
+      "title": "IV.",
+      "content": "De vos amar non serai recrezutz,\n\n    Anz m'abelis mil tanz qu'eu non sai dir;\n\n    Et si·us plagues c'o volguessetz sofrir           30\n\n    Q'eu vos ames, ja non fora vencutz\n\n    De vos servir mos fis cors leialmen;\n\n    Anz m'er parven                               33\n\n    Q'engals sia l'afanz de nos amdos;\n\n    Et er merces, si de tan m'es faitz dos,\n\n    Qe mos volers no·s fraing ni no·s balansa.        36"
+    },
+    {
+      "title": "V.",
+      "content": "Mas fis amanz no·s taing qe leve brug,\n\n    Ans deu son cor celar et escondir,\n\n    E·l ben e·l mal qi·ll ve d'amor grazir;           39\n\n    Q'ab certes aibs es hom per pro tengutz;\n\n    E qe·s gart be de far tot faillimen\n\n    Ab escien,                                        42\n\n    Qe de bon luoc ave bos guierdos;\n\n    Qe si domneis e cortejars non fos,\n\n    Non fora pretz ni servirs ni honransa.            45"
+    },
+    {
+      "title": "VI.",
+      "content": "Domna, per so·m sui a vos atendutz\n\n    Qe·m detz conseil, q'a pauc no·m fan morir\n\n    La fin' amors q'eus ai e·ill greu sospir;         48\n\n    E si mos cors fos per vos conogutz,\n\n    Be m'es semblan que n'agratz jausimen,\n\n    Qe no consen                                      51\n\n    Nuill' altr' amor, ni ma bona razos\n\n    No·m pot sebrar ni delonhar de vos,\n\n    Tan m'es el cor vostra gaia semblansa.            54"
+    },
+    {
+      "title": "VII.",
+      "content": "Pretz e valor, beltat, joi et joven\n\n    Ses faillimen,\n\n    E toz bos aibs, totas belas faissos               57\n\n    Ha Na Beatritz d'Est, q'anc non er e fos\n\n    Don'ab tant bes ses tota malestansa.\n\n\nI.--J'entends dire toujours qu'une joie en amène une autre; c'est\n\npourquoi je ne veux jamais m'éloigner de la joie; car je suis né avec\n\nla joie, et, où que je me retourne, je suis et serai avec la joie:\n\nc'est ainsi que je me suis conduit dans ma vie; et si je pouvais avoir\n\njoie parfaite de celle en qui j'ai mis mon amour, joie que je désire\n\nle plus, je serais bien plus heureux; car une joie double est chose\n\nprécieuse et supérieure; et à qui suit la joie, joie lui vient sans\n\naucun doute.\n\n\nII.--Aussi me suis-je soumis et rendu à l'amour parfait et à celle que\n\nje désire; car avec perfection mes yeux m'ont fait choisir la belle\n\nqui est fleur, miroir, lumière, chef et guide de toute perfection; et\n\ndepuis que si gentiment elle m'a blessé d'un regard amoureux, je ne\n\nme souviens pas d'autre chose et aucun autre bien n'eut pour moi de\n\nsaveur.\n\n\nIII.--Noble dame, votre haut mérite connu de tous, vos manières, votre\n\naccueil si aimable et la bouche dont je vous vois rire si gentiment\n\nm'ont tellement vaincu que souvent je deviens muet et que lorsque je\n\npense bien parler je perds le sens; c'est avec crainte qu'on cherche\n\nun beau don, aussi suis-je craintif; mais j'entends dire qu'un homme\n\navisé conquiert parfois maints biens en supportant avec espoir des\n\nsouffrances.\n\n\nIV.--De vous aimer je ne serai jamais fatigué; car cet amour m'est\n\ncher mille fois plus que je ne saurais dire; et s'il vous plaisait de\n\nvouloir souffrir que je vous aime, mon coeur parfait ne serait jamais\n\nfatigué de vous servir loyalement; au contraire il me semblera que la\n\nfatigue serait la même pour nous deux; et ce sera une grâce si pour\n\ntant (de patience) il m'est fait un don, car mon amour ne diminue ni\n\nn'hésite.\n\n\nV.--Mais il ne convient pas à un parfait amant de soulever une\n\nquerelle; il doit cacher les sentiments de son coeur, accepter avec\n\nreconnaissance le bien et le mal qui lui vient d'amour; car avec des\n\nqualités courtoises un homme est tenu pour excellent; et qu'il se\n\ngarde bien de faire sciemment quelque faute, car d'un bon lieu vient\n\nune bonne récompense; et si galanterie et courtoisie n'existaient pas,\n\nil n'y aurait ni mérite, ni service d'amour ni honneur.\n\n\nVI.--Dame, si je me suis adressé (?) à vous, c'est pour que vous me\n\ndonniez conseil, car il s'en faut de peu que l'amour parfait que je\n\nvous porte et mes profonds soupirs ne causent ma mort; et si vous\n\nconnaissiez mon coeur, il me semble bien que vous en auriez de la\n\njoie, car il ne consent à aucun autre amour; et ma bonne raison ne\n\npeut me séparer ni m'éloigner de vous, tant votre image gaie m'est au\n\nfond du coeur.\n\n\nVII.--Dame Béatrix d'Est possède mérite et valeur, beauté, joie et\n\njeunesse, sans nul défaut, et toutes belles qualités et toutes belles\n\nmanières; jamais Dame ne sera ni ne fut avec tant de qualités sans\n\naucun défaut.\n\n\nNotes:\n\n\nTexte du ms. c, d'après Stengel, _Die altprovenzalische\n\nLiedersammlung_ c, no. CXXI. Nous avons fait quelques\n\nchangements purement orthographiques: nous rendons _ç_ du ms. par\n\n_tz_ ou simplement _z_ (après une nasale). Ex. ms. _toç,\n\naduç_ = _totz, adutz_; ms. _amanç_ = _amanz_.\n\nA l'intérieur des mots nous rendons _ç_ par _ss, s_\n\nou _z_, suivant les mots: _doplança = doplansa, graçir =\n\ngrazir_, etc. Nous rendons _z_ final du ms. par _tz_: ms.\n\n_renduz = rendutz_. Quelques variantes sont empruntées au\n\nms. _U_, publié dans l'_Archiv für das Studium der neueren\n\nSprachen_, XXXIII, p. 421.\n\n\nEnfin nous avons fait quelques corrections, qui sont les suivantes:\n\nv. 5, ms. _jor_, corr. _joi_ (avec Stengel); v. 30, ms.\n\n_sos_ plagues co volgressetz (sis... volgressetz _U_),\n\nStengel a déjà corrigé _sos_ en _sius_; v. 17, ms.\n\n_non_; v. 37 _leu_ (au lieu de _leve_) _c_ et\n\n_U_; faut-il écrire _brug_ ou _brugz_? Probablement\n\nla première forme (bruç c/b>, bruz _U_); v. 53 non per c,\n\nnom pot _U_.\n\n\nV. 18. Le second hémistiche paraît une répétition du premier\n\nhémistiche du vers précédent; il vaudrait peut-être mieux donner\n\nà _membransa_ son sens assez ordinaire _d'intelligence,\n\njugement_ (cf. v. 19); mais dans ce cas le double sens du mot, qui\n\nest peut-être dans l'intention du troubadour, n'apparaît plus.\n\n\nV. 26. Ms. _e sazos_.\n\n\nV. 58. Il s'agit de Béatrix d'Esté, fille d'Azzo VI, marquis d'Esté,\n\nnée en 1191. Après avoir vécu dans le monde elle prit le voile entre\n\n1218 et 1220 et mourut en 1226. Elle a été chantée par Rambertino\n\nBuvalelli, Aimeric de Pégulhan, Guilhem de la Tour, Falquet de Romans.\n\nCf. Bergert, _Die von den Trobadors genannten oder gefeierten\n\nDamen_, p. 81.\n\n\nXVII [No. 19 de Bartsch].\n\n\nTenson de Peire Raimon et de Bertran de Gourdon."
+    },
+    {
+      "title": "I.",
+      "content": "Totz tos afars es nienz,\n\n    Peir Raimonz, e·l sens frairis;\n\n    E non val dos anjevis\n\n    Tos sabers mest bonas genz;\n\n    E tenc per desconolscenz                 5\n\n    Qi be ni honor ti fai;\n\n    Et sapchas qu'ieu non darai\n\n    Per nuil mestier qu'en tu sia,\n\n    Mais qar venguist per mi sai.            9"
+    },
+    {
+      "title": "II.",
+      "content": "Seigner, flacs e recrezens\n\n    Estatz mest vostres vezis,\n\n    E sofranh vos pans e vis\n\n    E fail vos aurs et argens;\n\n    E·l meus mestiers es valenz             14\n\n    Si·l vostre dig son savai;\n\n    E s'ieti ja ren de vos hai,\n\n    Jamai en home qi sia\n\n    A mon jor no faillirai.             18"
+    },
+    {
+      "title": "III.",
+      "content": "Peire, mal m'avondet senz,\n\n    Qar de tenzo vos comis;\n\n    Qe·l vostre mestiers es fis\n\n    E vos etz bons e plazentz;\n\n    E·l vostre arezamentz                   23\n\n    Es grans e·il chantar son gai;\n\n    E negus joglars non vai\n\n    Qe plus tard fezes follia\n\n    Ni plus tost fezes bon plai.            27"
+    },
+    {
+      "title": "IV.",
+      "content": "Tant es larcx e conoissenz\n\n    Qe tot l'aver de Paris\n\n    Darias en dos matis;\n\n    E plai vos Jois e Joventz,\n\n    Seigner; e·l vostre ardimentz          32\n\n    Es grantz on faitz maint assai;\n\n    E plus franc de vos non sai,\n\n    E s'ieu mal dig vos avia,\n\n    Tot sabchon qe mentit n'ai.            36"
+    },
+    {
+      "title": "V.",
+      "content": "Vejas del tafur dolentz\n\n    Qe·s cuidet q'eu l'esqarnis\n\n    E qe·il lauzes e·l grazis\n\n    Sos malvais captenemenz;\n\n    E s'anc li passet las dentz            41\n\n    Bos motz, a negun jor mai\n\n    Ja cella que am no·m bai;\n\n    E si·m dis mal per feunia,\n\n    Perdon lo, qar s'en estrai.            45"
+    },
+    {
+      "title": "VI.",
+      "content": "Chaitivez'e marrimenz\n\n    Es tot l'an en vos assis;\n\n    E qi·l vostre fag resis\n\n    Mentau e·ls envelzimentz,\n\n    Ben par com es conoiscentz,           50\n\n    Ni qi·us honra qe·l meschai;\n\n    Qe·us onrei tant qe·m desplai,\n\n    Et on plus vos honraria,\n\n    Adoncs i perdria mai.                 54\n\n\nI.--Tu n'as aucun talent, Peire Raimon, et ton esprit est vil; ton\n\nsavoir ne vaut pas deux deniers angevins parmi les gens bien élevés;\n\nje tiens pour ignorant celui qui te fait du bien ou te donne des\n\nhonneurs; et sache que je ne te donnerai rien, quelque besoin que tu\n\nen aies, mais (je te donnerai) parce que tu es venu ici pour moi.\n\n\nII.--Seigneur, vous êtes mou et lâche an milieu de vos voisins; le\n\npain et le vin nous manquent, ainsi que l'or et l'argent; mais moi,\n\nmon talent est noble, si vos paroles sont méchantes; et si j'ai jamais\n\nquelque chose de vous, jamais, auprès de quelque homme que ce soit,\n\njamais, dis-je, je n'essuierai de refus.\n\n\nIII.--Pierre, mon sens me fut peu utile, quand je vous provoquai à une\n\ntenson; car votre talent est parfait, vous êtes distingué et aimable;\n\nvotre équipement (?) est grand (votre préparation est grande?) et les\n\nchants sont agréables; et il n'y a pas de jongleur qui fît des folies\n\naussi tard, ni qui fît plus tôt de bons discours.\n\n\nIV.--Vous êtes si large et si bon connaisseur que vous donneriez en\n\ndeux matins tout l'avoir de Paris; Joie et Jeunesse vous plaisent,\n\nseigneur, et votre hardiesse est grande, où vous faites mainte\n\nentreprise; je ne connais pas d'homme plus affable que vous, et si\n\njamais j'ai dit du mal de vous, que tout le monde sache que j'en ai\n\nmenti.\n\n\nV.--Voyez le misérable truand qui s'est imaginé que je me moquais de\n\nlui et que je louais et que j'approuvais ses mauvaises façons d'agir.\n\nSi jamais un bon propos lui passa par les dents, je veux que jamais\n\ncelle que j'aime ne m'embrasse; et s'il a dit du mal de moi par\n\nressentiment, je lui pardonne, car il y renonce.\n\n\nVI.--Misère et ennui sont logés toute l'année chez vous; et celui\n\nqui vante votre conduite sans énergie ainsi que votre avilissement,\n\ncelui-là montre bien comment il est connaisseur; et celui qui vous\n\nhonore n'y gagne rien; pour moi je vous ai tant honoré que je le\n\nregrette; et plus je vous honorerais, plus j'y perdrais.\n\n\nNotes:\n\n\nTexte de _O_ publié dans _l'Archiv für das Studium der neueren\n\nSprachen_, XXXIV, p. 382. En dehors de quelques changements\n\nsimplement orthographiques, nous avons corrigé les passages suivants:\n\nv. 2, ms. _Peire_; v. 3, ms. _ameunis_, l. _anjevins_\n\n(déjà corrigé d'ailleurs par Raynouard, qui a publié la première\n\nstrophe de cette composition, _Choix_, V, p. 101; v. 5, ms.\n\n_tengi_; v, 18, l. _anc mon jorn_?; v. 35, ms. _raal_;\n\nv. 49, _ben_, l. _e·ls_? Levy, _Suppl. W_.\n\n(_envelzimen_), se demande si on pourrait changer _ben_ en\n\n_beu_; mais cela ne servirait à rien; v. 52, ms. _onre_; la\n\ncorrection _onrei_ est de Levy, _Suppl. W., Mescazer_.\n\n\nBertran de Gourdon, seigneur de cette ville, fait hommage de cette\n\nville à Philippe-Auguste en 1211 et à Simon de Montfort en 1218.\n\nIl tensonna aussi avec le troubadour Mathieu de Quercy (texte dans\n\nKolsen, _Dichtungen der Troubadours_, no. 44), qui lui reprocha\n\nd'avoir vendu sa ville. (Cf. _Hist. Gén. Lang_., X, 340.) La\n\ntenson de Peire Raimon est sans doute antérieure à 1211.\n\n\nXVIII [No. 20 de Bartsch]."
+    },
+    {
+      "title": "I.",
+      "content": "Us novels pessamens m'estai\n\n    Al cor, per qu'eu n'ay greu cossir,\n\n    Don fas mant angoissos sospir;\n\n    E n'ai soven mon cor plus guay,\n\n    E·m gart miels de far desplazer,          5\n\n    E m'esfors en ben captener,\n\n    Quan vey que n'es luecx e sazos;\n\n    E selh qu'a son poder es bos,\n\n    Ben deu aver mais d'onransa.              9"
+    },
+    {
+      "title": "II.",
+      "content": "Onramens grans cre que·l n'eschai\n\n    A celh que sap en patz sufrir\n\n    Son dan, o belhamen cubrir,\n\n    Mantas vetz, so qu'al cor no·l play;\n\n    Et qui sobr'ira·s sap tener              14\n\n    De far e de dir non dever,\n\n    Ges non s'en merma sa razos;\n\n    Per qu'om non deu esser coytos\n\n    De far gran desmezuransa.                18"
+    },
+    {
+      "title": "III.",
+      "content": "Desmezura conosc hueymai\n\n    Que fai ma dona, ses mentir,\n\n    Pus que a se·m fetz aissi venir,\n\n    E so que·m promes er m'estray;\n\n    Que qui non a vezat aver                 23\n\n    Gran be, plus leu sap sostener\n\n    Afan, que tals es belhs e bos,\n\n    Que·l maltraitz l'es plus angoissos,\n\n    Quan li sove·l benanansa.                27"
+    },
+    {
+      "title": "IV.",
+      "content": "Benanans' e fin joi verai\n\n    Aic ieu de midons al partir.\n\n    Partiz non suy, per qu'ieu m'azir,\n\n    Quar a mos precs braus respos fay,\n\n    Denan sos pes l'irai cazer,              32\n\n    S'a lieys platz que denhe voler\n\n    Que de lieys fassa mas chansos,\n\n    Quar de me no suy poderos\n\n    Qu'en autra paus m'esperansa,            36"
+    },
+    {
+      "title": "V.",
+      "content": "Ben esper, per l'afan que n'ai,\n\n    Que·m vuelha midons mantenir,\n\n    Que non es autr', al mieu albir,\n\n    Ni fon tan belha, sotz lo ray.\n\n    Sopleian quier que·m denh valer;         41\n\n    Qu'ieu conosc, segon mon saber,\n\n    Qu'ab los melhors se fai hom bos;\n\n    Et es assatz belha razos\n\n    Aver joy de fin'amansa.                  45"
+    },
+    {
+      "title": "VI.",
+      "content": "Mans jointas e de genolhos\n\n    Mi rent a vos qu'etz bel' e pros,\n\n    Domna de gaia semblansa.                 48\n\n\nI.--J'ai au coeur un nouveau chagrin, qui me donne grand souci et dont\n\nje fais maint pénible soupir; et j'en ai souvent mon coeur plus gai et\n\nje me garde mieux de faire déplaisir; je m'efforce de me bien tenir,\n\nquand je vois que c'est le lieu et le moment; et celui qui est bon\n\nquand et comme il veut, doit bien avoir plus d'honneur.\n\n\nII.--Je crois qu'un grand bonheur échoit à celui qui sait souffrir en\n\npaix son malheur ou qui sait cacher habilement maintes fois ce qui ne\n\nplaît pas à son coeur; et pour celui qui sait se modérer pour faire\n\net pour dire ce qu'il ne faut pas, son compte (= son bénéfice?) ne\n\ndiminue nullement; c'est pourquoi on ne doit pas se hâter de faire\n\ngrande _desmesure_ (orgueil).\n\n\nIII.--Je sais désormais que ma dame fait, sans mentir, grande\n\n_desmesure_, puisqu'elle me fît venir ici vers elle et qu'elle me\n\nretire maintenant ce qu'elle m'a promis; celui qui n'est pas accoutumé\n\nà avoir grand bien sait supporter plus facilement sa misère; tel est\n\nbeau et bon, à qui le malheur est plus pénible, quand il se souvient\n\ndu bonheur.\n\n\nIV.--Le bonheur et la joie parfaite et sincère, je les eus de ma dame\n\nquand je la quittai. Je ne suis pas parti, c'est pourquoi je m'irrite,\n\nparce qu'elle ne fait à mes prières que de dures réponses. J'irai\n\ntomber à ses pieds, s'il lui plaît qu'elle daigne vouloir que je fasse\n\nd'elle mes chansons, car pour moi je n'ai pas le courage de placer en\n\nune autre mon espérance.\n\n\nV.--J'espère bien, pour le chagrin que j'en ai, que ma dame daignera\n\nme conserver; car, à mon avis, il n'y en a pas et il n'y en eut jamais\n\nd'autre qui soit si belle sous le rayon du ciel; je lui demande en\n\nsuppliant de me secourir; car je sais, suivant ma connaissance,\n\nqu'avec les meilleurs on devient bon; et d'ailleurs il est assez juste\n\nque l'on ait la joie du parfait amour.\n\n\nVI.--Mains jointes et à genoux, je me rends devant vous, qui êtes\n\nbelle et distinguée, dame à l'accueil si gai.\n\n\nNotes:\n\n\nTexte de Raynouard, _Lexique Roman_, I. 334. _Parnasse\n\nOccitanien_, p. 29. Au v. 14, Raynouard a _sobritas_ pour\n\n_sobriras_; cf. Levy, _Suppl. W., sobritas_.\n\n\nLa _tornada_ est empruntée au ms. c (Stengel, _Die\n\naltprov. Liedersammlung_ c, no. cxv); je ne connais pas le\n\ntexte des autres manuscrits; elle s'y trouve sous la forme suivante:\n\n\n    Humils mans joingç de genoillos\n\n    Maren a vos qeç bel e pros\n\n    Domna de gaia semblança.\n\n\nDe plus, le ms. c a, comme fin de la strophe V, le texte\n\nsuivant:\n\n\n    Qeu conosc segon mon saber\n\n    Qe pauc conqer hom nuaillos\n\n    E ual trop mais bes per un dos\n\n    Car compraz qe qa senança.\n\n\nIl est possible que la pièce de Peire Raimon ait eu d'abord six\n\nstrophes et que nous ayons, dans le texte de c, la fin de la\n\nsixième.\n\n\nAPPENDICES\n\n\nI.--Peire Bremon [Bartsch, 355, 11]."
+    },
+    {
+      "title": "I.",
+      "content": "Pois lo bels temps renovella\n\n    E fai de novel renverdir\n\n    Tot qant es, voilh de novel dir\n\n    C'uns novels volers m'apella                    4\n\n    E·m di qe chant novellamen\n\n    D'un gen cors novel avinen,\n\n    A cui  me sui  de novel ferm fermatz,\n\n    Qar sui  per lui  de nou renovellatz.           8"
+    },
+    {
+      "title": "II.",
+      "content": "Gen renovellet la bella\n\n    Mon gen cor al gent acuillir\n\n    Qe·m fes gen, per q'ades consir\n\n    Qon gen fins pretz la capdella                 12\n\n    E com ab gen acuillimen\n\n    M'a del cors mon fin cor trait gen;\n\n    Sens brui refui gen, qe, si·m plac, no·m plaz\n\n    Desdui d'autrui, si·m lia ab gen latz.         16"
+    },
+    {
+      "title": "III.",
+      "content": "Tant l'am qe·l cors me travella\n\n    Amors e·m fai lo cor languir.\n\n    E si·m vol far aman morir\n\n    Amors, q'enaisi·m martella,                    20\n\n    Far o pot, tant am fermamen\n\n    Lei, qe aman me et mon sen\n\n    Destrui, q'abdui l'aman ples traenz tratz;\n\n    Q'ab glui m'estui tan l'am ab gran senz gratz. 24"
+    },
+    {
+      "title": "IV.",
+      "content": "Grat li·n sai qar es isnella\n\n    E sap grat dels pros retenir\n\n    E·s fa' gradan son pretz grasir,\n\n    E grat, qar aissi·m cenbella,                  28\n\n    Qar, s'ab lei trob merce grasen,\n\n    Grat n'aura; e merces eissamen\n\n    Sen trui s'endui leis ab grat, on jois jatz,\n\n    Per cui relui ab grat rics pretz presatz.      32"
+    },
+    {
+      "title": "V.",
+      "content": "Pretz fins fai Audiart valent\n\n    Del Bauz, il et el' eissamen,\n\n    Don cui sens trui certz pretz s'es encertatz\n\n    En lui per cui viu pretz d'onor onratz.        36\n\n\nI.--Puisque le temps «nouveau» (le printemps) revient et fait de\n\nnouveau reverdir tout ce qui existe, je veux dire de nouveau qu'un\n\nnouveau désir m'appelle et me dit que je chante à nouveau d'un gentil\n\ncorps nouveau (jeune) avenant, à qui je me suis de nouveau fermement\n\nattaché, car je suis par lui de nouveau renouvelé.\n\n\nII.--Elle renouvela gentiment, la belle, mon gentil coeur, an gentil\n\naccueil qu'elle me fit; c'est pourquoi je réfléchis aussitôt combien\n\ngentiment la valeur parfaite la guide et comment avec un gentil\n\naccueil elle m'a tiré gentiment du corps mon coeur parfait. Sans\n\nquerelle, je la repousse gentiment, car si jamais plaisir d'autrui me\n\nplut, maintenant il ne me plaît pas, quoiqu'elle me lie avec un gentil\n\nlacet.\n\n\nIII.--Je l'aime tant qu'Amour traverse mon corps et me fait languir\n\nle coeur. Et si Amour me veut faire mourir en aimant, puisqu'il me\n\nmartelle ainsi, il peut le faire, tellement je l'aime fermement celle\n\nqui, par suite de mon amour, me détruit et m'enlève la raison; car\n\ntous deux (_c'est-à-dire_ moi et ma raison) nous l'aimons à\n\npleins traits; je l'aime tellement avec grain (?) sans récompense que\n\nje m'enferme avec la paille (?).\n\n\nIV.--Je lui sais gré d'être aimable (vive?), de savoir plaire aux bons\n\net de savoir faire valoir son mérite agréable; je lui sais gré\n\naussi de me leurrer ainsi, car si je trouve auprès d'elle une pitié\n\nreconnaissante, elle en aura la récompense; et pitié également (aura\n\nsa récompense?) assurément (?), si elle enduit de reconnaissance celle\n\noù siège la joie, par qui reluit avec reconnaissance le noble mérite\n\nhonoré.\n\n\nV.--Noble Mérite fait la valeur d'Audiart du Baux, d'elle et de lui\n\négalement, où je pense assurément (?) que le mérite certain s'est\n\nétabli et par qui vit le Mérite honoré.\n\n\nNotes:\n\n\nCette chanson ne se trouve que dans les manuscrits _T_ et\n\nc; la rareté des rimes en _ui_ et l'emploi du vers de deux\n\nsyllabes, joint à la recherche de l'allitération, sont des causes\n\nd'obscurité. Un mot comme _trui_, qui est employé deux fois,\n\nn'apparaît que dans cette pièce.\n\n\nNous empruntons le texte à Appel, _Provenzalische Inedita_,\n\np. 246. Nous nous en éloignons, en dehors de quelques changements\n\npurement graphiques, sur plusieurs points.\n\n\nV. 9, _Gen_ au lieu de _Ben_; v. 10, nous lisons _cor\n\nal gent acuillir_ avec _T_; v. 13-14, nous lisons _ab gen\n\nacuillimen... m'a_ (au lieu de _ma_) et _trait_ au\n\nlieu de _trai_ (ms. c _trag_); v. 15, Appel met entre\n\nparenthèses _sens brui refui gen_; v. 23, _ples_ c,\n\n_pleis T_ (peu lisible); nous maintenons _ples_ et nous\n\nentendons: «tirant à pleins traits»; v. 27, nous lisons _e·s\n\nfa'gradan_ (= _agradan_); v. 31, mss. _latz; jatz_ prop.\n\nAppel; v. 33, _Apres fins naudiarc T, A pres fins fai neudiarc_\n\nc; nous gardons _fai_ en supprimant _a_; v. 35, _en\n\ncertatz_ c; _enteratz T_.\n\n\nIl est probable que la pièce n'est pas de Peire Raimon. Le ms.\n\n_T_ la lui attribue, mais le ms. c l'attribue à Peire\n\nBremon [Note: _Peire Breumon_ dans le ms.] Ricas Novas; et il\n\nsemble bien qu'elle doive être attribuée à ce dernier, car dans une\n\npièce du même, conservée par le ms. Cámpori [Note: _Studj Fil.\n\nromanza_, VIII, 458.], il est question aussi d'Audiart del Baus,\n\ntandis qu'il n'est pas question de la même personne dans les autres\n\npoésies de Peire Raimon.\n\n\nAudiart du Baux, qui est nommée plusieurs fois par les troubadours\n\n[Note: Cf. Bergert, _Die von den Troubadours genannten Damen_,\n\npp. 62-65.], était l'épouse de Bertran du Baux et mourut en 1257.\n\nC'est peut-être elle que chanta Pons de Capdeuil aux environs de 1220,\n\ndate où elle était encore fort jeune [Note: Bergert, _ibid_., p.\n\n63.].\n\n\nOn pourrait alléguer en faveur de Peire Raimon qu'une au moins de ses\n\npoésies (_Ara pos iverns_) rappelle la manière de celle-ci (même\n\nrecherche des mots rares), que la comparaison du _glueg_ (chaume)\n\net du _gran_ (grain) s'y retrouve, et que, dans une pièce d'Uc\n\nde Saint-Cyr, cette recherche et cette subtilité lui sont reprochées\n\n[Note: Ed. Jeanroy-De Grave, no.(2) XXVII, XXIX.]. De plus, il n'y\n\naurait rien d'extraordinaire à ce que Peire Raimon, qui a séjourné en\n\nItalie, qui a chanté le comte de Savoie et le marquis de Malaspina,\n\nait eu l'occasion de séjourner à Marseille et d'y chanter Audiart du\n\nBaux.\n\n\nMais la tornade de la pièce du ms. Cámpori paraît trancher la question\n\nen faveur de Peire Bremon; car elle est rédigée à peu près dans les\n\nmêmes termes que la tornade de la présente composition. La voici:\n\n\n    N'Audeiart del Baus certana\n\n    Valors e fin[s] pres certans\n\n    Fan vostre[s] faigz sobeiranz\n\n    E vos de pretz sobeirana.\n\n\nV. 7, _De novel_ serait en faveur de Peire Bremon, car il nous\n\nreste une autre chanson de lui adressée à Audiart. V. 24, le vers\n\nn'est pas clair; il y a opposition entre le grain et la paille, comme\n\ndans la pièce de Peire Raimon: _Ara pos hiverns_ (_E mant\n\nhom pert lo gran el glueg_, v. 21). Doit-on entendre: «Je l'aime\n\ntellement que je m'enferme avec le chaume, avec grain sans récompense;\n\nau lieu d'avoir le grain (le profit réel), je me contente de la paille\n\navec ses balles, sans grain, c'est-à-dire sans récompense réelle?» Au\n\nv. 23, Appel entend: «puisque tous deux l'aiment (l'Amour), Amour prit\n\n(_pres_) en trompant les trompés.» (_Ap_. Levy, _Suppl.\n\nW_., IV, 139(a).) Cette interprétation ne me paraît pas probable\n\npour de multiples raisons. J'entends: «_à pleins traits tirant_»;\n\nil s'agirait d'une expression populaire (comme l'opposition entre le\n\n_glui_ et le _gran_) se rapportant aux chevaux tirant à\n\npleins traits, à plein collier. _Trui_ (v. 31, 35) ne paraît pas\n\nse rencontrer ailleurs qu'ici. Levy (_Petit Dict_.) traduit:\n\n_sen trui_, assurément, avec un point d'interrogation. Faut-il\n\nrattacher le mot à un hypothétique _truchar_ [Note: La forme\n\n_trucar, truchar_ existe, mais avec le sens d'échanger, troquer;\n\nest-ce à ce mot qu'on peut rattacher _trui_ pour _truch_?]\n\npour _trichar? Tric_, substantif verbal de _trichar_,\n\nexiste: _truch, trui_ aurait pu être formé sur le modèle de mots\n\ncomme _refug, refui, estuch, estui_.\n\n\nVoici d'ailleurs un exemple de Sordel qui paraît contenir la même\n\nexpression:\n\n\n    Ses truc\n\n    Val mens c'om mort en taüc. (Sordel, _Non pueis_.)\n\n\nRaynouard, qui cite cet exemple (_Lex. Rom_., V, 436(a)), traduit\n\nainsi: «Sans choc il vaut moins qu'homme mort en bière»; mais je\n\nne crois pas qu'il faille traduire avec cette précision: je serais\n\ndisposé à voir ici l'équivalent de _ses trui_, ou _sens\n\ntrui_.\n\n\nII.--Auzias March."
+    },
+    {
+      "title": "I.",
+      "content": "No·m pren axi com al petit vaylet\n\n    Qui va cercant senyor qui festa·l faça,\n\n    Tenint lo calt en lo temps de la glaça\n\n    E fresch d'estiu, com la calor se met,   4\n\n    Preant molt poch la valor del senyor\n\n    E concebent desalt de sa manera,\n\n    Vehent molt clar que té mala carrera\n\n    De cambiar son estat en major.                8"
+    },
+    {
+      "title": "II.",
+      "content": "Com se farà que visca sens dolor,\n\n    Tenint perdut lo bé que posseya?\n\n    Clar e molt bé ho veu, si n(o) ha follia\n\n    Que may porà tenir estat millor.          12\n\n    Donchs que farà, puix altre bé no·l resta,\n\n    Sinó plorar lo bé del temps perdut?\n\n    Vehent molt clar per si ser decebut,\n\n    May trobarà qui·l faça millor festa.         16"
+    },
+    {
+      "title": "III.",
+      "content": "Yo son aquell qui'n lo temps de tempesta.\n\n    Quant les més gents festegen prop los fochs\n\n    E pusch haver ab ells los propris jochs,\n\n    Vaig sobre neu, descalç, ab nua testa,       20\n\n    Servint senyor qui jamés fon vassall\n\n    Ne·l vench esment de far may homenatge.\n\n    En tot leig fet hagué lo cor salvatge;\n\n    Solament diu que bon guardó no·m fall.       24"
+    },
+    {
+      "title": "IV.",
+      "content": "Plena de seny, leigs desigs de mi tall;\n\n    Erbes no·s fan males en mon ribatge;\n\n    Sia entés com dins en mon coratge\n\n    Los pensaments no·m devallen avall.          28\n\n\n    (Ed. A. Pagès, t. I, p. 401).\n\n\nI.--Il ne m'en prend pas comme au petit écuyer qui va cherchant\n\nun seigneur qui lui fasse fête, en le tenant chaud au temps de la\n\nfroidure et frais en été quand la chaleur arrive, prisant fort peu le\n\nmérite du seigneur et concevant mépris pour sa manière (de vivre?),\n\nvoyant parfaitement qu'il suit une mauvaise route (en essayant) de\n\nchanger sa situation pour une situation plus élevée.\n\n\nII.--Comment pourra-t-il se faire qu'il vive sans douleur, ayant perdu\n\nle bien qu'il possédait? Il le voit parfaitement, s'il n'est pas fou,\n\nque jamais il ne pourra avoir un état meilleur. Donc que fera-t-il,\n\npuisque il ne lui reste pas d'autre bien que de pleurer le bien du\n\ntemps perdu? Voyant très bien qu'il est trompé par lui-même, jamais il\n\nne trouvera personne qui le traite mieux.\n\n\nIII.--Je suis celui qui, au temps de la tempête, quand les plus nobles\n\nfestoyent auprès du feu et que je puis avoir près d'eux leurs propres\n\njeux, vais sur la neige, pieds nus et tête nue, servant un seigneur\n\nqui jamais ne fut vassal et à qui ne vint jamais l'intention de faire\n\njamais hommage. A l'égard de toute malhonnête action j'ai eu le coeur\n\nsauvage; je dis seulement que bonne récompense ne me manque pas.\n\n\nIV.--Pleine-de-sens, je coupe en moi les vilains désirs; des mauvaises\n\nherbes ne croissent pas en mon rivage; qu'il soit entendu que dans mon\n\ncoeur les pensers ne descendent pas bas.\n\n\nNotes:\n\n\nCette pièce n'est pas une imitation à proprement parler de la pièce de\n\nPeire Raimon; mais l'inspiration, surtout dans le premier couplet,\n\nest évidente. Il semble d'ailleurs qu'il y ait d'autres souvenirs de\n\ntroubadours, peut-être de Peire Vidal. Les derniers vers rappellent\n\naussi la fin de la pièce de Peire Raimon: _Enquera·m vai\n\nrecalivan_.\n\n\nM. Pierre Vidal, bibliothécaire de la ville, à Perpignan, a bien voulu\n\nm'aider à interpréter quelques passages de ce texte; je lui en exprime\n\nmes meilleurs remerciements.\n\n\n    GLOSSAIRE\n\n\n    abnegar, _abandonner_, III, 30.\n\n    afrevolir, _devenir faible_, VI, 34.\n\n    aib, _qualité_, XVI, 40, 57.\n\n    aizinar (s'), _habiter avec_, X, 18.\n\n    al, _autre chose_, I, 27.\n\n    amela, _amande_, IV, 67.\n\n    amiran, _amiral_, VIII, 81.\n\n    angevin, _monnaie angevine_, XVII, 3.\n\n    apilar (s'), _s'enraciner_, XII, 23.\n\n    arezamen, _équipement_, XVII, 23.\n\n    ascona (bec d'), _bec affilé_, X, 9; voir la note.\n\n    autor, _auteur, juriste_, XV, 10.\n\n    auzello, _oiselet_, XII, 4.\n\n    avondar, _aider, être utile_, XVII, 18.\n\n\n    baduelh, _sot, fanfaron_ (?), X, 32.\n\n    bai, _baiser_, I, 42.\n\n    balansar (se), _balancer, hésiter_, XVI, 36.\n\n    basto, _lance_, VIII, 59.\n\n    bauzia, _tromperie_, IV, 29.\n\n    belhaire, _plus belle_, IX, 13.\n\n    biaissar (se), _se détourner_, V, 39.\n\n    bobans, _orgueil_, XI, 30.\n\n    breu, _lettre_, XV, 28.\n\n    broil, _forêt_, X, 4; XII, 1.\n\n    brot, _branche_, III, 1.\n\n    brotonar, _produire des boutons_, X, 1.\n\n    brug (levar), _faire du bruit_, XVI, 37.\n\n    brui, _bruit_, IV, 64 (à la rime).\n\n    brui, _bruit, querelle_? _App_., I, 15.\n\n    bureu, _bure_, II, 39.\n\n\n    calandra, _alouette calandre_, VII, 1.\n\n    candela, _chandelle_, IV, 1.\n\n    capdoil (auzor), _sommet_, V, 37.\n\n    cenher, _entourer_, VIII, 53.\n\n    chaitiveza, _misère_, XVII, 46.\n\n    chanso,  VIII, 1; IX, 2; XI, 3; XIV, 41; XVIII, 34.\n\n    chansoneta, _chanson_, VI, 52.\n\n    chantador, _chanteur, poète_, XIII, 22.\n\n    chantar, _chant_, XVII, 24.\n\n    chantaret, _chansonnette_, VIII, 14.\n\n    chausimen, _pitié_, I, 7; V, 33.\n\n    chauzir, _choisir, voir_ (?), II, 19.\n\n    chauzir, _remarquer_, V, 43.\n\n    cobletas, _couplets_, VIII, 90.\n\n    cochat, _pressé_ (?), XIII, 18.\n\n    cor (aver en), _désirer_, VI, 41.\n\n    cor (aver a), _avoir à coeur_, IV, 48.\n\n    cor (aver), _désirer_, XIV, 12.\n\n    corduelh, _chagrin_, X, 26.\n\n    cort, _cour_, IV, 22.\n\n\n    derrier, _dernier_, VI, 49; cf. la note sur ce mot.\n\n    descort, I, 1.\n\n    dieta, _diète_, VI, 33.\n\n    duc, VIII, 84.\n\n\n    egar (s'), _s'égaler_, XII, 37.\n\n    eisegar, _dessécher_ (?), XII, 28.\n\n    embregar (s'), _s'occuper_, XII, 21.\n\n    enfoletir, _devenir fou_, IV, 42.\n\n    ensenhamen, _perfection_, XVI, 14.\n\n    envelziment, _avilissement_, XVII, 49.\n\n    escarnit, _trompé_, XV, 4.\n\n    escut, _bouclier_, VIII, 59.\n\n    escoil, _manières, conduite_, V, 14.\n\n    espelh, _miroir_, XII, 18.\n\n    essay, _manière_, XI, 31.\n\n    estam, _chaîne de tisserand_, III, 10.\n\n    estenher, _éteindre_, VII, 13; _confondre_ (?), VIII, 25.\n\n    estraire (s'), _renoncer à_, v, 45; prét., 3e p. sg.,\n\n    _estrais_ (à la rime), IX, 15.\n\n    estrenher, _diminuer_, i, 47; _étreindre_, VII, 15.\n\n    estujar, _cacher_; ind. prés., 1e p. sg., _estui_\n\n            (à la rime), IV, 69.\n\n\n    fadenc, _homme fou_, III, 20.\n\n    fades, _folie_, II, 37.\n\n    faidit, _exité_, XI, 45.\n\n    fenher (se), _se vanter_ (?), VIII, 24.\n\n    fossat, _fossé_, XI, 46.\n\n\n    gab, _plaisanterie_, XI, 30.\n\n    gems, _gémissements_, III, 15.\n\n    genolhos (a), _à genoux_, XIV, 18.\n\n    genolhos (de), _à genoux_, XVIII, 46.\n\n    giardina, _jardin_, X, 6.\n\n    glay, _glaïeul_, XI, 1.\n\n    glui, _chaume_, III, 21; _App_., I, 24.\n\n    gran, _grain_, III, 21; _App_. I, 24.\n\n    groc, _jaune_, XII, 2.\n\n    gronir, _grogner_; subj. prés., 3e p. sg., _grona_, X, 41.\n\n\n    jangluelh, _bavardage_, X, 8.\n\n    joglar, _jongleur_, XVII, 25.\n\n    jornal, _journée_, V, 2.\n\n\n    languiar, _alanguir_, VI, 23.\n\n    lec, _désireux_, XII, 24.\n\n    lipaudes, _flatteur_, II, 33.\n\n\n    maestril (mot), _excellent_, XII, 7.\n\n    magrezir, _maigrir_, VI, 45.\n\n    malestan (mot), _qui ne convient pas_, VI, 53.\n\n    malmerenz, _coupable_, XIII, 20.\n\n    mecina, _guérison_, X, 30.\n\n    melhorar, _s'améliorer_, I, 50.\n\n    membransa, _pensée_, ix, 42; _souvenir_, XVI, 18.\n\n    metge, _médecin_, II, 5; VI, 5, 21.\n\n    mirail, _miroir_, XVI, 13.\n\n    mot, _parole_, XI, 4, 7.\n\n    motz (bons), _paroles_, XII, 14; XVII, 41.\n\n\n    non (dire), VIII, 26.\n\n\n    ocaizonar, _reprocher_, XIV, 5.\n\n    om, _homme lige_, XIII, 34.\n\n    ostal, _maison_, V, 2.\n\n\n    paratge, _noble origine_, IV, 51; XIV, 25.\n\n    pareisser, _paraître_; prét., 3e p. sg., _parec_, XII, 12.\n\n    parlador (mal), _médisant_, XIII, 12.\n\n    parlamen, _parole_, I, 46; V, 12.\n\n    parlier, _bavard_, XII, 29.\n\n    parlier (malvais), _médisant_, XIII, 40.\n\n    pec, _sot, maladroit_, III, 6.\n\n    pitansa, _pitié_, IX, 54.\n\n    playssadenc, _haie_, III, 4.\n\n    poc (à la rime), forme du prétérit,  3e p. sg.,\n\n    en fonction de présent, VII, 27.\n\n    premer, _tourmenter_, III, 39.\n\n    presset, _sorte de laine_, II, 40.\n\n\n    ramenc, _qui vit dans les branches_, III, 12.\n\n    ras, _privé de_, III, 24.\n\n    recalivar, _brûler_, VI, 1.\n\n\n    recreire, _se fatiguer_; _recreia_, subj. prés.,\n\n    1e p. sg., IV, 18 (à la rime).\n\n    recrezut, _fatigué_, XVI, 28.\n\n    refrim, _refrain_, XII, 3.\n\n    renc, _royaume_, X, 37.\n\n    renhar, _vivre_, III, 32.\n\n    repondre, _ensevelir_, X, 27.\n\n    resis, _sans énergie_, XVII, 48.\n\n    retindida, _écho_, X, 5.\n\n    rossinhol, X, 3.\n\n\n    salamandra,VII, 10.\n\n    salut, _salut d'amour_,XV, 28.\n\n    saya, _laine_, II, 40.\n\n    sems, _privé de_, III, 23.\n\n    senha, _cri de guerre_, VIII, 81.\n\n    serf, XIII, 48.\n\n    servire, _serviteur_, IV, 26.\n\n    so, _mélodie_, I, 1; XI, 4, 7.\n\n\n    tafur, _vil_, XI, 23; _traand_, XVII, 37.\n\n    talan, _désir_, I, 16.\n\n    tanher, _convenir_; imp. du subj., 3e p. sg., _tanhes_ et\n\n    _taisses_, XIV, 26; cf. la note. Prét., 3e p. sg.,\n\n    _tais_, V, 23 (à la rime).\n\n    tener (se) sobre ira, _se modérer_, XVIII, 14.\n\n    ters, _dénué de_, III, 24.\n\n    tersol, _tiercelet_, III, 12.\n\n    tolre (se), _cesser de_, V, 6.\n\n    traïre, _traître_, I, 36.\n\n    traire, _supporter, souffrir_, IV, 4; VI, 9; _tirer_, VIII, 60.\n\n    traitura, _diète_, VI, 6.\n\n    tratz (traenz), _traits_ (?). _App_., I 23; cf. la note.\n\n    travellar, _traverser_, _App_., I, 17.\n\n    trencar (se), _se briser_, III, 28.\n\n    trepelh, _agitation, tapage_,XII, 3.\n\n    trics (de), ?, III, 14.\n\n    truelh, _tromperie_, X, 10.\n\n    trui; _App_., I, 31, 35; cf. la note.\n\n\n    usquec, _chacun_, XI, 26; XII, 8.\n\n\n    vers, _vers_, III, 8.\n\n    vers, _vers_ (genre), VII, 6.\n\n    vezat, _habitué_, XVIII, 23.\n\n    viular, _jouer de la viole_, VIII, 90.\n\n\n    INDEX DES NOMS PROPRES\n\n\n    ALIXANDRA, Alexandrie, VIII, 19, 28.\n\n    ANTON; cf. GINTARTZ.\n\n    ARAGO, IV, 59; VIII, 72.\n\n    AUDIART DEL BAUS, _App_., I, 33.\n\n    AURAMALA, XIV, 46.\n\n    AYA, II, 32.\n\n\n    BARSALONA, X, 37.\n\n    BEATRITZ D'EST, XVI, 58.\n\n    BRENS, Brens (Tarn), III, 36.\n\n    BUVALEL; cf. RAMBERTI.\n\n\n    COLRAT, CONRAD DE MALASPINA, XIV, 47.\n\n    COMTESSA, VI, 51 (comtesse de Toulouse?).\n\n    CROTZ (SANTA), III, 17.\n\n\n    DIAMAN (MON). II, 41.\n\n\n    EREUBUT (MON), VI. 50; VIII, 2.\n\n    EST; cf. BEATRITZ.\n\n\n    FENIX? III, 14.\n\n    FOYS, FOIX, III, 36.\n\n\n    GINTARTZ D'ANTON, X, 44.\n\n\n    IPOCRAS, Hippocrate, VI, 19.\n\n\n    LANDRICS, II, 32.\n\n\n    MALESPINA, III, 27.\n\n    MALASPINA (GUILLEM), XI, 49.\n\n    Mecier. _messire_, XIV, 47.\n\n\n    PARADIS, IX, 26.\n\n    PARIS, XVII, 29.\n\n    PEIR RAIMON, XVII, 2.\n\n\n    RAMBERTI DE BUVALEL, V, 44.\n\n    REI (D'ARAGO), IV, 58; VIII, 72.\n\n\n    SAVOIA, I, 49.\n\n    SOBRETOTZ, XIV, 48, surnom donné à Conrad de Malaspina.\n\n\n    TOLOZA. II, 43."
+    }
+  ]
+}

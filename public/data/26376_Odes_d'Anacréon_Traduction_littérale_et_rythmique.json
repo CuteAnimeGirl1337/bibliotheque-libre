@@ -1,0 +1,620 @@
+{
+  "id": 26376,
+  "title": "Odes d'Anacréon: Traduction littérale et rythmique",
+  "authors": [
+    {
+      "name": "Anacreon"
+    }
+  ],
+  "subjects": [
+    "Anacreon -- Parodies, imitations, etc.",
+    "Greek poetry -- Translations into French"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "source": "https://www.gutenberg.org/ebooks/26376",
+  "download_count": 580,
+  "stats": {
+    "total_chars": 43257,
+    "total_words": 6529,
+    "chapter_count": 74,
+    "reading_time_minutes": 26
+  },
+  "table_of_contents": [
+    {
+      "index": 0,
+      "title": "Préface"
+    },
+    {
+      "index": 1,
+      "title": "I"
+    },
+    {
+      "index": 2,
+      "title": "II"
+    },
+    {
+      "index": 3,
+      "title": "III"
+    },
+    {
+      "index": 4,
+      "title": "IV"
+    },
+    {
+      "index": 5,
+      "title": "V"
+    },
+    {
+      "index": 6,
+      "title": "VI"
+    },
+    {
+      "index": 7,
+      "title": "VII"
+    },
+    {
+      "index": 8,
+      "title": "VIII"
+    },
+    {
+      "index": 9,
+      "title": "IX"
+    },
+    {
+      "index": 10,
+      "title": "X"
+    },
+    {
+      "index": 11,
+      "title": "XI"
+    },
+    {
+      "index": 12,
+      "title": "XII"
+    },
+    {
+      "index": 13,
+      "title": "XIII"
+    },
+    {
+      "index": 14,
+      "title": "XIV"
+    },
+    {
+      "index": 15,
+      "title": "XV"
+    },
+    {
+      "index": 16,
+      "title": "XVI"
+    },
+    {
+      "index": 17,
+      "title": "XVII"
+    },
+    {
+      "index": 18,
+      "title": "XVIII"
+    },
+    {
+      "index": 19,
+      "title": "XIX"
+    },
+    {
+      "index": 20,
+      "title": "XX"
+    },
+    {
+      "index": 21,
+      "title": "XXI"
+    },
+    {
+      "index": 22,
+      "title": "XXII"
+    },
+    {
+      "index": 23,
+      "title": "XXIII"
+    },
+    {
+      "index": 24,
+      "title": "XXIV"
+    },
+    {
+      "index": 25,
+      "title": "XXV"
+    },
+    {
+      "index": 26,
+      "title": "XXVI"
+    },
+    {
+      "index": 27,
+      "title": "XXVII"
+    },
+    {
+      "index": 28,
+      "title": "XXVIII"
+    },
+    {
+      "index": 29,
+      "title": "XXIX"
+    },
+    {
+      "index": 30,
+      "title": "XXX"
+    },
+    {
+      "index": 31,
+      "title": "XXXI"
+    },
+    {
+      "index": 32,
+      "title": "XXXII"
+    },
+    {
+      "index": 33,
+      "title": "XXXIII"
+    },
+    {
+      "index": 34,
+      "title": "XXXIV"
+    },
+    {
+      "index": 35,
+      "title": "XXXV"
+    },
+    {
+      "index": 36,
+      "title": "XXXVI"
+    },
+    {
+      "index": 37,
+      "title": "XXXVII"
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII"
+    },
+    {
+      "index": 39,
+      "title": "XXXIX"
+    },
+    {
+      "index": 40,
+      "title": "I"
+    },
+    {
+      "index": 41,
+      "title": "II"
+    },
+    {
+      "index": 42,
+      "title": "III"
+    },
+    {
+      "index": 43,
+      "title": "IV"
+    },
+    {
+      "index": 44,
+      "title": "V"
+    },
+    {
+      "index": 45,
+      "title": "VI"
+    },
+    {
+      "index": 46,
+      "title": "VII"
+    },
+    {
+      "index": 47,
+      "title": "XL"
+    },
+    {
+      "index": 48,
+      "title": "XLI"
+    },
+    {
+      "index": 49,
+      "title": "XLII"
+    },
+    {
+      "index": 50,
+      "title": "XLIII"
+    },
+    {
+      "index": 51,
+      "title": "XLIV"
+    },
+    {
+      "index": 52,
+      "title": "XLV"
+    },
+    {
+      "index": 53,
+      "title": "XLVI"
+    },
+    {
+      "index": 54,
+      "title": "XLVII"
+    },
+    {
+      "index": 55,
+      "title": "XLVIII"
+    },
+    {
+      "index": 56,
+      "title": "XLIX"
+    },
+    {
+      "index": 57,
+      "title": "L"
+    },
+    {
+      "index": 58,
+      "title": "LI"
+    },
+    {
+      "index": 59,
+      "title": "LII"
+    },
+    {
+      "index": 60,
+      "title": "LIII"
+    },
+    {
+      "index": 61,
+      "title": "LIV"
+    },
+    {
+      "index": 62,
+      "title": "LV"
+    },
+    {
+      "index": 63,
+      "title": "LVI"
+    },
+    {
+      "index": 64,
+      "title": "LVII"
+    },
+    {
+      "index": 65,
+      "title": "LVIII"
+    },
+    {
+      "index": 66,
+      "title": "I"
+    },
+    {
+      "index": 67,
+      "title": "II"
+    },
+    {
+      "index": 68,
+      "title": "III"
+    },
+    {
+      "index": 69,
+      "title": "LIX"
+    },
+    {
+      "index": 70,
+      "title": "LX"
+    },
+    {
+      "index": 71,
+      "title": "LXI"
+    },
+    {
+      "index": 72,
+      "title": "LXII"
+    },
+    {
+      "index": 73,
+      "title": "LXIII"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Préface",
+      "content": "Proofreading Team at https://www.pgdp.net (This book was\n\nproduced from scanned images of public domain material\n\nfrom the Google Print project.)\n\n\n  Odes d'Anacréon\n\n\n  _ÉDITION D'AMATEUR\n\n  sur papier de Hollande\n\n  à deux cents exemplaires numérotés[1]._\n\n\n  No 6\n\n\n[Note 1: _Les exemplaires de passe sont numérotés 200 a, 200 b,\n\n200 c, etc._\n\n\n_Cet ouvrage, vu son caractère classique, pourra être réimprimé\n\nultérieurement sur papier ordinaire._]\n\n\n  Odes\n\n  d'Anacréon\n\n\n  _Traduction littérale et rythmique_\n\n\n  PAR\n\n\n  ALEXANDRE MACHARD\n\n\n[Illustration]\n\n\n  PARIS\n\n\n  ISIDORE LISEUX, ÉDITEUR\n\n\n  Rue Bonaparte, no 25\n\n\n  1884\n\n\nAVERTISSEMENT\n\n\nDussions-nous scandaliser les admirateurs de M. Patin (il en a,\n\nparaît-il), nous proclamerons très haut cette vérité stupéfiante,\n\nparadoxe d'aujourd'hui, qui triomphera demain:\n\n\n«_Les Poètes anciens n'ont pas encore été traduits._»\n\n\nDe leurs poèmes on nous a tout rendu; tout, excepté ce quelque chose\n\nde fugitif et d'ailé, de difficilement saisissable: le rythme,\n\nc'est-à-dire l'âme même des vers.\n\n\nC'est que les traducteurs n'ont pas voulu s'obliger, comme nous, à\n\nrendre _un vers par_ _une ligne_. Ils n'ont pas craint de noyer dans\n\nun flot de prose continue et monotone les vers les plus opposés par\n\nle sens, les plus nettement distingués par l'intention du poète. Dès\n\nlors, que deviennent, dans ce furieux débordement de prose, les\n\nrepos, les suspensions? Que deviennent les enjambements si familiers\n\naux Grecs, et que les Romantiques n'ont pas inventés; tout ce qui\n\ndonne enfin au vers son coloris, son mouvement et comme une vie\n\npersonnelle? Il n'y paraît plus, et la prose de nos traducteurs n'est\n\nqu'un Hébrus glacé qui roule les membres épars des Orphées déchirés.\n\n\nAinsi M. Patin, le Perrot d'Ablancourt de ce siècle, s'est évertué\n\nsur Horace: sa traduction n'est qu'une belle infidélité de plus, si\n\njamais une infidélité put être belle.\n\n\nEh bien! nous proscrivons impitoyablement ce système. Nous lui\n\nopposons hardiment notre méthode: _rendre un vers par une ligne_,\n\naussi concise, aussi serrée que lui, fidèle comme un miroir, exacte\n\ncomme un décalque.\n\n\nEt cette reproduction quasi photographique, nous ne l'obtenons pas\n\nsans peine, croyez-le bien. Il y faut apporter la plus scrupuleuse\n\nattention, et comme une religieuse dévotion à son modèle. Pour\n\ntriompher du texte, il faut docilement s'assujettir à lui, en suivre\n\nles inflexions et les méandres, observer les virgules, respecter les\n\nlignes du vers, les enjamber avec un mot placé en rejet: servitude\n\nheureuse, qui assure la victoire du traducteur. Notre méthode est\n\nsurtout faite de conscience.\n\n\nDéjà nous l'avons éprouvée sur les _Juvenilia_ de Théodore de Bèze:\n\nnous n'avons pas eu lieu de nous en repentir. Notre éditeur, tout\n\ndévoué à la cause de la traduction littérale et rythmique des poètes,\n\na donné, dans ce système, plusieurs chants du _Roland furieux_. Son\n\nambition et la nôtre serait de traduire ainsi Homère, Pindare,\n\nAristophane, Lucrèce, Virgile, Horace et tous les grands dieux de\n\nl'Olympe Grec et Latin.\n\n\nNous n'emporterons pas certainement l'approbation, encore moins les\n\nprix de l'Académie; mais il nous reste le plaisir d'être des\n\ninitiateurs et d'ouvrir une voie nouvelle. Et si quelqu'un goûte\n\nnotre méthode, qu'il la suive et qu'il en use, pour verser en\n\nFrançais un de ces vastes et grands poèmes antiques qui restent\n\nencore à traduire, après tant de traducteurs!\n\n\nPour cette fois et pour éprouver à nouveau la sûreté, la certitude de\n\nnotre méthode, nous avons choisi cette parure étincelante de soixante\n\nperles fines qui s'appellent les _Odes d'Anacréon_.\n\n\nNous avons voulu donner une juste idée de ce style taillé à facettes\n\npar un bijoutier curieux et subtil, et surtout laisser au lecteur\n\nl'impression, _la sensation_ qu'il lit des vers.\n\n\nAussi avons-nous poussé l'exactitude photographique jusqu'à conserver\n\naux mots l'ordre qu'ils ont dans l'original. Nous avons défendu au\n\nvers d'empiéter sur le suivant, et les inversions primitives ont été\n\nreproduites, à l'exemple des poètes de la Pléiade.\n\n\nNous n'avons pas voulu traduire en vers; mais ce n'est pas notre\n\nfaute, si la ligne de prose Française, strictement nécessaire à\n\nrendre le minuscule vers Grec, nous a donné souvent un vers Français\n\nde six ou sept pieds.\n\n\nD'ailleurs notre prose est rythmée; elle a sa cadence intime comme\n\nles vers, et cela devait être. Car l'ode d'Anacréon est une chanson\n\nde Béranger, au rythme agile, qui court et danse, comme les jeunes\n\nfilles du festin Grec, «sur des pieds rapides et délicats.»\n\n\n  A. M.\n\n\nOdes d'Anacréon"
+    },
+    {
+      "title": "I",
+      "content": "LA CITHARE\n\n\n  Je veux chanter les Atrides,\n\n  Je veux chanter Cadmus:\n\n  Mais ma lyre dans ses cordes\n\n  N'a qu'un chant: celui de l'Amour.\n\n  Naguère j'ai changé de cordes,\n\n  Changé toute ma lyre:\n\n  Et moi aussi, je chantais les travaux\n\n  D'Hercule; mais, ma lyre\n\n  Répondait par des chants d'amour.\n\n  Adieu donc désormais,\n\n  Héros, puisque ma lyre\n\n  Ne chante que les Érôs."
+    },
+    {
+      "title": "II",
+      "content": "LES FEMMES\n\n\n  Nature donna des cornes aux taureaux,\n\n  Des sabots aux chevaux,\n\n  Des pieds agiles aux lièvres,\n\n  Aux lions une gueule énorme,\n\n  Aux poissons des nageoires,\n\n  Aux oiseaux des ailes,\n\n  Aux hommes du coeur;\n\n  Elle n'avait plus rien pour les femmes.\n\n  Aussi que leur donna-t-elle?--La Beauté,\n\n  Plus forte que tous les boucliers,\n\n  Plus forte que toutes les lances;\n\n  Elle triomphe et du fer\n\n  Et du feu, la femme belle."
+    },
+    {
+      "title": "III",
+      "content": "L'AMOUR MOUILLÉ\n\n\n  Naguère, au milieu de la nuit,\n\n  Quand l'Ourse déjà tourne\n\n  Près de la main du Bouvier,\n\n  Et que les races mortelles\n\n  Dorment, domptées par le travail;\n\n  Érôs, survenant soudain,\n\n  Frappait aux verrous de ma porte.\n\n  «Qui heurte à ma porte?» criai-je;\n\n  «Vous mettez en fuite mes songes.»\n\n  Mais Érôs:--«Ouvre», dit-il,\n\n  «Je suis un enfant: ne crains pas.\n\n  Je suis mouillé, et dans la nuit\n\n  Sans lune je suis égaré.»\n\n\n  A ces mots, j'eus pitié.\n\n  Ma lampe aussitôt rallumée,\n\n  J'ouvris et je vis en effet\n\n  Un enfant qui portait un arc,\n\n  Des ailes, avec un carquois.\n\n  Près du feu je l'assieds,\n\n  Dans mes mains je réchauffe\n\n  Les siennes, et de sa chevelure\n\n  J'exprime l'humidité.\n\n  Mais, à peine réchauffé:\n\n  «Çà,» dit-il; «essayons\n\n  Cet arc, et voyons à quel point\n\n  Est endommagée sa corde mouillée.»\n\n\n  Il le bande, et me frappe\n\n  En plein coeur, comme un taon.\n\n  Puis, avec une gambade et des éclats de rire:\n\n  «Mon hôte,» dit-il, «adieu;\n\n  Mon arc n'a pas souffert:\n\n  C'est ton coeur qui souffrira.»"
+    },
+    {
+      "title": "IV",
+      "content": "SUR LUI-MÊME\n\n\n  Sur un lit de myrtes tendres,\n\n  D'herbes fleuries de lotos\n\n  Répandu, je veux boire.\n\n  Qu'Érôs, avec un lien de papyrus\n\n  Relevant à son cou la tunique,\n\n  M'apporte du vin pur.\n\n  Car, comme la roue du char,\n\n  Notre vie court emportée:\n\n  Nous reposerons, légère\n\n  Cendre, et fantôme sans os.\n\n  A quoi bon parfumer la tombe\n\n  Et verser à la terre de vaines libations?\n\n  Mais plutôt, pendant que je vis,\n\n  Parfume-moi; couvre ma tête\n\n  De roses; appelle l'hétaïre.\n\n  Amour, avant de m'en aller\n\n  Danser dans les Enfers,\n\n  Je prétends dissiper mes soucis."
+    },
+    {
+      "title": "V",
+      "content": "LA ROSE\n\n\n  Amis, mêlons au vin\n\n  La rose des Amours:\n\n  Attachant à nos tempes\n\n  La rose aux belles feuilles,\n\n  Buvons, avec le sourire de la volupté.\n\n  Rose, ô reine des fleurs,\n\n  Rose, amour du Printemps,\n\n  Et charme des Dieux mêmes;\n\n  Rose, dont le fils de Cythérée\n\n  Fait une couronne à ses beaux cheveux,\n\n  Pour danser avec les Grâces;\n\n  Ceins ma tête et, lyre en main,\n\n  Auprès de tes autels, Bacchus,\n\n  Avec une fille au sein opulent,\n\n  De couronnes de roses\n\n  Enguirlandé, j'irai danser."
+    },
+    {
+      "title": "VI",
+      "content": "LE CHANT DU KOMOS\n\n\n  Mariant à nos fronts\n\n  Des couronnes de roses,\n\n  Nous buvons avec le sourire de la volupté.\n\n  Aux sons de la lyre une jeune fille,\n\n  Portant des thyrses qui frémissent\n\n  Dans leurs tresses de lierre,\n\n  Agite ses pieds délicats.\n\n  Ce pendant un garçon aux cheveux ondoyants,\n\n  Par les trous qui doucement soupirent,\n\n  Sur les flûtes s'amuse\n\n  A verser des sons harmonieux.\n\n  Érôs aux cheveux d'or,\n\n  Avec le beau Bacchus,\n\n  La belle Cythérée,\n\n  Tout joyeux poursuit le festin\n\n  Chéri des vieillards."
+    },
+    {
+      "title": "VII",
+      "content": "L'AMOUR COUREUR\n\n\n  Avec une branche d'hyacinthe\n\n  Érôs me frappant durement au visage,\n\n  M'ordonna de courir avec lui.\n\n  Et par les torrents rapides,\n\n  Par les taillis, par les ravins,\n\n  Je courus: la chaleur m'accablait,\n\n  Mon âme à mes lèvres montait;\n\n  Un peu plus, et j'étais mort,\n\n  Quand Érôs, ventilant mon front\n\n  De ses douces ailes, me dit:\n\n  «Tu ne sais pas aimer.»"
+    },
+    {
+      "title": "VIII",
+      "content": "LE RÊVE\n\n\n  Dans la nuit reposant\n\n  Sur des tapis de pourpre,\n\n  Égayé par Bacchus,\n\n  Je me voyais sur la pointe des pieds\n\n  Courant agilement\n\n  Et folâtrant avec des jeunes filles;\n\n  Puis, raillé par de jeunes hommes\n\n  Plus vermeils que Bacchus,\n\n  Qui me lançaient des paroles mordantes\n\n  A propos de ces belles.\n\n  Je voulus les baiser:\n\n  Tous alors me quittèrent;\n\n  Et, resté seul, infortuné,\n\n  Je ne songeai qu'à me rendormir."
+    },
+    {
+      "title": "IX",
+      "content": "LA COLOMBE\n\n\n  «Aimable Colombe,\n\n  D'où viens-tu en volant?\n\n  Où pris-tu ces parfums\n\n  Que, dans les airs où tu cours,\n\n  Tu exhales et tu répands?\n\n  Qui es-tu? quel soin t'occupe?»\n\n\n  -«Anacréon m'envoie\n\n  Vers son amant Bathylle,\n\n  De tous les coeurs aujourd'hui\n\n  Le souverain et le prince.\n\n  Cythérée m'a vendue\n\n  Pour une odelette;\n\n  C'est moi qu'Anacréon emploie\n\n  Pour ses grands messages,\n\n  Et tu vois quelles lettres\n\n  Je porte pour lui.\n\n  Il dit qu'aussitôt revenue,\n\n  Il me rendra la liberté:\n\n  «Et moi, même affranchie,\n\n  Je veux rester près de lui, son esclave.\n\n  Qui m'oblige à voltiger\n\n  Par les monts et par les champs\n\n  Et, sur les arbres perchée,\n\n  Manger quelques graines rustiques?\n\n  A présent je mange du pain:\n\n  Je n'ai qu'à le prendre des mains\n\n  D'Anacréon lui-même;\n\n  Il me donne à boire\n\n  Du vin qu'il s'est versé.\n\n  Quand j'ai bu, je sautille\n\n  Et de mes ailes j'ombrage\n\n  Mon maître;\n\n  Jusque sur sa lyre\n\n  Posée je m'endors.\n\n\n  «Tu sais tout: adieu.\n\n  Tu m'as rendue plus bavarde,\n\n  Étranger, qu'une corneille.»"
+    },
+    {
+      "title": "X",
+      "content": "L'AMOUR DE CIRE\n\n\n  Un adolescent vendait\n\n  Un Amour de cire.\n\n  Je vais à lui:\n\n  «Combien veux-tu,» lui dis-je,\n\n  «Que je te donne de ta figurine?»\n\n  Il me répond dans son patois Dorique:\n\n  --«Prends-le pour ce que tu veux.\n\n  Mais pour t'apprendre à le connaître,\n\n  Je ne suis pas faiseur de figures de cire;\n\n  Mais je ne veux plus vivre avec\n\n  Un Amour capable de tout faire.\n\n  --Eh bien! donne, donne-moi donc\n\n  Pour une drachme ce charmant coucheur.»\n\n\n  Et toi, Amour, sur-le-champ\n\n  Enflamme-moi; sinon,\n\n  Je t'enverrai te fondre dans les flammes."
+    },
+    {
+      "title": "XI",
+      "content": "LE GAI VIEILLARD\n\n\n  Les Femmes me disent:\n\n  «Anacréon, tu vieillis.\n\n  Prends ce miroir, et regarde:\n\n  Tu n'as plus de cheveux,\n\n  Ton front est dégarni.»\n\n  Pour moi, si j'ai des cheveux\n\n  Encore, ou si n'en ai plus,\n\n  Je ne sais: mais je sais bien\n\n  Qu'un vieillard doit d'autant plus\n\n  Se donner de l'agrément,\n\n  Qu'il est plus voisin de la Parque."
+    },
+    {
+      "title": "XII",
+      "content": "A UN MERLE\n\n\n  Que veux-tu que je fasse,\n\n  Dis, merle bavard?\n\n  Tes légères ailes, veux-tu\n\n  Que je les prenne et je les coupe?\n\n  Aimes-tu mieux que de ton bec,\n\n  Comme fit le fameux Térée,\n\n  Je moissonne la langue?\n\n  Pourquoi de mes rêves charmants\n\n  Par ton chant matinal\n\n  Avoir fait fuir Bathylle?"
+    },
+    {
+      "title": "XIII",
+      "content": "FUREUR DE L'AMANT\n\n\n  On dit qu'épris de la belle Cybèle\n\n  Athys, ce mâle mutilé,\n\n  Fut saisi d'un furieux délire\n\n  Qui lui faisait pousser des cris sur les montagnes.\n\n  Et ceux qui, sur les collines de Claros,\n\n  De Phébus porte-lauriers\n\n  Boivent l'onde inspiratrice,\n\n  Hurlent, prophètes furieux.\n\n  Mais moi, c'est rassasié de vin\n\n  Et de parfums\n\n  Et de l'amour de ma maîtresse,\n\n  Que je veux, oui, je veux délirer."
+    },
+    {
+      "title": "XIV",
+      "content": "L'AMOUR DOMPTEUR\n\n\n  Je veux, je veux aimer.\n\n  Amour me conseillait d'aimer:\n\n  Mais moi, esprit inconsidéré,\n\n  Je n'étais pas persuadé.\n\n  Soudain, prenant son arc\n\n  Et son carquois d'or,\n\n  Il me provoque au combat.\n\n  Alors, j'endosse\n\n  La cuirasse, comme Achille;\n\n  Je prends des javelots avec un bouclier,\n\n  Et vais lutter avec l'Amour.\n\n  Il lance ses traits: je fuis,\n\n  Et, dès qu'il n'a plus de flèches,\n\n  Il trépigne, et c'est lui-même\n\n  Qui se lance au lieu de trait.\n\n  Alors mon coeur se fondit,\n\n  Les forces m'abandonnèrent.\n\n  En vain je porte un bouclier:\n\n  Que sert de combattre au dehors,\n\n  Quand l'ennemi est dans la place?"
+    },
+    {
+      "title": "XV",
+      "content": "VIVRE SANS ENVIE\n\n\n  Je n'ai cure de Gygès,\n\n  Le prince de Sardes;\n\n  L'ambition n'est pas mon fait,\n\n  Et je n'envie pas les rois.\n\n  Mon souci, c'est d'arroser\n\n  Ma barbe de parfums;\n\n  Mon souci, c'est d'enguirlander\n\n  Ma tête de roses.\n\n  Aujourd'hui fait mon souci:\n\n  Qui connaît le lendemain?\n\n  Aussi, par ce temps serein,\n\n  Bois et joue\n\n  Et fête Lyæus,\n\n  Avant qu'un mal ne vienne\n\n  Te dire: «Il ne faut plus boire.»"
+    },
+    {
+      "title": "XVI",
+      "content": "LE POÈTE VAINCU\n\n\n  Tu chantes la guerre de Thèbes,\n\n  Les cris des combattants Troyens:\n\n  Moi, je chante mes défaites.\n\n  Qui m'a perdu?--Ce n'est pas le cavalier,\n\n  Ni le fantassin, ni le matelot:\n\n  C'est un étrange soldat,\n\n  Qui fait feu par les yeux."
+    },
+    {
+      "title": "XVII",
+      "content": "LA COUPE D'ARGENT\n\n\n  Travaille l'argent au ciseau,\n\n  O Vulcain, pour me faire,\n\n  Non pas une armure\n\n  (Je n'aime pas les combats),\n\n  Mais une coupe creuse,\n\n  Aussi profonde que possible.\n\n  Ne va pas graver dessus\n\n  Les Astres ni le Chariot,\n\n  Ni le sombre Orion:\n\n  Qu'ai-je à faire des Pléiades\n\n  Ou de l'étoile du Bouvier?\n\n  Mais fais-moi verdir les vignes sur ses flancs,\n\n  Et les raisins briller\n\n  Et les Ménades vendanger.\n\n  N'oublie pas d'y dresser un pressoir,\n\n  Où fouleront les grappes,\n\n  Avec le beau Bacchus dans l'or incrustés,\n\n  Érôs et Bathylle."
+    },
+    {
+      "title": "XVIII",
+      "content": "MÊME SUJET\n\n\n  Habile artiste, cisèle\n\n  Une belle coupe où le printemps brille.\n\n  Qu'elle offre d'abord à mes yeux\n\n  La saison des charmantes roses.\n\n  Puis, étends l'argent sous le marteau,\n\n  Pour que j'aime à y boire.\n\n  Ne va pas y graver quelque étrange\n\n  Cérémonie des Initiations;\n\n  Pas d'odieuse histoire:\n\n  Mais plutôt le fils de Zeus,\n\n  Bacchus Evius,\n\n  Et l'initiatrice des Amours, Cypris,\n\n  Applaudissant aux hyménées.\n\n  Grave aussi les Amours sans armes\n\n  Et le sourire des Grâces.\n\n  A l'ombre d'une vigne au feuillage épais,\n\n  Aux raisins superbes, aux pampres touffus,\n\n  Place un groupe de beaux garçons;\n\n  Et que Phébus y joue aussi."
+    },
+    {
+      "title": "XIX",
+      "content": "IL FAUT BOIRE\n\n\n  La terre brune boit,\n\n  Et les arbres la boivent,\n\n  Et la mer boit les airs,\n\n  Et le soleil la mer,\n\n  Et la lune le soleil lui-même:\n\n  Pourquoi donc, compagnons,\n\n  Me défendre de boire?"
+    },
+    {
+      "title": "XX",
+      "content": "A UNE JEUNE FILLE\n\n\n  Jadis la fille de Tantale\n\n  Se durcit en rocher sur les monts de Phrygie;\n\n  Jadis la fille de Pandion, changée en hirondelle,\n\n  Eut des ailes d'oiseau.\n\n  Pour moi, que ne suis-je ton miroir!\n\n  Tes yeux me fixeraient sans cesse;\n\n  Ta tunique!\n\n  Tu me porterais toujours;\n\n  L'eau de ton bain!\n\n  Je laverais ta blanche peau;\n\n  Une essence!\n\n  Je te parfumerais, ô femme;\n\n  Et la ceinture de tes seins,\n\n  Et la perle qui brille à ton cou,\n\n  Et la sandale qui te chausse!\n\n  Au moins tu me presserais de tes pieds!"
+    },
+    {
+      "title": "XXI",
+      "content": "LA SOIF\n\n\n  Donnez-moi, donnez, ô femmes,\n\n  Du vin à boire d'un seul trait.\n\n  La soif me brûle, et vous me délaissez:\n\n  J'ai lieu de gémir.\n\n  Et puis encore, donnez-moi de ces fleurs:\n\n  Mon front brûle à la surface\n\n  Les couronnes, dont je l'ai couvert.\n\n  Mais, de la chaleur des Amours,\n\n  O mon âme, qui te garantira?"
+    },
+    {
+      "title": "XXII",
+      "content": "BATHYLLE\n\n\n  A l'ombre de Bathylle\n\n  J'irai m'asseoir: ah! le bel arbre!\n\n  Il balance un feuillage superbe\n\n  Sur une tige mince;\n\n  A ses côtés coule, doux stimulant,\n\n  La source vive de la Persuasion.\n\n  A cette vue, qui voudrait négliger\n\n  Un pareil endroit de déduit?"
+    },
+    {
+      "title": "XXIII",
+      "content": "L'AMOUR DE L'OR\n\n\n  Si l'abondance de l'or\n\n  Donnait de la vie aux mortels,\n\n  Je me résignerais à épargner,\n\n  Afin que la Mort survenant\n\n  A prix d'or voulût s'éloigner.\n\n  Mais puisqu'il n'est pas permis aux mortels\n\n  D'acheter de la vie,\n\n  Pourquoi gémir en vain?\n\n  Pourquoi me lamenter?\n\n  Puisque ma mort est décrétée,\n\n  A quoi l'or me sert-il?\n\n  Ah! que j'aie le bonheur de boire!\n\n  Et, tout en buvant du vin délicieux\n\n  En compagnie de mes amis,\n\n  Puissé-je en un lit délicat\n\n  Accomplir l'oeuvre de Vénus!"
+    },
+    {
+      "title": "XXIV",
+      "content": "RÉSOLUTION\n\n\n  Puisque je suis né mortel\n\n  Pour parcourir la route de la vie,\n\n  Je sais le temps que j'ai passé,\n\n  Sans connaître le temps qu'il me reste à courir.\n\n  Laissez-moi, soucis:\n\n  Je n'ai pas affaire à vous.\n\n  Avant qu'arrive ma fin,\n\n  Je veux jouer, rire et danser\n\n  Avec le beau Bacchus."
+    },
+    {
+      "title": "XXV",
+      "content": "SON AMOUR POUR LE VIN\n\n\n  Dès que je bois du vin,\n\n  Mes soucis s'assoupissent.\n\n  A quoi bon soupirs,\n\n  Peines et chagrins?\n\n  Je devrai mourir, même à contre-coeur:\n\n  Pourquoi méconnaître la véritable vie?\n\n  Buvons donc le bon vin,\n\n  Le vin du beau Bacchus.\n\n  Dans le temps même où nous buvons,\n\n  Nos soucis s'assoupissent."
+    },
+    {
+      "title": "XXVI",
+      "content": "MÊME SUJET\n\n\n  Quand Bacchus s'est emparé de moi,\n\n  Tous mes soucis s'endorment.\n\n  Croyant posséder tout l'or de Crésus,\n\n  Je veux chanter superbement.\n\n  Couronné de lierre je repose,\n\n  Et mon mépris foule aux pieds l'univers.\n\n  Armez-vous: moi je bois.\n\n  Une coupe, enfant!\n\n  Être étendu sur un lit, ivre,\n\n  Vaut mieux qu'être étendu mort."
+    },
+    {
+      "title": "XXVII",
+      "content": "DIONYSOS\n\n\n  C'est le fils de Zeus, Bacchus,\n\n  Qui bannit les chagrins et qui délie les langues.\n\n  Quand se répand dans mes esprits\n\n  Ce dieu qui verse le vin,\n\n  Il m'apprend à danser.\n\n  Pourtant, j'ai d'autres plaisirs,\n\n  Moi, poète, épris des ivresses:\n\n  Avec les instruments bruyants, avec les chants\n\n  Me plaît aussi Vénus;\n\n  Et je veux danser encore."
+    },
+    {
+      "title": "XXVIII",
+      "content": "PORTRAIT DE SA MAITRESSE\n\n\n  Allons, excellent peintre,\n\n  O le meilleur des peintres,\n\n  Roi de l'art qui fleurit à Rhodes,\n\n  Fais-moi, d'après mes dires,\n\n  Le portrait de ma maîtresse absente.\n\n  Donne-lui d'abord des cheveux\n\n  Ondoyants et noirs;\n\n  Et, si la cire le permet,\n\n  Qu'ils exhalent des parfums.\n\n  Peins de face entièrement\n\n  Sous une chevelure éclatante\n\n  Son front d'ivoire.\n\n  Quant à ses sourcils, ne va pas\n\n  Les séparer, ni les confondre:\n\n  Qu'ils se rejoignent, comme chez ma maîtresse,\n\n  Imperceptiblement,\n\n  Et que les cils, autour des paupières, soient noirs.\n\n  Pour être vrai, mets du feu\n\n  Dans ses yeux; qu'ils soient à la fois\n\n  Brillants comme ceux d'Athènè,\n\n  Humides comme ceux de Cythérée.\n\n  Fais le nez et les joues\n\n  De roses et de lait.\n\n  Que sa lèvre, la lèvre de la Persuasion,\n\n  Appelle le baiser.\n\n  Sur son menton délicat,\n\n  Autour d'un cou de marbre blanc,\n\n  Fais voltiger toutes les grâces.\n\n  Enfin, habille-la\n\n  D'une robe purpurine;\n\n  Et qu'il paraisse un peu\n\n  De sa chair, pour faire juger du corps.\n\n  Finis: je la vois. C'est bien elle!\n\n  O portrait véridique, tu vas parler."
+    },
+    {
+      "title": "XXIX",
+      "content": "PORTRAIT DE BATHYLLE\n\n\n  Peins-moi mon amant Bathylle,\n\n  D'après mes renseignements.\n\n  Fais-lui des cheveux luisants,\n\n  Noirs en masse\n\n  Et blonds aux extrémités.\n\n  De ces cheveux indisciplinés\n\n  Rassemblant les boucles en désordre,\n\n  Laisse-les tomber à leur gré.\n\n  Que son front vermeil, frais comme rosée,\n\n  Se couronne d'un sourcil\n\n  Plus foncé que la peau des serpents.\n\n  Que ses yeux noirs soient terribles,\n\n  Mais tempérés par la douceur,\n\n  Ayant quelque chose d'Arès\n\n  Et de la belle Cythérée,\n\n  En sorte que l'on craigne à la fois\n\n  Et qu'on se rattrape encore à quelque espoir.\n\n  Sur sa joue de rose\n\n  Mets le duvet du fruit mûr.\n\n  Si tu peux y jeter la rougeur\n\n  De la pudeur, n'y manque pas.\n\n  Et sa bouche? Je ne sais\n\n  Comment tu t'y prendras pour la peindre\n\n  Vermeille et siège de la Persuasion?\n\n  Pour tout dire en un mot,\n\n  Que son silence parle.\n\n  Après son visage,\n\n  Que son cou d'ivoire\n\n  Surpasse celui d'Adonis.\n\n  Fais-lui la poitrine\n\n  Et les mains d'Hermès,\n\n  Les cuisses de Pollux,\n\n  Le ventre de Dionysos.\n\n  Au-dessus de ses cuisses brillantes,\n\n  De ses cuisses brûlantes,\n\n  Place sans voiles un organe\n\n  Qui déjà désire Vénus.\n\n  L'art jaloux que tu exerces\n\n  Te défend de montrer\n\n  Son dos: c'est ce qu'il a de mieux.\n\n  T'apprendrai-je les contours de ses pieds?\n\n  Demande le prix que tu voudras.\n\n  Prends cet Apollon\n\n  Et fais-en Bathylle;\n\n  Et, si jamais tu vas à Samos,\n\n  De Bathylle tu feras Apollon."
+    },
+    {
+      "title": "XXX",
+      "content": "L'AMOUR ENCHAINÉ PAR LES MUSES\n\n\n  Les Muses ont lié\n\n  L'Amour avec des guirlandes,\n\n  Et l'ont donné en garde à la Beauté.\n\n  Et maintenant la Cythérée\n\n  Le cherche, portant la rançon,\n\n  Pour délivrer Amour.\n\n  Quand même on le délivrerait,\n\n  Loin de s'en aller, il voudra rester:\n\n  Il chérit trop son esclavage."
+    },
+    {
+      "title": "XXXI",
+      "content": "FUREUR BACHIQUE\n\n\n  Laissez-moi boire à la santé des Dieux,\n\n  Boire sans fermer la bouche.\n\n  Je veux, je veux délirer.\n\n  Ils devinrent furieux, Alcméon\n\n  Et Orestès aux pieds blancs,\n\n  Après avoir tué leur mère;\n\n  Mais moi, qui n'ai tué personne,\n\n  C'est en buvant le vin de pourpre\n\n  Que je veux, je veux délirer.\n\n  Jadis Hercule en fureur\n\n  Agitait le carquois terrible\n\n  Et l'arc d'Iphitos.\n\n  Jadis Ajax en sa fureur\n\n  Brandissait avec son bouclier\n\n  L'épée d'Hector.\n\n  Et moi, c'est la coupe en main.\n\n  La couronne sur la tête,\n\n  Que je veux, oui, je veux délirer."
+    },
+    {
+      "title": "XXXII",
+      "content": "SES AMOURS\n\n\n  Si tu peux dénombrer\n\n  Toutes les feuilles des arbres,\n\n  Si tu sais compter\n\n  Tous les flots de la mer,\n\n  Du calcul de mes amours\n\n  C'est toi seul que je charge.\n\n  Pose d'abord\n\n  Vingt amours d'Athènes,\n\n  Puis quinze autres encore.\n\n  Ensuite, de Corinthe,\n\n  Mets-en des légions:\n\n  Cette ville de l'Achaïe\n\n  A les plus belles femmes.\n\n  Puis, de Lesbos,\n\n  D'Ionie même,\n\n  De Carie et de Rhodes,\n\n  Pose deux mille amours.\n\n  --Que dis-tu?--Écris toujours.\n\n  Je n'ai rien dit encore des amours\n\n  De la Syrie, ni de Canope,\n\n  Ni de la contrée souveraine,\n\n  La Crète, avec ses villes\n\n  Où l'Amour célèbre ses mystères.\n\n  Voudrais-tu que je te dénombre,\n\n  Au delà de Gadès,\n\n  De la Bactriane et des Indes,\n\n  Tous les amours de mon coeur?"
+    },
+    {
+      "title": "XXXIII",
+      "content": "A UNE HIRONDELLE\n\n\n  Hirondelle chérie,\n\n  Qui reviens tous les ans,\n\n  En été tu construis ton nid,\n\n  Et l'hiver tu disparais\n\n  Volant vers le Nil ou Memphis.\n\n  En tout temps l'Amour construit\n\n  Son nid dans mon coeur.\n\n  Ce désir a des ailes,\n\n  Cet autre est encore dans la coque,\n\n  Ce troisième est éclos à moitié.\n\n  Et toujours se fait entendre\n\n  Le cri des petits perçant la coquille.\n\n  Les plus jeunes enfants d'Érôs\n\n  Sont nourris par les aînés\n\n  Et bientôt, devenus grands,\n\n  En font d'autres à leur tour.\n\n  A ce mal, quel remède?\n\n  Car, je n'ai pas la force de bannir\n\n  Tant d'Amours de mon coeur!"
+    },
+    {
+      "title": "XXXIV",
+      "content": "A UNE JEUNE FILLE\n\n\n  Ne me fuis pas, pour avoir vu\n\n  Ma chevelure blanche;\n\n  Et, parce que tu possèdes\n\n  La pleine fleur de la jeunesse,\n\n  Ne va pas repousser mes caresses:\n\n  Mais vois, dans une couronne,\n\n  Comme fait bien la blancheur\n\n  Des lys entrelacés aux roses."
+    },
+    {
+      "title": "XXXV",
+      "content": "ZEUS TAUREAU\n\n\n  Ce taureau, mon enfant,\n\n  Doit être Zeus lui-même.\n\n  Il porte sur son dos\n\n  Une jeune Sidonienne:\n\n  Il traverse la vaste mer,\n\n  Coupant le flot de ses sabots.\n\n  Jamais autre taureau\n\n  N'est sorti du troupeau,\n\n  Pour nager sur la mer:\n\n  Jamais autre, si ce n'est lui."
+    },
+    {
+      "title": "XXXVI",
+      "content": "LA VIE LIBRE\n\n\n  Pourquoi m'enseigner les règles\n\n  Et les arguments des rhéteurs?\n\n  A quoi bon ces raisonnements,\n\n  Qui ne servent de rien?\n\n  Enseigne-moi plutôt à boire\n\n  De Bacchus la boisson vermeille;\n\n  Enseigne-moi plutôt à folâtrer\n\n  Avec la blonde Vénus.\n\n  Des cheveux blancs couronnent ma tête.\n\n  Donne de l'eau, verse du vin:\n\n  Enfant, endors ma raison.\n\n  Dans peu je ne serai plus: tu m'enseveliras.\n\n  Les morts n'ont plus de désirs."
+    },
+    {
+      "title": "XXXVII",
+      "content": "LE PRINTEMPS\n\n\n  Voyez: quand le printemps paraît,\n\n  Les Grâces font croître les roses.\n\n  Voyez: le flot de la mer\n\n  Vient mourir avec calme.\n\n  Voyez comme le canard plonge,\n\n  Voyez comme voyage la grue.\n\n  Le soleil brille sans voiles,\n\n  Les ombres des nuages sont mises en fuite,\n\n  Les ouvrages des hommes resplendissent.\n\n  La terre s'incline sous le poids de ses fruits,\n\n  Le fruit de l'olivier saillit en dehors,\n\n  La vigne de pampres se couronne.\n\n  Sous la feuillée, à travers les branches,\n\n  Le bouton montre sa fleur."
+    },
+    {
+      "title": "XXXVIII",
+      "content": "RÉPONSE AUX REPROCHES QU'ON LUI FAISAIT DE SA VIEILLESSE\n\n\n  Tout vieux que je suis,\n\n  Je bois plus que les jeunes,\n\n  Et, s'il me faut danser,\n\n  Pour sceptre j'ai mon outre:\n\n  La férule ne sert à rien.\n\n  Qui veut lutter avec moi,\n\n  Approche et lutte.\n\n  Enfant, apporte une coupe,\n\n  Où tu mêleras les flots\n\n  D'un vin doux comme miel.\n\n  Oui, je suis vieux, je l'avoue:\n\n  Mais, au milieu de vous,\n\n  J'imiterai Silène en dansant."
+    },
+    {
+      "title": "XXXIX",
+      "content": "LE CHANT DU FESTIN"
+    },
+    {
+      "title": "I",
+      "content": "Quand je bois du vin,\n\n  Alors mon coeur fleuri de joie\n\n  Commence à chanter les Muses."
+    },
+    {
+      "title": "II",
+      "content": "Quand je bois du vin,\n\n  Les inquiétudes, les projets soucieux\n\n  S'envolent, dissipés, aux souffles\n\n  Des vents retentissant du bruit des vagues."
+    },
+    {
+      "title": "III",
+      "content": "Quand je bois du vin,\n\n  Bacchus alors, qui badine avec la lyre,\n\n  Me balance sur l'aile des zéphyrs fleuris,\n\n  Après m'avoir réjoui d'ivresse."
+    },
+    {
+      "title": "IV",
+      "content": "Quand je bois du vin,\n\n  Tressant des couronnes de fleurs\n\n  Pour les poser sur ma tête,\n\n  Je chante la sérénité de la vie."
+    },
+    {
+      "title": "V",
+      "content": "Quand je bois du vin,\n\n  Oignant mon corps d'un parfum qui sent bon,\n\n  Serrant dans mes bras ma maîtresse,\n\n  Je célèbre Cypris."
+    },
+    {
+      "title": "VI",
+      "content": "Quand je bois du vin,\n\n  Dans des coupes rondes\n\n  Répandant à flots le vin qui m'est cher,\n\n  J'aime un choeur de jeunes gens."
+    },
+    {
+      "title": "VII",
+      "content": "Quand je bois du vin,\n\n  C'est un gain pour moi seul\n\n  Et je l'emporterai:\n\n  Mais la mort est le lot de tous."
+    },
+    {
+      "title": "XL",
+      "content": "ÉROS\n\n\n  Érôs un jour dans les roses\n\n  Une abeille cachée\n\n  Ne vit pas, et fut piqué.\n\n  Blessé au doigt\n\n  De la main, il gémit;\n\n  Et courant et volant\n\n  A la belle Cythérée:\n\n  «Je suis perdu, mère», dit-il,\n\n  «Je suis perdu, et je me meurs!\n\n  Un petit serpent m'a frappé;\n\n  Il a des ailes: c'est _abeille_\n\n  Que le nomment les laboureurs.»\n\n\n  Elle répondit: «Si le dard\n\n  De l'abeille fait tant de peine,\n\n  Combien devront souffrir, crois-tu?\n\n  Érôs, ceux que tu frappes?»"
+    },
+    {
+      "title": "XLI",
+      "content": "LE FESTIN\n\n\n  Buvons le vin joyeux\n\n  Et célébrons Bacchus,\n\n  L'inventeur de la danse,\n\n  L'ami de toute chanson,\n\n  Le compagnon d'Amour,\n\n  Le bien-aimé de Cythérée.\n\n  Par lui l'Ivresse est enfantée,\n\n  Par lui les Grâces sont nées,\n\n  Par lui sont calmés les Chagrins,\n\n  Par lui endormie la Tristesse.\n\n  Dès que la boisson versée\n\n  De beaux enfants m'apportent,\n\n  Ma peine s'en va se mêler\n\n  A la tempête qui tourne au gré du vent.\n\n  Donc, prenant une coupe,\n\n  Bannissons les soucis.\n\n  Car, que gagnez-vous à\n\n  Souffrir d'inquiétude?\n\n  Comment lire dans l'avenir?\n\n  La vie est obscure aux mortels.\n\n  En buvant, je veux danser\n\n  Et, parfumé, folâtrer\n\n  Avec de belles femmes.\n\n  Absorbez-vous, si vous voulez,\n\n  Dans tous les soucis possibles:\n\n  Nous, joyeux, buvons du vin\n\n  Et célébrons Bacchus."
+    },
+    {
+      "title": "XLII",
+      "content": "CE QUE J'AIME LE PLUS\n\n\n  Je recherche les danses\n\n  Du jovial Bacchus:\n\n  J'aime à jouer de la lyre\n\n  A table avec un bel éphèbe.\n\n  Des couronnes d'hyacinthe\n\n  A mes tempes ajustées,\n\n  Folâtrer avec de jeunes vierges:\n\n  Voilà ce que j'aime surtout.\n\n  Mon coeur ne connaît pas la haine,\n\n  Ignore l'envie dévorante;\n\n  De la langue médisante\n\n  Je fuis les traits subtils.\n\n  Je hais les querelles d'ivrognes\n\n  Et de gourmands dans les repas.\n\n  Avec de jeunes filles,\n\n  Aux sons de la lyre dansant,\n\n  Goûtons le bonheur de la vie tranquille."
+    },
+    {
+      "title": "XLIII",
+      "content": "LA CIGALE\n\n\n  Nous disons: «Heureuse Cigale!»\n\n  Dès que, sur la cime des arbres,\n\n  Tu as bu quelques gouttes de rosée,\n\n  Ainsi qu'une reine, tu chantes.\n\n  Car, c'est bien à toi, tout\n\n  Ce que tu vois dans les champs\n\n  Et que produisent les forêts.\n\n  Tu es l'amie des laboureurs,\n\n  Ne leur causant aucun dommage;\n\n  Tu es vénérée des mortels,\n\n  Douce prophétesse de l'Été.\n\n  Les Muses te chérissent,\n\n  Il te chérit aussi, Phébus,\n\n  Qui t'a dotée d'une voix harmonieuse.\n\n  La vieillesse ne t'accable pas.\n\n  Sage, fille de la Terre, amoureuse des chants,\n\n  Impassible, sans chair ni sang,\n\n  Tu es, ou peu s'en faut, égale aux Dieux."
+    },
+    {
+      "title": "XLIV",
+      "content": "UN RÊVE\n\n\n  Il me semblait courir en rêve,\n\n  Portant des ailes aux épaules:\n\n  Mais Érôs, avec une chaîne de plomb\n\n  Autour de ses petons charmants,\n\n  Me poursuivait, et m'atteignit.\n\n  Que veut dire ce songe?\n\n  Ceci, je crois: c'est, qu'engagé\n\n  Dans de nombreux amours,\n\n  J'ai pu me dégager des autres,\n\n  Mais celui-ci me retient enchaîné."
+    },
+    {
+      "title": "XLV",
+      "content": "LES FLÈCHES DE L'AMOUR\n\n\n  Le mari de la Cythérée\n\n  Aux forges de Lemnos,\n\n  Les flèches des Amours\n\n  Forgeait avec de l'acier.\n\n  Cypris en trempait les pointes\n\n  Dans le miel le plus doux:\n\n  Érôs y mêlait du fiel.\n\n  Arès un jour, de retour de la guerre,\n\n  Brandissant sa forte lance,\n\n  Ravalait les traits de l'Amour.\n\n  «Tiens», dit Érôs: «celui-ci\n\n  Est-il perçant? Éprouve-le, pour en juger?»\n\n  Mars prit le trait,\n\n  Cypris sourit;\n\n  Mais Arès, en gémissant:\n\n  «Oh! oui, bien perçant!» Reprends-le.\n\n  «--Garde-le», répond Érôs."
+    },
+    {
+      "title": "XLVI",
+      "content": "IMPRÉCATIONS CONTRE L'ARGENT\n\n\n  Il est dur de ne pas aimer\n\n  Et dur aussi d'aimer:\n\n  Mais le plus dur de tout, c'est\n\n  D'être dédaigné, quand on aime.\n\n  La naissance ne fait rien à l'Amour\n\n  Il foule aux pieds le savoir, la vertu:\n\n  Il n'a d'yeux que pour l'argent.\n\n  Ah! meure le premier\n\n  Qui fit de l'or son amant!\n\n  Avec lui plus de frère,\n\n  Avec lui plus de père,\n\n  Mais la guerre et le meurtre.\n\n  Le pis, c'est qu'il nous tue,\n\n  Nous autres, malheureux amants!"
+    },
+    {
+      "title": "XLVII",
+      "content": "LE VIEILLARD DE BELLE HUMEUR\n\n\n  J'aime un vieillard enjoué,\n\n  J'aime un jeune danseur.\n\n  Mais, à peine un vieillard a dansé,\n\n  Que, tout étant vieillard par les cheveux,\n\n  Il est jeune par l'âge."
+    },
+    {
+      "title": "XLVIII",
+      "content": "A DIONYSOS\n\n\n  Le dieu qui rend la jeunesse infatigable\n\n  Au travail, aux amours intrépide,\n\n  Et qui dans les festins un beau danseur achève,\n\n  Ce dieu parmi nous est venu,\n\n  Nous apporter une liqueur vermeille,\n\n  Une boisson ennemie des chagrins,\n\n  Fille de la vigne: le vin,\n\n  Emprisonné dans ses raisins\n\n  Et pendant aux ceps. Laissons-l'y;\n\n  Mais, le jour venu de couper les grappes,\n\n  Alors plus de malades:\n\n  Les corps seront beaux\n\n  Et les âmes épanouies,\n\n  Jusqu'à la prochaine vendange."
+    },
+    {
+      "title": "XLIX",
+      "content": "LE TRIOMPHE DE VÉNUS ANADYOMÈNE\n\n\n  Quel burin a gravé la mer?\n\n  Quel artiste inspiré\n\n  A versé les flots dans un disque\n\n  Sur le dos de la mer?\n\n  Quel génie dessina sur les flots,\n\n  Éblouissante de candeur, Cypris?\n\n  Quel génie, s'élevant jusqu'aux Dieux,\n\n  Osa des Immortels représenter la mère?\n\n  Il ne craignit pas de la montrer nue,\n\n  Et ce que les yeux ne doivent pas voir\n\n  N'a que les flots pour vêtement.\n\n  A leur surface balancée,\n\n  Comme l'algue blanchissante flotte\n\n  Sur la mer calme et doucement polie,\n\n  La déesse, mettant son corps à la nage,\n\n  Pousse les vagues devant elle.\n\n  De ses seins de rose,\n\n  De son cou d'albâtre qui reste sous l'eau,\n\n  Elle fend les vagues énormes.\n\n  Au milieu du sillon, Cypris,\n\n  Comme un lys à des violettes entrelacé,\n\n  Brille sur la sérénité de la mer.\n\n  Sur les écailles argentées\n\n  Des dauphins qui tressautent,\n\n  Sont portés ces dieux qui raillent\n\n  L'esprit fallacieux des hommes: Érôs et Iméros.\n\n  Le choeur des poissons recourbés\n\n  Fait des plongeons dans l'eau,\n\n  En lutinant le corps de la déesse,\n\n  Afin qu'elle triomphe avec un sourire."
+    },
+    {
+      "title": "L",
+      "content": "LES VENDANGES\n\n\n  Le raisin noir de peau\n\n  Dans des corbeilles portent sur leurs épaules\n\n  Des jeunes hommes avec des jeunes filles.\n\n  Ils le jettent au pressoir,\n\n  Et les hommes seuls foulent aux pieds\n\n  La grappe, pour délivrer le vin captif.\n\n  En l'honneur du dieu de la vigne ils font retentir\n\n  Les chansons bruyantes des vendanges,\n\n  Tout joyeux de voir bouillonner dans la tonne\n\n  Le vin nouveau tant désiré.\n\n  Un vieillard en boit-il?\n\n  Il danse en dépit de ses pieds tremblants,\n\n  Agitant sa chevelure blanche.\n\n  Cependant qu'épiant une vierge,\n\n  Qui répand son corps délicat\n\n  Sur des feuilles pleines d'ombre,\n\n  Accablée de sommeil,\n\n  Un aimable jeune homme enivré\n\n  La caresse et l'invite à des amours précoces,\n\n  Qui la rendraient traîtresse au mariage.\n\n  Voyant qu'il ne persuade pas,\n\n  Il la presse malgré elle.\n\n  C'est qu'avec la jeunesse, Bacchus,\n\n  Dieu de l'ivresse, s'égaie en liberté."
+    },
+    {
+      "title": "LI",
+      "content": "LA ROSE\n\n\n  Avec le printemps porteur de couronnes,\n\n  Je pense à chanter très haut la rose,\n\n  Tendre fleur, ma compagne.\n\n  C'est l'haleine des Dieux mêmes\n\n  Et le charme des mortels,\n\n  L'ornement des Grâces dans la saison\n\n  Des Amours en fleur,\n\n  L'attribut folâtre de Vénus.\n\n  C'est le thème des poésies,\n\n  La plante aimée des Muses;\n\n  Douce même à qui fait l'épreuve de ses dards\n\n  Dans les sentiers épineux;\n\n  Douce à la main qui la cueille et qui caresse\n\n  De ses doigts fins et délicats\n\n  Cette fleur de l'Amour.\n\n  Comme au sage elle plaît encore\n\n  Dans les danses, sur les tables,\n\n  Aux fêtes Dyonisiaques.\n\n  Que ferions-nous sans la rose?\n\n  «L'Aurore a des doigts de roses,\n\n  Les Nymphes des bras de roses,\n\n  Aphrodite un teint de roses,»\n\n  Dans le langage des poètes.\n\n  La rose, secourable aux malades,\n\n  Protège aussi les morts\n\n  Et triomphe du temps.\n\n  Des roses la vieillesse, encore agréable,\n\n  Garde un parfum de jeunesse.\n\n\n  Chantons donc son origine.\n\n  Quand, de la mer azurée,\n\n  Cythérée brillante de rosée\n\n  L'Océan fit naître de son écume;\n\n  Quand Athènè, la guerrière\n\n  Déesse à l'Olympe redoutable,\n\n  Jupiter fit sortir de son cerveau;\n\n  Alors des roses admirables\n\n  La Terre fit fleurir les jeunes pousses,\n\n  Chef-d'oeuvre d'art de la Nature.\n\n  La troupe des Dieux bienheureux,\n\n  Pour que naquît la rose, répandirent\n\n  Le nectar, et firent s'élever,\n\n  Superbe, du sein des épines,\n\n  L'immortelle fleur de Bacchus."
+    },
+    {
+      "title": "LII",
+      "content": "LE POÈTE SE PLAIT AVEC LA JEUNESSE\n\n\n  Lorsque parmi les jeunes hommes\n\n  Je te vois, revient la Jeunesse,\n\n  C'est alors que pour la danse,\n\n  Moi, le vieillard, j'ai des ailes.\n\n  Attends-moi, Cybélès;\n\n  Donne des roses: je veux me couronner.\n\n  Loin la vieillesse chenue!\n\n  J'irai danser jeune parmi les jeunes.\n\n  Puis, qu'on m'apporte une rivière née\n\n  De la moisson de Bacchus en automne.\n\n  On verra la vigueur du vieillard,\n\n  Enseignant à jaser,\n\n  Enseignant à boire\n\n  Et délirer non sans grâce."
+    },
+    {
+      "title": "LIII",
+      "content": "LES AMANTS\n\n\n  Les chevaux ont aux cuisses\n\n  Une marque de feu,\n\n  Et les Parthes\n\n  Se reconnaissent à leur tiare.\n\n  A voir les amants, moi,\n\n  Je les devine aussitôt:\n\n  C'est qu'ils ont une imperceptible\n\n  Blessure au coeur."
+    },
+    {
+      "title": "LIV",
+      "content": "LA VIEILLESSE\n\n\n  Déjà mes tempes sont\n\n  Blanchies, ma tête argentée.\n\n  La jeunesse et ses grâces\n\n  Ne sont plus; ma bouche a vieilli,\n\n  Et de la vie heureuse à peine\n\n  Quelques instants me restent.\n\n  A cette pensée je gémis\n\n  Sur moi, redoutant le Tartare.\n\n  D'Adès effroyable est\n\n  Le gouffre: il est terrible\n\n  D'y descendre; impossible\n\n  A qui descend de remonter."
+    },
+    {
+      "title": "LV",
+      "content": "DOUCES IVRESSES\n\n\n  Allons, enfant, apporte-moi\n\n  La coupe; qu'à plein verre\n\n  Je boive; mêle dix cyathes d'eau\n\n  A cinq de vin,\n\n  Et que sans affront\n\n  Et sans crainte je célèbre Bacchus.\n\n  . . . . . . . . . . . . . . . . . .\n\n  Allons! çà! et n'allons plus ainsi\n\n  Par du tapage et des cris de joie\n\n  Nous exercer à boire comme les Scythes;\n\n  Mais buvons peu en chantant bien."
+    },
+    {
+      "title": "LVI",
+      "content": "L'AMOUR\n\n\n  Érôs, le doux Érôs,\n\n  Je pense à le chanter\n\n  Couronné de mitres de fleurs:\n\n  Car, il est le maître des Dieux\n\n  Et le dompteur des hommes."
+    },
+    {
+      "title": "LVII",
+      "content": "PRIÈRE A ARTÉMIS\n\n\nEN FAVEUR DES MAGNÉSIENS\n\n\n  Je t'en supplie, chasseresse de cerfs,\n\n  Blonde fille de Jupiter, des bêtes féroces\n\n  Souveraine, Artémis:\n\n  Descends en ce jour sur les flots tournoyants\n\n  Du Léthé; cette cité,\n\n  Ses braves habitants, regarde-les\n\n  D'un oeil propice: ils sont loin d'être barbares,\n\n  Les peuples sur qui tu règnes."
+    },
+    {
+      "title": "LVIII",
+      "content": "A UNE JEUNE FILLE"
+    },
+    {
+      "title": "I",
+      "content": "Pouliche de Thrace, pourquoi donc,\n\n  Me regardant de travers,\n\n  Fuir impitoyablement? Est-ce que tu me crois\n\n  Sans adresse aucune?"
+    },
+    {
+      "title": "II",
+      "content": "Sache que je pourrais fort bien\n\n  Te mettre le mors,\n\n  Et, rênes en main, te faire tourner autour\n\n  Des bornes du champ de course."
+    },
+    {
+      "title": "III",
+      "content": "A présent, tu pais les prairies\n\n  Et bondissant, légère, tu folâtres:\n\n  C'est que tu n'as pas d'écuyer\n\n  Habile à te dompter."
+    },
+    {
+      "title": "LIX",
+      "content": "LE PRINTEMPS\n\n\n  Il est doux de marcher\n\n  Où les pelouses étendent leurs tapis,\n\n  Où le Zéphyr exhale\n\n  Une brise odorante;\n\n  Doux de voir le cep cher à Bacchus,\n\n  De s'enfoncer sous le feuillage,\n\n  En serrant une tendre enfant\n\n  Qui respire Vénus tout entière."
+    },
+    {
+      "title": "LX",
+      "content": "APOLLON\n\n\n  Je vais agiter les cordes de ma lyre.\n\n  Ce n'est pas qu'un prix me soit proposé:\n\n  Mais, c'est l'occupation de tout homme\n\n  Qui a cueilli la fleur de la sagesse.\n\n  Avec un plectre d'ivoire\n\n  Sonnant des vers harmonieux,\n\n  Sur le rythme Phrygien, je chanterai,\n\n  Comme un cygne du Caystre\n\n  Chante au bruit de ses ailes blanches:\n\n  Sa voix est à l'unisson du vent.\n\n\n  Et toi, Muse, danse avec moi;\n\n  Car ils sont consacrés à Phébus,\n\n  Cette lyre, ce laurier, ce trépied.\n\n\n  Je chante l'amour de Phébus,\n\n  Son ardeur qui passa comme un souffle;\n\n  C'est qu'elle était sage, la jeune fille:\n\n  Elle a fui l'aiguillon du dieu\n\n  Et changé sa forme naturelle:\n\n  Elle agite maintenant ses feuilles verdoyantes.\n\n  Cependant Phébus allait, Phébus\n\n  Espérait dompter la vierge;\n\n  Même, en cueillant un rameau vert,\n\n  Il croyait satisfaire son désir.\n\n\n  Eh! mon coeur, d'où ce délire?\n\n  D'où ce bel emportement?\n\n  Prends des forces, lance le trait,\n\n  Touche le but, et puis va-t'en.\n\n  Laisse l'arc d'Aphrodite,\n\n  Cet arc vainqueur des Dieux.\n\n  Imite Anacréon,\n\n  Le chantre mélodieux.\n\n  Présente à mes amants la coupe,\n\n  La coupe des discours aimables.\n\n  Que cette boisson, ce nectar\n\n  Les console de la fuite\n\n  De cet astre étincelant, l'Or."
+    },
+    {
+      "title": "LXI",
+      "content": "L'OR\n\n\n  Toi qui de la fraude et des haines\n\n  As mis l'amour au coeur des hommes;\n\n  Qui leur ravis ces plaisirs: la lyre, les hymens,\n\n  Et les baisers honnêtes;\n\n  Toi qui versas la coupe des passions:\n\n  Quand tu voudras, tu peux partir.\n\n  Mais la chanson de ma lyre,\n\n  Je ne la négligerai pas un instant.\n\n  Va plaire, rival des Muses,\n\n  Aux étrangers perfides, sans foi.\n\n  Mais moi, le joueur de lyre,\n\n  J'aurai dans mon âme les Muses, pauvres\n\n  Proscrites: tu ne feras qu'exciter leur ardeur,\n\n  Et ma gloire resplendira."
+    },
+    {
+      "title": "LXII",
+      "content": "MÊME SUJET\n\n\n  Quand ce fugitif, l'Or,\n\n  Me fuit de ses pieds\n\n  Rapides comme les vents\n\n  (Et toujours, toujours il me fuit),\n\n  Je ne cours pas après lui: car,\n\n  Qui recherche son ennemi?\n\n  Aussitôt séparé\n\n  De ce fugitif, l'Or,\n\n  Je laisse les vents emporter\n\n  Tous les soucis de mon esprit;\n\n  Je prends la lyre et je chante\n\n  Des chants d'amour.\n\n  Mais, à mon tour quand la raison\n\n  M'apprend à le mépriser,\n\n  Soudain le fugitif revient me saluer,\n\n  Ramenant l'ivresse des soucis,\n\n  Me pressant de le prendre avec moi,\n\n  En délaissant ma lyre pour longtemps.\n\n  Déloyal, Or déloyal,\n\n  Inutile de me charmer par tes amorces:\n\n  Ma lyre m'est plus que l'Or,\n\n  Elle qui sait chanter les belles passions."
+    },
+    {
+      "title": "LXIII",
+      "content": "ÉPITHALÀME\n\n\n  Reine des déesses, Cypris;\n\n  Désir, souverain des mortels;\n\n  Hyménée, conservateur de la vie,\n\n  C'est vous que je chante en prose,\n\n  C'est vous que j'exalte en vers,\n\n  Désir, Hyménée, Déesse de Paphos.\n\n\n  Regarde ta jeune épouse, regarde-la, jeune homme,\n\n  Réveille-toi, si tu ne veux manquer la chasse de la perdrix.\n\n\n  Stratoclès, favori de Cythérée,\n\n  Stratoclès, mari de Myrilla,\n\n  Vois ton épouse chérie:\n\n  Elle est superbe dans sa fleur, dans tout son éclat.\n\n  La rose des fleurs est la reine:\n\n  Myrilla est une rose parmi les jeunes filles.\n\n\n  Qu'Hélios éclaire ta couche!\n\n  Qu'un cyprès naisse dans ton jardin!\n\n\nTABLE\n\n\n                                        Pages.\n\n\n  AVERTISSEMENT                              1\n\n\n  I.--La Cithare                             7\n\n\n  II.--Les Femmes                            8\n\n\n  III.--L'Amour mouillé                      9\n\n\n  IV.--Sur lui-même                         11\n\n\n  V.--La Rose                               12\n\n\n  VI.--Le Chant du Kômos                    13\n\n\n  VII.--L'Amour coureur                     14\n\n\n  VIII.--Le Rêve                            15\n\n\n  IX.--La Colombe                           16\n\n\n  X.--L'Amour de cire                       18\n\n\n  XI.--Le gai Vieillard                     19\n\n\n  XII.--A un Merle                          20\n\n\n  XIII.--Fureur de l'Amant                  21\n\n\n  XIV.--L'Amour dompteur                    22\n\n\n  XV.--Vivre sans envie                     23\n\n\n  XVI.--Le Poète vaincu                     24\n\n\n  XVII.--La Coupe d'argent                  25\n\n\n  XVIII.--Même sujet                        26\n\n\n  XIX.--Il faut boire                       27\n\n\n  XX.--A une jeune Fille                    28\n\n\n  XXI.--La Soif                             29\n\n\n  XXII.--Bathylle                           30\n\n\n  XXIII.--L'Amour de l'Or                   31\n\n\n  XXIV.--Résolution                         32\n\n\n  XXV.--Son amour pour le Vin               33\n\n\n  XXVI.--Même sujet                         34\n\n\n  XXVII.--Dionysos                          35\n\n\n  XXVIII.--Portrait de sa Maîtresse         36\n\n\n  XXIX.--Portrait de Bathylle               38\n\n\n  XXX.--L'Amour enchaîné par les Muses      41\n\n\n  XXXI.--Fureur bachique                    42\n\n\n  XXXII.--Ses Amours                        43\n\n\n  XXXIII.--A une Hirondelle                 45\n\n\n  XXXIV.--A une jeune Fille                 46\n\n\n  XXXV.--Zeus taureau                       47\n\n\n  XXXVI.--La Vie libre                      48\n\n\n  XXXVII.--Le Printemps                     49\n\n\n  XXXVIII.--Réponse à des reproches         50\n\n\n  XXXIX.--Le Chant du Festin                51\n\n\n  XL.--Érôs                                 53\n\n\n  XLI.--Le Festin                           54\n\n\n  XLII.--Ce que j'aime le plus              56\n\n\n  XLIII.--La Cigale                         57\n\n\n  XLIV.--Un Rêve                            58\n\n\n  XLV.--Les Flèches de l'Amour              59\n\n\n  XLVI.--Imprécations contre l'Argent       60\n\n\n  XLVII.--Le Vieillard de belle humeur      61\n\n\n  XLVIII.--A Dionysos                       62\n\n\n  XLIX.--Le Triomphe de Vénus Anadyomène    63\n\n\n  L.--Les Vendanges                         65\n\n\n  LI.--La Rose                              67\n\n\n  LII.--Le Poète se plaît avec la Jeunesse  69\n\n\n  LIII.--Les Amants                         70\n\n\n  LIV.--La Vieillesse                       71\n\n\n  LV.--Douces Ivresses                      72\n\n\n  LVI.--L'Amour                             73\n\n\n  LVII.--Prière à Artémis                   74\n\n\n  LVIII.--A une jeune Fille                 75\n\n\n  LIX.--Le Printemps                        76\n\n\n  LX.--Apollon                              77\n\n\n  LXI.--L'Or                                79\n\n\n  LXII.--Même sujet                         80\n\n\n  LXIII.--Épithalame                        82\n\n\nParis.--Charles UNSINGER, imprimeur, 83, rue du Bac."
+    }
+  ]
+}

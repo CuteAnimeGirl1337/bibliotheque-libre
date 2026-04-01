@@ -1,0 +1,918 @@
+{
+  "id": 13792,
+  "title": "Journaux intimes",
+  "authors": [
+    {
+      "name": "Baudelaire, Charles",
+      "birth_year": 1821,
+      "death_year": 1867
+    }
+  ],
+  "subjects": [
+    "Baudelaire, Charles, 1821-1867 -- Diaries",
+    "Poets, French -- 19th century -- Diaries"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "source": "https://www.gutenberg.org/ebooks/13792",
+  "download_count": 648,
+  "stats": {
+    "total_chars": 67728,
+    "total_words": 10757,
+    "chapter_count": 111,
+    "reading_time_minutes": 43
+  },
+  "table_of_contents": [
+    {
+      "index": 0,
+      "title": "I"
+    },
+    {
+      "index": 1,
+      "title": "II"
+    },
+    {
+      "index": 2,
+      "title": "III"
+    },
+    {
+      "index": 3,
+      "title": "IV"
+    },
+    {
+      "index": 4,
+      "title": "V"
+    },
+    {
+      "index": 5,
+      "title": "VI"
+    },
+    {
+      "index": 6,
+      "title": "VII"
+    },
+    {
+      "index": 7,
+      "title": "VIII"
+    },
+    {
+      "index": 8,
+      "title": "IX"
+    },
+    {
+      "index": 9,
+      "title": "X"
+    },
+    {
+      "index": 10,
+      "title": "XI"
+    },
+    {
+      "index": 11,
+      "title": "XII"
+    },
+    {
+      "index": 12,
+      "title": "XIII"
+    },
+    {
+      "index": 13,
+      "title": "XIV"
+    },
+    {
+      "index": 14,
+      "title": "XV"
+    },
+    {
+      "index": 15,
+      "title": "I"
+    },
+    {
+      "index": 16,
+      "title": "II"
+    },
+    {
+      "index": 17,
+      "title": "III"
+    },
+    {
+      "index": 18,
+      "title": "IV"
+    },
+    {
+      "index": 19,
+      "title": "V"
+    },
+    {
+      "index": 20,
+      "title": "VI"
+    },
+    {
+      "index": 21,
+      "title": "VII"
+    },
+    {
+      "index": 22,
+      "title": "VIII"
+    },
+    {
+      "index": 23,
+      "title": "IX"
+    },
+    {
+      "index": 24,
+      "title": "X"
+    },
+    {
+      "index": 25,
+      "title": "XI"
+    },
+    {
+      "index": 26,
+      "title": "XII"
+    },
+    {
+      "index": 27,
+      "title": "XIII"
+    },
+    {
+      "index": 28,
+      "title": "XIV"
+    },
+    {
+      "index": 29,
+      "title": "XV"
+    },
+    {
+      "index": 30,
+      "title": "XVI"
+    },
+    {
+      "index": 31,
+      "title": "XVII"
+    },
+    {
+      "index": 32,
+      "title": "XVIII"
+    },
+    {
+      "index": 33,
+      "title": "XIX"
+    },
+    {
+      "index": 34,
+      "title": "XX"
+    },
+    {
+      "index": 35,
+      "title": "XXI"
+    },
+    {
+      "index": 36,
+      "title": "XXII"
+    },
+    {
+      "index": 37,
+      "title": "XXIII"
+    },
+    {
+      "index": 38,
+      "title": "XXIV"
+    },
+    {
+      "index": 39,
+      "title": "XXV"
+    },
+    {
+      "index": 40,
+      "title": "XXVI"
+    },
+    {
+      "index": 41,
+      "title": "XXVII"
+    },
+    {
+      "index": 42,
+      "title": "XXVIII"
+    },
+    {
+      "index": 43,
+      "title": "XXIX"
+    },
+    {
+      "index": 44,
+      "title": "XXX"
+    },
+    {
+      "index": 45,
+      "title": "XXXI"
+    },
+    {
+      "index": 46,
+      "title": "XXXII"
+    },
+    {
+      "index": 47,
+      "title": "XXXIII"
+    },
+    {
+      "index": 48,
+      "title": "XXXIV"
+    },
+    {
+      "index": 49,
+      "title": "XXXV"
+    },
+    {
+      "index": 50,
+      "title": "XXXVI"
+    },
+    {
+      "index": 51,
+      "title": "XXXVII"
+    },
+    {
+      "index": 52,
+      "title": "XXXVIII"
+    },
+    {
+      "index": 53,
+      "title": "XXXIX"
+    },
+    {
+      "index": 54,
+      "title": "XL"
+    },
+    {
+      "index": 55,
+      "title": "XLI"
+    },
+    {
+      "index": 56,
+      "title": "XLII"
+    },
+    {
+      "index": 57,
+      "title": "XLIII"
+    },
+    {
+      "index": 58,
+      "title": "XLIV"
+    },
+    {
+      "index": 59,
+      "title": "XLV"
+    },
+    {
+      "index": 60,
+      "title": "XLVI"
+    },
+    {
+      "index": 61,
+      "title": "XLVII"
+    },
+    {
+      "index": 62,
+      "title": "XLVIII"
+    },
+    {
+      "index": 63,
+      "title": "I"
+    },
+    {
+      "index": 64,
+      "title": "II"
+    },
+    {
+      "index": 65,
+      "title": "III"
+    },
+    {
+      "index": 66,
+      "title": "IV"
+    },
+    {
+      "index": 67,
+      "title": "V"
+    },
+    {
+      "index": 68,
+      "title": "VI"
+    },
+    {
+      "index": 69,
+      "title": "VII"
+    },
+    {
+      "index": 70,
+      "title": "VIII"
+    },
+    {
+      "index": 71,
+      "title": "IX"
+    },
+    {
+      "index": 72,
+      "title": "X"
+    },
+    {
+      "index": 73,
+      "title": "XI"
+    },
+    {
+      "index": 74,
+      "title": "XII"
+    },
+    {
+      "index": 75,
+      "title": "XIII"
+    },
+    {
+      "index": 76,
+      "title": "XIV"
+    },
+    {
+      "index": 77,
+      "title": "XV"
+    },
+    {
+      "index": 78,
+      "title": "XVI"
+    },
+    {
+      "index": 79,
+      "title": "XVII"
+    },
+    {
+      "index": 80,
+      "title": "XVIII"
+    },
+    {
+      "index": 81,
+      "title": "XIX"
+    },
+    {
+      "index": 82,
+      "title": "XX"
+    },
+    {
+      "index": 83,
+      "title": "XXI"
+    },
+    {
+      "index": 84,
+      "title": "XXII"
+    },
+    {
+      "index": 85,
+      "title": "XXIII"
+    },
+    {
+      "index": 86,
+      "title": "XXIV"
+    },
+    {
+      "index": 87,
+      "title": "XXV"
+    },
+    {
+      "index": 88,
+      "title": "XXVI"
+    },
+    {
+      "index": 89,
+      "title": "XXVII"
+    },
+    {
+      "index": 90,
+      "title": "XXVIII"
+    },
+    {
+      "index": 91,
+      "title": "XXIX"
+    },
+    {
+      "index": 92,
+      "title": "XXX"
+    },
+    {
+      "index": 93,
+      "title": "XXXI"
+    },
+    {
+      "index": 94,
+      "title": "XXXII"
+    },
+    {
+      "index": 95,
+      "title": "XXXIII"
+    },
+    {
+      "index": 96,
+      "title": "XXXIV"
+    },
+    {
+      "index": 97,
+      "title": "XXXV"
+    },
+    {
+      "index": 98,
+      "title": "XXXVI"
+    },
+    {
+      "index": 99,
+      "title": "XXXVII"
+    },
+    {
+      "index": 100,
+      "title": "XXXVIII"
+    },
+    {
+      "index": 101,
+      "title": "XXXIX"
+    },
+    {
+      "index": 102,
+      "title": "XL"
+    },
+    {
+      "index": 103,
+      "title": "XLI"
+    },
+    {
+      "index": 104,
+      "title": "XLII"
+    },
+    {
+      "index": 105,
+      "title": "XLIII"
+    },
+    {
+      "index": 106,
+      "title": "XLIV"
+    },
+    {
+      "index": 107,
+      "title": "XLV"
+    },
+    {
+      "index": 108,
+      "title": "XLVI"
+    },
+    {
+      "index": 109,
+      "title": "XLVII"
+    },
+    {
+      "index": 110,
+      "title": "XLVIII"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "I",
+      "content": "Quand même Dieu n’existerait pas, la Religion serait encore Sainte\n\net _Divine_.\n\n\nDieu est le seul être qui, pour régner, n’ait même pas besoin\n\nd’exister.\n\n\nCe qui est créé par l’esprit est plus vivant que la matière.\n\n\nL’amour, c’est le goût de la prostitution. Il n’est même pas de\n\nplaisir noble qui ne puisse être ramené à la Prostitution.\n\n\nDans un spectacle, dans un bal, chacun jouit de tous.\n\n\nQu’est-ce que l’art? Prostitution.\n\n\nLe plaisir d’être dans les foules est une expression mystérieuse\n\nde la jouissance de la multiplication du nombre.\n\n\n_Tout_ est nombre. Le nombre est dans _tout_. Le nombre est dans\n\nl’individu. L’ivresse est un nombre.\n\n\nLe goût de la concentration productive doit remplacer, chez un\n\nhomme mûr, le goût de la déperdition. -\n\n\nL’amour peut dériver d’un sentiment généreux: le goût de la\n\nprostitution; mais il est bientôt corrompu par le goût de la\n\npropriété.\n\nL’amour veut sortir de soi, se confondre avec sa victime, comme le\n\nvainqueur avec le vaincu, et cependant conserver des privilèges de\n\nconquérant.\n\n\nLes voluptés de l’entrepreneur tiennent à la fois de l’ange et du\n\npropriétaire. Charité et férocité. Elles sont même indépendantes\n\ndu sexe, de la beauté et du genre animal.\n\n\nLes ténèbres vertes dans les soirs humides de la belle saison.\n\n\nProfondeur immense de la pensée dans les locutions vulgaires,\n\ntrous creusés par des générations de fourmis.\n\n\nAnecdote du chasseur, relative à la liaison intime de la férocité\n\net de l’amour."
+    },
+    {
+      "title": "II",
+      "content": "De la féminéité de l’Eglise, comme raison de son omnipuissance.\n\nDe la couleur violette (amour contenu, mystérieux, voilé, couleur\n\nde chanoinesse).\n\n\nLe prêtre est immense parce qu’il fait croire à une foule de\n\nchoses étonnantes.\n\nQue l’Église veuille tout faire et tout être, c’est une loi de\n\nl’esprit humain.\n\nLes peuples adorent l’autorité.\n\nLes prêtres sont les serviteurs et les sectaires de l’imagination.\n\nLe trône et l’autel, maxime révolutionnaire.\n\n\nE. G. ou la SÉDUISANTE AVENTURIÈRE\n\n\nIvresse religieuse des grandes villes. — Panthéisme. Moi, c’est\n\ntous; Tous, c’est moi.\n\nTourbillon."
+    },
+    {
+      "title": "III",
+      "content": "Je crois que j’ai déjà écrit dans mes notes que l’amour\n\nressemblait fort à une torture ou à une opération chirurgicale.\n\nMais cette idée peut être développée de la manière la plus amère.\n\nQuand même les deux amants seraient très épris et très pleins de\n\ndésirs réciproques, l’un des deux sera toujours plus calme ou\n\nmoins possédé que l’autre. Celui-là, ou celle-là, c’est\n\nl’opérateur, ou le bourreau; l’autre, c’est le sujet, la victime.\n\nEntendez-vous ces soupirs, préludes d’une tragédie de déshonneur,\n\nces gémissements, ces cris, ces râles? Qui ne les a proférés, qui\n\nne les a irrésistiblement extorqués? Et que trouvez-vous de pire\n\ndans la question appliquée par de soigneux tortionnaires? Ces yeux\n\nde somnambule révulsés, ces membres dont les muscles jaillissent\n\net se roidissent comme sous l’action d’une pile galvanique,\n\nl’ivresse, le délire, l’opium, dans leurs plus furieux résultats,\n\nne vous en donneront certes pas d’aussi affreux, d’aussi curieux\n\nexemples. Et le visage humain, qu’Ovide croyait façonné pour\n\nrefléter les astres, le voilà qui ne parle plus qu’une expression\n\nd’une férocité folle, ou qui se détend dans une espèce de mort.\n\nCar, certes, je croirais faire un sacrilège en appliquant le mot:\n\nextase à cette sorte de décomposition.\n\n\n-- Épouvantable jeu où il faut que l’un des joueurs perde le\n\ngouvernement de soi-même!\n\nUne fois il fut demandé devant moi en quoi consistait le plus\n\ngrand plaisir de l’amour. Quelqu’un répondit naturellement: à\n\nrecevoir, -- et un autre: à se donner.\n\n-- Celui-ci dit: plaisir d’orgueil! -- et celui-là: volupté\n\nd’humilité! Tous ces orduriers parlaient comme l’_Imitation de\n\nJésus-Christ_. -- Enfin il se trouva un impudent utopiste qui\n\naffirma que le plus grand plaisir de l’amour était de former des\n\ncitoyens pour la patrie.\n\n\nMoi je dis: la volupté unique et suprême de l’amour gît dans la\n\ncertitude de faire le _mal_. -- Et l’homme et la femme savent de\n\nnaissance que dans le mal se trouve toute volupté."
+    },
+    {
+      "title": "IV",
+      "content": "PLANS. PROJETS\n\n-- La Comédie à la Silvestre.\n\nBarbara et le Mouton.\n\n-- Chenavard a créé un type surhumain.\n\n-- Mon voeu à Levaillant.\n\n-- Préface, mélange de mysticité et d’engouement.\n\nRêve et théorie du Rêve à la Swedenborg.\n\n\nLa pensée de Campbell (_the Conduct of Life_).\n\nConcentration.\n\nPuissance de l’idée fixe.\n\n-- La franchise absolue, moyen d’originalité.\n\n-- Raconter pompeusement des choses comiques.\n\n\nFUSÉES. SUGGESTIONS\n\nQuand un homme se met au lit, presque tous ses amis ont le désir\n\nsecret de le voir mourir; les uns pour constater qu’il avait une\n\nsanté inférieure à la leur; les autres dans l’espoir désintéressé\n\nd’étudier une agonie.\n\n\nLe dessin arabesque est le plus spiritualiste des dessins."
+    },
+    {
+      "title": "V",
+      "content": "SUGGESTIONS\n\nL’homme de lettres remue des capitaux et donne le goût de la\n\ngymnastique intellectuelle.\n\n\nLe dessin arabesque est le plus idéal de tous.\n\n\nNous aimons les femmes à proportion qu’elles nous sont plus\n\nétrangères. Aimer les femmes intelligentes est un plaisir de\n\npédéraste. Ainsi la bestialité exclut la pédérastie.\n\n\nL’esprit de bouffonnerie peut ne pas exclure la charité, mais\n\nc’est rare.\n\n\nL’enthousiasme qui s’applique à autre chose que les abstractions\n\nest un signe de faiblesse et de maladie.\n\n\nLa maigreur est plus nue, plus indécente que la graisse."
+    },
+    {
+      "title": "VI",
+      "content": "--_ Ciel tragique_. Épithète d’on ordre abstrait appliqué à un\n\nêtre matériel.\n\n\n-- L’homme boit la lumière avec l’atmosphère. Ainsi le peuple a\n\nraison de dire que l’air de la nuit est malsain pour le travail.\n\n\n-- Le peuple est adorateur-né du feu.\n\nFeux d’artifice, incendies, incendiaires.\n\nSi l’on suppose un adorateur-né du feu, un _Parsis-né_, on peut\n\ncréer une nouvelle.\n\n\nLes méprises relatives aux visages sont le résultat de l’éclipse\n\nde l’image réelle par l’hallucination qui en tire sa naissance.\n\n\nConnais donc les jouissances d’une vie âpre; et prie, prie sans\n\ncesse. La prière est réservoir de force. (_Autel de la volonté.\n\nDynamique morale. La sorcellerie des sacrements. Hygiène de\n\nl’âme_).\n\n\nLa Musique creuse le ciel.\n\n\nJean-Jacques disait qu’il n’entrait dans un café qu’avec une\n\ncertaine émotion. Pour une nature timide, un contrôle de théâtre\n\nressemble quelque peu au tribunal des Enfers.\n\n\nLa vie n’a qu’un charme vrai; c’est le charme du _Jeu_. Mais s’il\n\nnous est indifférent de gagner ou de perdre?"
+    },
+    {
+      "title": "VII",
+      "content": "SUGGESTIONS\n\nLes nations n’ont de grands hommes que malgré elles, -- comme les\n\nfamilles. Elles font tous leurs efforts pour n’en avoir pas. Et\n\nainsi, le grand homme a besoin, pour exister, de posséder une\n\nforce d’attaque plus grande que la force de résistance développée\n\npar des millions d’individus.\n\n\nA propos du sommeil, aventure sinistre de tous les soirs, on peut\n\ndire que les hommes s’endorment journellement avec une audace qui\n\nserait inintelligible, si nous ne savions pas qu’elle est le\n\nrésultat de l’ignorance du danger.\n\n\nIl y a des peaux carapaces avec lesquelles le mépris n’est plus\n\nune vengeance.\n\n\nBeaucoup d’amis, beaucoup de gants. Ceux qui m’ont aimé étaient\n\ndes gens méprisés, je dirais même méprisables, si je tenais à\n\nflatter les honnêtes gens.\n\n\nGirardin parler latin! _Pecudesque locutae_.\n\n\nIl appartenait à une Société incrédule d’envoyer Robert Houdin\n\nchez les Arabes pour les détourner des miracles."
+    },
+    {
+      "title": "VIII",
+      "content": "Ces beaux et grands navires, imperceptiblement balancés (dandinés)\n\nsur les eaux tranquilles, ces robustes navires, à l’air désoeuvré\n\net nostalgique, ne nous disent-ils pas dans une langue muette:\n\nQuand partons-nous pour le bonheur?\n\n\nNe pas oublier dans le drame le côté merveilleux, la sorcellerie\n\net le romanesque.\n\n\nLes milieux, les atmosphères, dont tout un récit doit être trempé.\n\n(Voir _Usher _et en référer aux sensations profondes du hachisch\n\net de l’opium).\n\n\nY a-t-il des folies mathématiques et des fous qui pensent que deux\n\net deux fassent trois? En d’autres termes, -- l’hallucination\n\npeut-elle, si ces mots ne hurlent pas, envahir les choses de pur\n\nraisonnement? Si, quand un homme prend l’habitude de la paresse,\n\nde la rêverie, de la fainéantise, au point de renvoyer sans cesse\n\nau lendemain la chose importante, un autre homme le réveillait un\n\nmatin à grands coups de fouet et le fouettait sans pitié jusqu’à\n\nce que, ne pouvant travailler par plaisir, celui-ci travaillât par\n\npeur, cet homme, -- le fouetteur, -- ne serait-il pas vraiment son\n\nami, son bienfaiteur? D’ailleurs on peut affirmer que le plaisir\n\nviendrait après, à bien plus juste titre qu’on ne dit: l’amour\n\nvient après le mariage.\n\nDe même en politique, le vrai saint est celui qui fouette et tue\n\nle peuple pour le bien du peuple.\n\n\nMardi 13 mai 1856.\n\n\nPrendre des exemplaires à Michel.\n\nÉcrire à Mann,\n\nà [Willis]\n\nà _Maria Clemm_.\n\n\nEnvoyer chez Mad. Dumay savoir si Mirès.....\n\n\nCe qui n’est pas légèrement difforme a l’air insensible: -- d’où\n\nil suit que l’irrégularité, c’est-à-dire l’inattendu, la surprise,\n\nl’étonnement sont une partie essentielle et la caractéristique de\n\nla beauté."
+    },
+    {
+      "title": "IX",
+      "content": "NOTES\n\nThéodore de Banville n’est pas précisément matérialiste; il est\n\nlumineux.\n\nSa poésie représente les heures heureuses.\n\n\nA chaque lettre de créancier, écrivez cinquante lignes sur un\n\nsujet extra-terrestre et vous serez sauvé.\n\n\nGrand sourire dans un beau visage de géant.\n\n\n_Du suicide et de la folie-suicide considérés dans leurs rapports\n\navec la statistique, la médecine et la philosophie._\n\n\nBRIÈRE DE BOISMONT\n\nChercher le passage: Vivre avec un être qui n’a pour vous que de\n\nl’aversion...\n\nLe portrait de _Sérène_ par _Sénèque_, celui de _Stagyre_ par\n\n_saint Jean Chrysostome_.\n\nL’_acedia_, maladie des moines.\n\nLe _Taedium vitae_.\n\n\nTraduction et paraphrase de: La Passion rapporte tout à elle.\n\nJouissances spirituelles et physiques causées par l’orage,\n\nl’électricité et la foudre, tocsin des souvenirs amoureux,\n\nténébreux, des anciennes années."
+    },
+    {
+      "title": "X",
+      "content": "J’ai trouvé la définition du Beau, -- de mon Beau. C’est quelque\n\nchose d’ardent et de triste, quelque chose d’un peu vague,\n\nlaissant carrière à la conjecture. Je vais, si l’on veut,\n\nappliquer mes idées à un objet sensible, à l’objet, par exemple,\n\nle plus intéressant dans la société, à un visage de femme. Une\n\ntête séduisante et belle, une tête de femme, veux-je dire, c’est\n\nune tête qui fait rêver à la fois, -- mais d’une manière confuse,\n\n-- de volupté et de tristesse; qui comporte une idée de\n\nmélancolie, de lassitude, même de satiété, -- soit une idée\n\ncontraire, c’est-à-dire une ardeur, un désir de vivre, associé\n\navec une amertume refluante, comme venant de privation ou de\n\ndésespérance. Le mystère, le regret, sont aussi des caractères du\n\nBeau.\n\nUne belle tête d’homme n’a pas besoin de comporter, excepté peut-\n\nêtre aux yeux d’une femme, -- cette idée de volupté, qui dans un\n\nvisage de femme est une provocation d’autant plus attirante que le\n\nvisage est généralement plus mélancolique. Mais cette tête\n\ncontiendra aussi quelque chose d’ardent et de triste, -- des\n\nbesoins spirituels, des ambitions ténébreusement refoulées, --\n\nl’idée d’une puissance grondante, et sans emploi, -- quelquefois\n\nl’idée d’une insensibilité vengeresse, (car le type idéal du Dandy\n\nn’est pas à négliger dans ce sujet), -- quelquefois aussi, -- et\n\nc ‘est l’un des caractères de beauté les plus intéressants, -- le\n\nmystère, et enfin (pour que j’aie le courage d’avouer à quel point\n\nje me sens moderne en esthétique), _le Malheur_. -- Je ne prétends\n\npas que la Joie ne puisse pas s’associer avec la Beauté, mais je\n\ndis que la Joie [en] est un des ornements les plus vulgaires; --\n\ntandis que la Mélancolie en est pour ainsi dire l’illustre\n\ncompagne, à ce point que je ne conçois guère (mon cerveau serait-\n\nil un miroir ensorcelé?) un type de Beauté où il n’y ait pas du\n\n_Malheur_. -- Appuyé sur, -- d’autres diraient: obsédé par -- ces\n\nidées, on conçoit qu’il me serait difficile de ne pas conclure que\n\nle plus parfait type de Beauté virile est _Satan_, -- à la manière\n\nde Milton."
+    },
+    {
+      "title": "XI",
+      "content": "AUTO-IDOLÂTRIE.\n\nHarmonie politique du caractère.\n\nEurythmie du caractère et des facultés.\n\nAugmenter toutes les facultés.\n\nConserver toutes les facultés.\n\nUn culte (magisme, sorcellerie évocatoire).\n\nLe sacrifice et le voeu sont les formules suprêmes et les symboles\n\nde l’échange.\n\n\nDeux qualités littéraires fondamentales: surnaturalisme et ironie.\n\nCoup d’oeil individuel, aspect dans lequel se tiennent les choses\n\ndevant l’écrivain, puis tournure d’esprit satanique. Le surnaturel\n\ncomprend la couleur générale et l’accent, c’est-à-dire intensité,\n\nsonorité, limpidité, vibrativité, profondeur et retentissement\n\ndans l’espace et dans le temps.\n\nIl y a des moments de l’existence où le temps et l’étendue sont\n\nplus profonds, et le sentiment de l’existence immensément\n\naugmenté.\n\nDe la magie appliquée à l’évocation des grands morts, au\n\nrétablissement et au perfectionnement de la santé.\n\nL’inspiration vient toujours quand l’homme le _veut_, mais elle ne\n\ns’en va pas toujours quand il le veut.\n\nDe la langue et de l’écriture, prises comme opérations magiques,\n\nsorcellerie évocatoire.\n\n\n_De l’air dans la femme._\n\n\nLes airs charmants et qui font la beauté sont:\n\n\nL’air blasé,\n\nL’air ennuyé\n\nL’air évaporé,\n\nL’air impudent,\n\nL’air de regarder en dedans,\n\nL’air de domination,\n\nL’air de volonté,\n\nL’air méchant,\n\nL’air chat, enfantillage, nonchalance et malice mêlés.\n\n\nDans certains états de l’âme presque surnaturels, la profondeur de\n\nla vie se révèle toute entière dans le spectacle, si ordinaire\n\nqu’il soit, qu’on a sous les yeux. Il en devient le symbole.\n\n\nComme je traversais le boulevard, et comme je mettais un peu de\n\nprécipitation à éviter les voitures, mon auréole s’est détachée et\n\nest tombée dans la boue du macadam. J’eus heureusement le temps de\n\nla ramasser; mais cette idée malheureuse se glissa un instant\n\naprès dans mon esprit, que c’était un mauvais présage; et dès lors\n\nl’idée n’a plus voulu me lâcher; elle ne m’a laissé aucun repos de\n\ntoute la journée.\n\n\nDu culte de soi-même dans l’amour, au point de vue de la santé, de\n\nl’hygiène, de la toilette, de la noblesse spirituelle et de\n\nl’éloquence.\n\n\n_Self-purification and anti-humanity._\n\n\nIl y a dans l’acte de l’amour une grande ressemblance avec la\n\ntorture, ou avec une opération chirurgicale.\n\n\nIl y a dans la prière une opération magique. La prière est une des\n\ngrandes forces de la dynamique intellectuelle. Il y a là comme une\n\nrécurrence électrique.\n\nLe chapelet est un médium, un véhicule; c’est la prière mise à la\n\nportée de tous.\n\n\nLe travail, force progressive et accumulative, portant intérêts\n\ncomme le capital, dans les facultés comme dans les résultats.\n\nLe jeu, même dirigé par la science, force intermittente, sera\n\nvaincu, si fructueux qu’il soit, par le travail, si petit qu’il\n\nsoit, mais continu.\n\n\nSi un poète demandait à l’État le droit d’avoir quelques bourgeois\n\ndans son écurie, on serait fort étonné, tandis que si un bourgeois\n\ndemandait du poète rôti, on le trouverait tout naturel.\n\n\nCe livre ne pourra pas scandaliser mes femmes, mes filles, ni mes\n\nsoeurs.\n\n\nTantôt il lui demandait la permission de lui baiser la jambe, et\n\nil profitait de la circonstance pour baiser cette belle jambe dans\n\ntelle position qu’elle dessinât son contour sur le soleil\n\ncouchant.\n\n\nMinette, minoutte, minouille, mon chat, mon loup, mon petit singe,\n\ngrand singe, grand serpent, mon petit âne mélancolique.\n\nDe pareils caprices de langue, trop répétés, de trop fréquentes\n\nappellations bestiales témoignent d’un côté satanique dans\n\nl’amour; les satans n’ont-ils pas des formes de bêtes? Le chameau\n\nde Cazotte, -- chameau, Diable et femme.\n\nUn homme va au tir au pistolet, accompagné de sa femme. -- Il\n\najuste une poupée, et dit à sa femme: Je me figure que c’est toi.\n\n-- Il ferme les yeux et abat la poupée. -- Puis il dit en baisant\n\nla main de sa compagne: Cher ange, que je te remercie de mon\n\nadresse!\n\nQuand j’aurai inspiré le dégoût et l’horreur universels, j’aurai\n\nconquis la solitude.\n\nCe livre n’est pas fait pour mes femmes, mes filles et mes soeurs.\n\n-- J’ai peu de ces choses.\n\nIl y a des peaux carapaces avec lesquelles le mépris n’est plus un\n\nplaisir.\n\nBeaucoup d’amis, beaucoup de gants, -- de peur de la gale.\n\nCeux qui m’ont aimé étaient des gens méprisés, je dirais même\n\nméprisables, si je tenais à flatter les _honnêtes gens_.\n\nDieu est un scandale, -- un scandale qui rapporte."
+    },
+    {
+      "title": "XII",
+      "content": "Ne méprisez la sensibilité de personne. La sensibilité de chacun,\n\nc’est son génie.\n\nIl n’y a que deux endroits où l’on paye pour avoir le droit de\n\ndépenser, les latrines publiques et les femmes.\n\nPar un concubinage ardent, on peut deviner les jouissances d’un\n\njeune ménage.\n\nLe goût précoce des femmes. Je confondais l’odeur de la fourrure\n\navec l’odeur de la femme. Je me souviens... Enfin, j’aimais ma\n\nmère pour son élégance. J’étais donc un dandy précoce.\n\nMes ancêtres, idiots ou maniaques, dans des appartements\n\nsolennels, tous victimes de terribles passions.\n\nLes pays protestants manquent de deux éléments indispensables au\n\nbonheur d’un homme bien élevé, la galanterie et la dévotion.\n\nLe mélange du grotesque et du tragique est agréable à l’esprit\n\ncomme la discordance aux oreilles blasées.\n\nCe qu’il y a d’enivrant dans le mauvais goût, c’est le plaisir\n\naristocratique de déplaire.\n\nL’Allemagne exprime la rêverie par la ligne, comme l’Angleterre\n\npar la perspective.\n\nIl y a dans l’engendrement de toute pensée sublime une secousse\n\nnerveuse qui se fait sentir dans le cervelet.\n\nL’Espagne met dans la religion la férocité naturelle de l’amour.\n\n\nSTYLE.\n\nLa note éternelle, le style éternel et cosmopolite. Chateaubriand,\n\nAlph. Rabbe, Edgar Poe."
+    },
+    {
+      "title": "XIII",
+      "content": "SUGGESTIONS\n\nPourquoi les démocrates n’aiment pas les chats, il est facile de\n\nle deviner. Le chat est beau; il révèle des idées de luxe, de\n\npropreté, de volupté, etc...\n\n\nUn peu de travail, répété trois cent soixante-cinq fois, donne\n\ntrois cent soixante-cinq fois un peu d’argent, c’est-à-dire une\n\nsomme énorme. En même temps, _la gloire est faite_.\n\n\nDe même, une foule de petites jouissances composent le bonheur.\n\n\nCréer un poncif, c’est le génie.\n\nJe dois créer un poncif.\n\n\nLe concetto est un chef-d’oeuvre.\n\n\nLe ton Alphonse Rabbe.\n\nLe ton fille entretenue (_Ma toute-belle! Sexe volage!_).\n\nLe ton _éternel_.\n\nColoriage, cru, dessin profondément entaillé.\n\n_La prima Donna et le garçon boucher_.\n\n\nMa mère est fantastique; il faut la craindre et lui plaire.\n\n\nL’orgueilleux Hildebrand.\n\nCésarisme de Napoléon III. (Lettre à Edgar Ney). Pape et Empereur."
+    },
+    {
+      "title": "XIV",
+      "content": "SUGGESTIONS.\n\nSe livrer à Satan, qu’est-ce que c’est?\n\n\nQuoi de plus absurde que le Progrès, puisque l’homme, comme cela\n\nest prouvé par le fait journalier, est toujours semblable et égal\n\nà l’homme, c’est-à-dire toujours à l’état sauvage. Qu’est-ce que\n\nles périls de la forêt et de la prairie auprès des chocs et des\n\nconflits quotidiens de la civilisation? Que l’homme enlace sa dupe\n\nsur le Boulevard, ou perce sa proie dans des forêts inconnues,\n\nn’est-il pas l’homme éternel, c’est-à-dire l’animal de proie le\n\nplus parfait?\n\n-- On dit que j’ai trente ans; mais si j’ai vécu trois minutes en\n\nune... n’ai-je pas quatre-vingt-dix ans?\n\n... Le travail, n’est-ce pas le sel qui conserve les âmes momies?\n\nDébut d’un roman, commencer un sujet n’importe où et, pour avoir\n\nenvie de le finir, débuter par de très belles phrases."
+    },
+    {
+      "title": "XV",
+      "content": "Je crois que le charme infini et mystérieux qui gît dans la\n\ncontemplation d’un navire en mouvement, tient, dans le premier\n\ncas, à la régularité et à la symétrie qui sont un des besoins\n\nprimordiaux de l’esprit humain, au même degré que la complication\n\net l’harmonie, -- et, dans le second cas, à la multiplication et à\n\nla génération de toutes les courbes et figures imaginaires opérées\n\ndans l’espace par les éléments réels de l’objet.\n\nL’idée poétique qui se dégage de cette opération du mouvement dans\n\nles lignes est l’hypothèse d’un être vaste, immense, compliqué,\n\nmais eurythmique, d’un animal plein de génie, souffrant et\n\nsoupirant tous les soupirs et toutes les ambitions humaines.\n\n\nPeuples civilisés, qui parlez toujours sottement de _sauvages_ et\n\nde _barbares_, bientôt, comme le dit d’Aurevilly, vous ne vaudrez\n\nmême plus assez pour être idolâtres.\n\n\nLe stoïcisme, religion qui n’a qu’un sacrement, -- le suicide!\n\n\nConcevoir un canevas pour une bouffonnerie lyrique ou féerique,\n\npour une pantomime, et traduire cela en un roman sérieux. Noyer le\n\ntout dans une atmosphère anormale et songeuse, -- dans\n\nl’atmosphère des _grands jours_. -- Que ce soit quelque chose de\n\nberçant, -- et même de serein dans la passion. -- Régions de la\n\nPoésie pure.\n\n\nÉmu au contact de ces voluptés qui ressemblaient à des souvenirs,\n\nattendri par la pensée d’un passé mal rempli, de tant de fautes,\n\nde tant de querelles, de tant de choses à se cacher\n\nréciproquement, il se mit à pleurer; et ses larmes chaudes\n\ncoulèrent dans les ténèbres sur l’épaule nue de sa chère et\n\ntoujours attirante maîtresse. Elle tressaillit; elle se sentit,\n\nelle aussi, attendrie et remuée. Les ténèbres rassuraient sa\n\nvanité et son dandysme de femme froide. Ces deux êtres déchus,\n\nmais souffrant encore de leur reste de noblesse, s’enlacèrent\n\nspontanément, confondant dans la pluie de leurs larmes et de leurs\n\nbaisers les tristesses de leur passé avec leurs espérances bien\n\nincertaines d’avenir. Il est présumable que jamais pour eux la\n\nvolupté ne fut si douce que dans cette nuit de mélancolie et de\n\ncharité; -- volupté saturée de douleur et de remords.\n\nA travers la noirceur de la nuit, il avait regardé derrière lui\n\ndans les années profondes, puis il s’était jeté dans les bras de\n\nsa coupable amie pour y retrouver le pardon qu’il lui accordait.\n\n-- Hugo pense souvent à Prométhée. Il s’applique un vautour\n\nimaginaire sur une poitrine qui n’est lancinée que par les moxas\n\nde la vanité. Puis l’hallucination se compliquant, se variant,\n\nmais suivant la marche progressive décrite par les médecins, il\n\ncroit que par un _fiat_ de la Providence, Sainte-Hélène a pris la\n\nplace de Jersey.\n\n\nCet homme est si peu élégiaque, si peu éthéré, qu’il ferait\n\nhorreur même à un notaire.\n\n\nHugo-Sacerdoce a toujours le front penché; -- trop penché pour\n\nrien voir, excepté son nombril.\n\n\nQu’est-ce qui n’est pas un sacerdoce aujourd’hui? La jeunesse\n\nelle-même est un sacerdoce, -- à ce que dit la jeunesse.\n\n\nEt qu’est-ce qui n’est pas une prière? -- Chier est une prière, à\n\nce que disent les démocrates quand ils chient.\n\n\nM. de Pontmartin, -- un homme qui a toujours l’air d’arriver de sa\n\nprovince...\n\n\nL’homme, c’est-à-dire chacun, est si naturellement dépravé qu’il\n\nsouffre moins de l’abaissement universel que de l’établissement\n\nd’une hiérarchie raisonnable.\n\n\nLe monde va finir. La seule raison pour laquelle il pourrait\n\ndurer, c’est qu’il existe. Que cette raison est faible, comparée à\n\ntoutes celles qui annoncent le contraire, particulièrement à\n\ncelle-ci: qu’est-ce que le monde a désormais à faire sous le ciel?\n\n-- Car, en supposant qu’il continuât à exister matériellement,\n\nserait-ce une existence digne de ce nom et du dictionnaire\n\nhistorique? Je ne dis pas que le monde sera réduit aux expédients\n\net au désordre, bouffon des républiques du Sud-Amérique, -- que\n\npeut-être même nous retournerons à l’état sauvage, et que nous\n\nirons, à travers les ruines herbues de notre civilisation,\n\nchercher notre pâture, un fusil à la main. Non; -- car ce sort et\n\nces aventures supposeraient encore une certaine énergie vitale,\n\nécho des premiers âges. Nouvel exemple et nouvelles victimes des\n\ninexorables lois morales, nous périrons par où nous avons cru\n\nvivre. La mécanique nous aura tellement américanisés, le progrès\n\naura si bien atrophié en nous toute la partie spirituelle, que\n\nrien parmi les rêveries sanguinaires, sacrilèges, ou anti-\n\nnaturelles des utopistes ne pourra être comparé à ses résultats\n\npositifs. Je demande à tout homme qui pense de me montrer ce qui\n\nsubsiste de la vie. De la religion, je crois inutile d’en parler\n\net d’en chercher les restes, puisque se donner encore la peine de\n\nnier Dieu est le seul scandale en pareilles matières. La propriété\n\navait disparu virtuellement avec la suppression du droit\n\nd’aînesse; mais le temps viendra où l’humanité, comme un ogre\n\nvengeur, arrachera leur dernier morceau à ceux qui croiront avoir\n\nhérité légitimement des révolutions. Encore, là ne serait pas le\n\nmal suprême.\n\nL’imagination humaine peut concevoir sans trop de peine, des\n\nrépubliques ou autres états communautaires, dignes de quelque\n\ngloire, s’ils sont dirigés par des hommes sacrés, par de certains\n\naristocrates. Mais ce n’est pas particulièrement par des\n\ninstitutions politiques que se manifestera la ruine universelle,\n\nou le progrès universel; car peu m’importe le nom. Ce sera par\n\nl’avilissement des coeurs. Ai-je besoin de dire que le peu qui\n\nrestera de politique se débattra péniblement dans les étreintes de\n\nl’animalité générale, et que les gouvernants seront forcés, pour\n\nse maintenir et pour créer un fantôme d’ordre, de recourir à des\n\nmoyens qui feraient frissonner notre humanité actuelle, pourtant\n\nsi endurcie? -- Alors, le fils fuira la famille, non pas à dix-\n\nhuit ans, mais à douze, émancipé par sa précocité gloutonne; il la\n\nfuira, non pas pour chercher des aventures héroïques, non pas pour\n\ndélivrer une beauté prisonnière dans une tour, non pas pour\n\nimmortaliser un galetas par de sublimes pensées, mais pour fonder\n\nun commerce, pour s’enrichir, et pour faire concurrence à son\n\ninfâme papa, -- fondateur et actionnaire d’un journal qui répandra\n\nles lumières et qui ferait considérer le _Siècle_ d’alors comme un\n\nsuppôt de la superstition. Alors, les errantes, les déclassées,\n\ncelles qui ont eu quelques amants, et qu’on appelle parfois des\n\nAnges, en raison et en remerciement de l’étourderie qui brille,\n\nlumière de hasard, dans leur existence logique comme le mal, --\n\nalors celles-là, dis-je, ne seront plus qu’impitoyable sagesse,\n\nsagesse qui condamnera tout, fors l’argent, tout, même _les\n\nerreurs des sens_! .... Alors, ce qui ressemblera à la vertu, --\n\nque dis-je, -- tout ce qui ne sera pas l’ardeur vers Plutus sera\n\nréputé un immense ridicule. La justice, si, à cette époque\n\nfortunée, il peut encore exister une justice, fera interdire les\n\ncitoyens qui ne sauront pas faire fortune. -- Ton épouse, ô\n\nBourgeois! ta chaste moitié dont la légitimité fait pour toi la\n\npoésie, introduisant désormais dans la légalité une infamie\n\nirréprochable, gardienne vigilante et amoureuse de ton coffre-\n\nfort, ne sera plus que l’idéal parfait de la femme entretenue. Ta\n\nfille, avec une nubilité enfantine, rêvera dans son berceau,\n\nqu’elle se vend un million. Et toi-même, ô Bourgeois, -- moins\n\npoète encore que tu n’es aujourd’hui, -- tu n’y trouveras rien à\n\nredire; tu ne regretteras rien. Car il y a des choses dans\n\nl’homme, qui se fortifient et prospèrent à mesure que d’autres se\n\ndélicatisent et s’amoindrissent, et, grâce au progrès de ces\n\ntemps, il ne te restera de tes entrailles que des viscères!\n\nQuant à moi qui sens quelquefois en moi le ridicule d’un prophète,\n\nje sais que je n’y trouverai jamais la charité d’un médecin. Perdu\n\ndans ce vilain monde, coudoyé par les foules, je suis comme un\n\nhomme lassé dont l’oeil ne voit en arrière, dans les années\n\nprofondes, que désabusement et amertume, et devant lui qu’un orage\n\noù rien de neuf n’est contenu, ni enseignement, ni douleur. Le\n\nsoir où cet homme a volé à la destinée quelques heures de plaisir,\n\nbercé dans sa digestion, oublieux autant que possible -- du passé,\n\ncontent du présent et résigné à l’avenir, enivré de son sang-froid\n\net de son dandysme, fier de n’être pas aussi bas que ceux qui\n\npassent, il se dit en contemplant la fumée de son cigare: Que\n\nm’importe où vont ces consciences?\n\nJe crois que j’ai dérivé dans ce que les gens du métier appellent\n\nun hors-d’oeuvre. Cependant, je laisserai ces pages, -- parce que\n\nje veux dater ma colère. Tristesse.\n\n\nMON COEUR MIS À NU\n\n(Deuxième partie des journaux intimes)\n\n\nTable des matières\n\n\nPrésentation"
+    },
+    {
+      "title": "I",
+      "content": "1.\n\n2.\n\n3."
+    },
+    {
+      "title": "II",
+      "content": "4."
+    },
+    {
+      "title": "III",
+      "content": "5."
+    },
+    {
+      "title": "IV",
+      "content": "6.\n\n7."
+    },
+    {
+      "title": "V",
+      "content": "8."
+    },
+    {
+      "title": "VI",
+      "content": "9.\n\n10."
+    },
+    {
+      "title": "VII",
+      "content": "11.\n\n12."
+    },
+    {
+      "title": "VIII",
+      "content": "13.\n\n14."
+    },
+    {
+      "title": "IX",
+      "content": "15.\n\n16."
+    },
+    {
+      "title": "X",
+      "content": "17.\n\n18."
+    },
+    {
+      "title": "XI",
+      "content": "19.\n\n20"
+    },
+    {
+      "title": "XII",
+      "content": "21."
+    },
+    {
+      "title": "XIII",
+      "content": "22."
+    },
+    {
+      "title": "XIV",
+      "content": "23.\n\n24."
+    },
+    {
+      "title": "XV",
+      "content": "25."
+    },
+    {
+      "title": "XVI",
+      "content": "26."
+    },
+    {
+      "title": "XVII",
+      "content": "27.\n\n28."
+    },
+    {
+      "title": "XVIII",
+      "content": "29.\n\n30."
+    },
+    {
+      "title": "XIX",
+      "content": "31.\n\n32."
+    },
+    {
+      "title": "XX",
+      "content": "33.\n\n34."
+    },
+    {
+      "title": "XXI",
+      "content": "35.\n\n36."
+    },
+    {
+      "title": "XXII",
+      "content": "37.\n\n38."
+    },
+    {
+      "title": "XXIII",
+      "content": "39.\n\n40.\n\n41."
+    },
+    {
+      "title": "XXIV",
+      "content": "42.\n\n43."
+    },
+    {
+      "title": "XXV",
+      "content": "44.\n\n45."
+    },
+    {
+      "title": "XXVI",
+      "content": "46.\n\n47."
+    },
+    {
+      "title": "XXVII",
+      "content": "48.\n\n49."
+    },
+    {
+      "title": "XXVIII",
+      "content": "50.\n\n51."
+    },
+    {
+      "title": "XXIX",
+      "content": "52.\n\n53."
+    },
+    {
+      "title": "XXX",
+      "content": "54.\n\n55."
+    },
+    {
+      "title": "XXXI",
+      "content": "56.\n\n57."
+    },
+    {
+      "title": "XXXII",
+      "content": "58.\n\n59."
+    },
+    {
+      "title": "XXXIII",
+      "content": "60.\n\n61."
+    },
+    {
+      "title": "XXXIV",
+      "content": "62."
+    },
+    {
+      "title": "XXXV",
+      "content": "63."
+    },
+    {
+      "title": "XXXVI",
+      "content": "64."
+    },
+    {
+      "title": "XXXVII",
+      "content": "65.\n\n66.\n\n67."
+    },
+    {
+      "title": "XXXVIII",
+      "content": "68.\n\n69."
+    },
+    {
+      "title": "XXXIX",
+      "content": "70.\n\n71."
+    },
+    {
+      "title": "XL",
+      "content": "72.\n\n73."
+    },
+    {
+      "title": "XLI",
+      "content": "74.\n\n75."
+    },
+    {
+      "title": "XLII",
+      "content": "76.\n\n77."
+    },
+    {
+      "title": "XLIII",
+      "content": "78.\n\n79."
+    },
+    {
+      "title": "XLIV",
+      "content": "80."
+    },
+    {
+      "title": "XLV",
+      "content": "81.\n\n82."
+    },
+    {
+      "title": "XLVI",
+      "content": "83."
+    },
+    {
+      "title": "XLVII",
+      "content": "84."
+    },
+    {
+      "title": "XLVIII",
+      "content": "85.\n\n\nPrésentation\n\n\n«Un grand livre auquel je rêve depuis deux ans: _Mon coeur mis à\n\nnu,_ et où j’entasserai toutes mes colères. Ah! si jamais celui-là\n\nvoit le jour, _Les confessions_ de Jean-Jacques paraîtront pâles.\n\nTu vois que je rêve encore.»\n\n\nLettre de Charles Baudelaire à sa mère (1er avril 1861)\n\n\nLa publication fut posthume, en 1887.\n\n\nApparemment, la composition de _Mon coeur mis à nu_ daterait des\n\nannées 1852 -- 1866.\n\n\nC’est initialement pour lui seul, et pour quelques intimes, que\n\nBaudelaire a jeté sur le papier les bases de ce «livre de\n\nrancunes». Sachez, le moment venu, jeter sur certaines crudités,\n\nle manteau de Noé.\n\n\nCes journaux intimes sont restés à l’état de feuilles volantes\n\njusqu’à la mort du poète en 1867.\n\n\nPoulet-Malassis, ami et éditeur de Baudelaire, numérote plus tard\n\nles fragments (chiffres arabes), les fixe sur des feuilles\n\nfoliotées (chiffres romains), et fait relier le tout dans des\n\ncartonnages.\n\n\nLa présente édition comporte cette double numérotation, en\n\nchiffres romains et en chiffres arabes"
+    },
+    {
+      "title": "I",
+      "content": "1.\n\n\nDe la vaporisation et de la centralisation du _Moi_. Tout est là.\n\n\nD'une certaine jouissance sensuelle dans la société des\n\nextravagants.\n\n\n(Je peux commencer _Mon coeur mis à nu_ n'importe où, n'importe\n\ncomment, et le continuer au jour le jour, suivant l'inspiration du\n\njour et de la circonstance, pourvu que l'inspiration soit vive).\n\n\n2.\n\nLe premier venu, pourvu qu'il sache amuser, a le droit de parler\n\nde lui-même.\n\n\n3.\n\nJe comprends qu'on déserte une cause pour savoir ce qu'on\n\néprouvera à en servir une autre.\n\n\nIl serait peut-être doux d'être alternativement victime et\n\nbourreau."
+    },
+    {
+      "title": "II",
+      "content": "4.\n\n\n_Sottises de Girardin_\n\n\nNotre habitude est de prendre le taureau _par les cornes_. Prenons\n\ndonc le discours par _la fin_. (_7 nov. 1863_).\n\n\nDonc, Girardin croit que les cornes des taureaux sont plantées sur\n\nleur derrière. Il confond les cornes avec la queue.\n\n\nQu'avant d'imiter les Ptolémées du journalisme français, les\n\njournalistes belges se donnent la peine de réfléchir sur la\n\nquestion que j'étudie depuis trente ans sous toutes ses faces,\n\nainsi que le prouvera le volume qui paraîtra prochainement sous ce\n\ntitre: Questions de presse; qu'ils ne se hâtent pas de traiter de\n\n_souverainement ridicule_ une opinion qui est aussi vraie qu'il\n\nest vrai que la terre tourne et que le soleil ne tourne pas.\n\nÉmile de Girardin.\n\n\n«Il y a des gens qui prétendent que rien n’empêche de croire que,\n\nle ciel étant immobile, c’est la terre qui tourne autour de son\n\naxe. Mais ces gens-là ne sentent pas, à raison de ce qui se passe\n\nautour de nous, combien leur opinion est souverainement ridicule\n\n[texte en grec].»\n\nPTOLEMEE, _Almageste_, livre Ier, chap. VI.\n\n\n_Et habet mea mentrita [sic] meatum._\n\nGIRARDIN.\n\n[image du texte grec]\n\n\n«souverainement ridicule»"
+    },
+    {
+      "title": "III",
+      "content": "5.\n\n\nLa femme est le contraire du Dandy.\n\nDonc elle doit faire horreur.\n\nLa femme a faim et elle veut manger. Soif, et elle veut boire.\n\n\nElle est en rut et elle veut être foutue.\n\n\nLe beau mérite!\n\n\nLa femme est _naturelle_, c'est-à-dire abominable.\n\n\nAussi est-elle toujours vulgaire, c'est-à-dire le contraire du\n\nDandy.\n\n\n------------\n\n\nRelativement à la Légion d’Honneur.\n\n\nCelui qui demande la croix a l’air de dire: si l’on ne me décore\n\npas pour avoir fait mon devoir, je ne recommencerai plus.\n\n\n- si un homme a du mérite, à quoi bon le décorer? s’il n’en a pas,\n\non peut le décorer, parce que [cela] lui donnera un lustre.\n\n\nConsentir à être décoré, c’est reconnaître à l’Etat ou au prince\n\nle droit de vous juger, de vous illustrer, etc.\n\n\n------------\n\n\nD’ailleurs, si ce n’est l’orgueil, l’humilité chrétienne défend la\n\ncroix.\n\n\n_Calcul en faveur de Dieu._\n\n\nRien n’existe sans but.\n\n\nDonc mon existence a un but. Quel but? Je l’ignore.\n\n\nCe n’est donc pas moi qui l’ait marqué.\n\n\nC’est donc quelqu’un, plus savant que moi.\n\n\nIl faut donc prier ce quelqu’un de m’éclairer. C’est le parti le\n\nplus sage.\n\n\nLe Dandy doit aspirer à être sublime sans interruption; il doit\n\nvivre et dormir devant un miroir."
+    },
+    {
+      "title": "IV",
+      "content": "6.\n\n\nAnalyse des contre-religions, exemple: la prostitution sacrée.\n\n\nQu’est-ce que la prostitution sacrée?\n\n\nExcitation nerveuse.\n\n\nMysticité du paganisme.\n\n\nLe mysticisme, trait d’union entre le paganisme et le\n\nchristianisme.\n\n\nLe paganisme et le christianisme se prouvent réciproquement.\n\n\nLa révolution et le culte de la Raison prouvent l’idée du\n\nsacrifice.\n\n\nLa superstition est le réservoir de toutes les vérités.\n\n\n7.\n\n\nIl y a dans tout changement quelque chose d'infâme et d'agréable à\n\nla fois, quelque chose qui tient de l'infidélité et du\n\ndéménagement. Cela suffit à expliquer la révolution française."
+    },
+    {
+      "title": "V",
+      "content": "8.\n\n\nMon ivresse en 1848.\n\n\nDe quelle nature était cette ivresse?\n\n\nGoût de la vengeance. Plaisir _naturel_ de la démolition. Ivresse\n\nlittéraire; souvenir des lectures.\n\n\nLe 15 mai. - Toujours le goût de la destruction. Goût légitime si\n\ntout ce qui est naturel est légitime.\n\n\n------------\n\n\nLes horreurs de Juin. Folie du peuple et folie de la bourgeoisie.\n\nAmour naturel du crime.\n\n\n------------\n\n\nMa fureur au coup d'État. Combien j'ai essuyé de coups de fusil.\n\nEncore un Bonaparte! Quelle honte!\n\n\nEt cependant tout s'est pacifié. Le Président n'a-t-il pas un\n\ndroit à invoquer?\n\n\nCe qu'est l'Empereur Napoléon III. Ce qu'il vaut. Trouver\n\nl'explication de sa nature, et sa providentialité."
+    },
+    {
+      "title": "VI",
+      "content": "9.\n\n\nÊtre un homme utile m'a paru toujours quelque chose de bien\n\nhideux.\n\n\n------------\n\n\n1848 ne fut amusant que parce que chacun y faisait des utopies\n\ncomme des châteaux en Espagne.\n\n\n1848 ne fut charmant que par l'excès même du Ridicule.\n\n\n------------\n\n\nRobespierre n'est estimable que parce qu'il a fait quelques belles\n\nphrases.\n\n\n10.\n\n\nLa Révolution, par le sacrifice, confirme la superstition."
+    },
+    {
+      "title": "VII",
+      "content": "11.\n\n\nPOLITIQUE\n\n\nJe n'ai pas de convictions, comme l'entendent les gens de mon\n\nsiècle, parce que je n'ai pas d'ambition.\n\n\nIl n'y a pas en moi de base pour une conviction.\n\n\nIl y a une certaine lâcheté ou plutôt une certaine mollesse chez\n\nles honnêtes gens.\n\n\nLes brigands seuls sont convaincus, - de quoi? - qu'il leur faut\n\nréussir. Aussi, ils réussissent.\n\n\nPourquoi réussirais-je, puisque je n'ai même pas envie d'essayer?\n\n\nOn peut fonder des empires glorieux sur le crime, et de nobles\n\nreligions sur l'imposture.\n\n\n------------\n\n\nCependant, j'ai quelques convictions, dans un sens plus élevé, et\n\nqui ne peut pas être compris par les gens de mon temps.\n\n\n12.\n\n\nSentiment de _solitude_, dès mon enfance. Malgré la famille, - et\n\nau milieu des camarades, surtout, - sentiment de destinée\n\néternellement solitaire.\n\n\nCependant, goût très vif de la vie et du plaisir."
+    },
+    {
+      "title": "VIII",
+      "content": "13.\n\n\nPresque toute notre vie est employée à des curiosités niaises. En\n\nrevanche il y a des choses qui devraient exciter la curiosité des\n\nhommes au plus haut degré, et qui, à en juger par leur train de\n\nvie ordinaire, ne leur en inspirent aucune.\n\n\nOù sont nos amis morts?\n\n\nPourquoi sommes-nous ici?\n\n\nVenons-nous de quelque part?\n\n\nQu'est-ce que la liberté?\n\n\nPeut-elle s'accorder avec la loi providentielle?\n\n\nLe nombre des âmes est-il fini ou infini?\n\n\nEt le nombre des terres habitables?\n\n\nEtc., etc.\n\n\n14.\n\n\nLes nations n'ont de grands hommes que malgré elles. Donc le grand\n\nhomme est vainqueur de toute sa nation.\n\n\nLes religions modernes ridicules\n\n\nMolière.\n\n\nBéranger.\n\n\nGaribaldi."
+    },
+    {
+      "title": "IX",
+      "content": "15.\n\n\nLa croyance au progrès est une doctrine de paresseux, une doctrine\n\nde _Belges_. C'est l'individu qui compte sur ses voisins pour\n\nfaire sa besogne.\n\n\nIl ne peut y avoir de progrès (vrai, c'est-à-dire moral) que dans\n\nl'individu et par l'individu lui-même.\n\n\nMais le monde est fait de gens qui ne peuvent penser qu'en commun,\n\nen bandes. Ainsi les _Sociétés belges_.\n\n\nIl y a aussi des gens qui ne peuvent s'amuser qu'en troupe. Le\n\nvrai héros s'amuse tout seul.\n\n\n16.\n\n\nÉternelle supériorité du Dandy.\n\n\nQu'est-ce que le Dandy?"
+    },
+    {
+      "title": "X",
+      "content": "17.\n\n\nMes opinions sur le théâtre. Ce que j'ai toujours trouvé de plus\n\nbeau dans un théâtre, dans mon enfance et encore maintenant, c'est\n\nle _lustre_, - un bel objet lumineux, cristallin, compliqué,\n\ncirculaire et symétrique.\n\n\nCependant, je ne nie pas absolument la valeur de la littérature\n\ndramatique. Seulement, je voudrais que les comédiens fussent\n\nmontés sur des patins très hauts, portassent des masques plus\n\nexpressifs que le visage humain, et parlassent à travers des\n\nporte-voix; enfin que les rôles de femmes fussent joués par des\n\nhommes.\n\n\nAprès tout, le lustre m'a toujours paru l'acteur principal, vu à\n\ntravers le gros bout ou le petit bout de la lorgnette.\n\n\n18.\n\n\nIl faut travailler, sinon par goût, au moins par désespoir,\n\npuisque, tout bien vérifié, travailler est moins ennuyeux que\n\ns'amuser."
+    },
+    {
+      "title": "XI",
+      "content": "19.\n\n\nIl y a dans tout homme, à toute heure, deux postulations\n\nsimultanées, l'une vers Dieu, l'autre vers Satan. L'invocation à\n\nDieu, ou spiritualité, est un désir de monter en grade; celle de\n\nSatan, ou animalité, est une joie de descendre. C'est à cette\n\ndernière que doivent être rapportées les amours pour les femmes et\n\nles conversations intimes avec les animaux, chiens, chats, etc.\n\n\nLes joies qui dérivent de ces deux amours sont adaptées à la\n\nnature de ces deux amours.\n\n\n20\n\n\nIvresse d'Humanité.\n\nGrand tableau à faire:\n\n\nDans le sens de la charité.\n\n\nDans le sens du libertinage.\n\n\nDans le sens littéraire, ou du Comédien."
+    },
+    {
+      "title": "XII",
+      "content": "21.\n\n\nLa question (torture) est, comme art de découvrir la vérité, une\n\nniaiserie barbare; c'est l'application d'un moyen matériel à un\n\nbut spirituel.\n\n\n------------\n\n\nLa peine de Mort est le résultat d'une idée mystique, totalement\n\nincomprise aujourd'hui. La peine de Mort n'a pas pour but de\n\n_sauver_ la société, matériellement du moins. Elle a pour but de\n\n_sauver_ (spirituellement) la société et le coupable. Pour que le\n\nsacrifice soit parfait, il faut qu'il y ait assentiment et joie de\n\nla part de la victime. Donner du chloroforme à un condamné à mort\n\nserait une impiété, car ce serait lui enlever la conscience de sa\n\ngrandeur comme victime et lui supprimer les chances de gagner le\n\nParadis.\n\n\n------------\n\n\nQuant à la torture, elle est née de la partie infâme du coeur de\n\nl’homme, assoiffé de voluptés. Cruauté et volupté, sensations\n\nidentiques, comme l’extrême chaud et l’extrême froid."
+    },
+    {
+      "title": "XIII",
+      "content": "22.\n\n\nCe que je pense du vote et du droit d'élections. Des droits de\n\nl'homme.\n\nCe qu'il y a de vil dans une fonction quelconque.\n\n\nUn Dandy ne fait rien.\n\n\nVous figurez-vous un Dandy parlant au peuple, excepté pour le\n\nbafouer?\n\n\n------------\n\n\nIl n'y a de gouvernement raisonnable et assuré que\n\nl'aristocratique.\n\n\nMonarchie ou république, basées sur la démocratie, sont également\n\nabsurdes et faibles.\n\n\n------------\n\n\nImmense nausée des affiches.\n\n\n------------\n\n\nIl n'existe que trois êtres respectables:\n\n\nLe prêtre, le guerrier, le poète. Savoir, tuer et créer.\n\n\nLes autres hommes sont taillables et corvéables, faits pour\n\nl'écurie, c'est-à-dire pour exercer ce qu'on appelle des\n\n_professions_."
+    },
+    {
+      "title": "XIV",
+      "content": "23.\n\n\nObservons que les abolisseurs de la peine de mort doivent être\n\nplus ou moins _intéressés_ à l'abolir.\n\n\nSouvent ce sont des guillotineurs. Cela peut se résumer ainsi: «Je\n\nveux pouvoir couper ta tête; mais tu ne toucheras pas à la\n\nmienne».\n\n\nLes abolisseurs d'âmes (_matérialistes_) sont nécessairement des\n\nabolisseurs d'_enfer_; ils y sont à coup sûr _intéressés_.\n\n\nTout au moins ce sont des gens qui ont _peur de revivre_, - des\n\nparesseux.\n\n\n24.\n\n\nMadame de Metternich, quoique princesse, a oublié de me répondre à\n\npropos de ce que j'ai dit d'elle et de Wagner.\n\n\nMoeurs du 19e siècle."
+    },
+    {
+      "title": "XV",
+      "content": "25.\n\n\nHistoire de ma traduction d'_Edgar Poe_.\n\n\nHistoire des _Fleurs du Mal_, humiliation par le malentendu, et\n\nmon procès.\n\n\nHistoire de mes rapports avec tous les hommes célèbres de ce\n\ntemps.\n\n\nJolis portraits de quelques imbéciles:\n\nClément de Ris.\n\nCastagnary.\n\n\nPortraits de magistrats, de fonctionnaires, de directeurs de\n\njournaux, etc.\n\n\nPortrait de l'artiste, en général.\n\n\nDu rédacteur en chef et de la pionnerie. Immense goût de tout le\n\npeuple français pour la pionnerie, et pour la dictature. C'est le:\n\n«si j’étais roi!».\n\n\nPortraits et anecdotes.\n\n\nFrançois, - Buloz, - Houssaye, - le fameux Rouy, - de Calonne, -\n\nCharpentier, - qui corrige ses auteurs, en vertu de l'égalité\n\ndonnée à tous les hommes par les immortels principes de 89; -\n\nChevalier, véritable rédacteur en chef selon l'Empire."
+    },
+    {
+      "title": "XVI",
+      "content": "26.\n\n\n_Sur George Sand._\n\n\nLa femme Sand est le Prudhomme de l'immoralité. Elle a toujours\n\nété moraliste.\n\n\nSeulement elle faisait autrefois de la contre-morale. - Aussi elle\n\nn'a jamais été artiste.\n\n\nElle a le fameux _style coulant_, cher aux bourgeois.\n\n\nElle est bête, elle est lourde, elle est bavarde; elle a dans les\n\nidées morales la même profondeur de jugement et la même\n\ndélicatesse de sentiment que les concierges et les filles\n\nentretenues.\n\n\nCe qu'elle dit de sa mère.\n\n\nCe qu'elle dit de la poésie.\n\n\nSon amour pour les ouvriers.\n\n\nQue quelques hommes aient pu s'amouracher de cette latrine, c'est\n\nbien la preuve de l'abaissement des hommes de ce siècle.\n\n\nVoir la préface de _Mademoiselle La Quintinie_, où elle prétend\n\nque les vrais chrétiens ne croient pas à l'Enfer. La Sand est pour\n\nle _Dieu des bonnes gens_, le dieu des concierges et des\n\ndomestiques filous. Elle a de bonnes raisons pour vouloir\n\nsupprimer l'Enfer."
+    },
+    {
+      "title": "XVII",
+      "content": "27.\n\n\nLE DIABLE ET GEORGE SAND.\n\n\nIl ne faut pas croire que le Diable ne tente que les hommes de\n\ngénie. Il méprise sans doute les imbéciles, mais il ne dédaigne\n\npas leur concours. Bien au contraire, il fonde ses grands espoirs\n\nsur ceux-là.\n\n\nVoyez George Sand. Elle est surtout, et plus que toute autre\n\nchose, une _grosse bête_; mais elle est _possédée_. C'est le\n\nDiable qui lui a persuadé de se fier à _son bon coeur_ et à _son\n\nbon sens_, afin qu'elle persuadât toutes les autres grosses bêtes\n\nde se fier à leur bon coeur et à leur bon sens.\n\n\nJe ne puis penser à cette stupide créature sans un certain\n\nfrémissement d'horreur. Si je la rencontrais, je ne pourrais\n\nm'empêcher de lui jeter un bénitier à la tête.\n\n\n28.\n\n\nGeorge Sand est une de ces vieilles ingénues qui ne veulent jamais\n\nquitter les planches. J'ai lu dernièrement une préface (la préface\n\nde _Mademoiselle La Quintinie_) où elle prétend qu'un vrai\n\nchrétien ne peut pas croire à l'Enfer. Elle a de bonnes raisons\n\npour vouloir supprimer l'Enfer.\n\n\n[fragment non numéroté]\n\n\nLa Religion de la femme Sand. Préface de _Mademoiselle La\n\nQuintinie_. La femme Sand est intéressée à croire que l’Enfer\n\nn’existe pas."
+    },
+    {
+      "title": "XVIII",
+      "content": "29.\n\n\nJe m'ennuie en France, surtout parce que tout le monde y ressemble\n\nà Voltaire.\n\n\nEmerson a oublié Voltaire dans ses _Représentants de l'humanité_.\n\nIl aurait pu faire un joli chapitre intitulé: _Voltaire, ou\n\nl'anti-poète_, le roi des badauds, le prince des superficiels,\n\nl'anti-artiste, le prédicateur des concierges, le père Gigogne des\n\nrédacteurs du _Siècle_.\n\n\n30.\n\n\nDans _Les Oreilles du Comte de Chesterfield_, Voltaire plaisante\n\nsur cette âme immortelle qui a résidé, pendant neuf mois entre des\n\nexcréments et des urines. Voltaire, comme tous les paresseux,\n\nhaïssait le mystère.\n\n\nNe pouvant pas supprimer l'amour, l'Église a voulu au moins le\n\ndésinfecter, et elle a fait le mariage."
+    },
+    {
+      "title": "XIX",
+      "content": "31.\n\n\nPortrait de la canaille littéraire.\n\n\nDoctor Estaminétus Crapulosus, Pedantissimus. Son portrait fait à\n\nla manière de Praxitèle.\n\n\nSa pipe.\n\n\nSes opinions.\n\n\nSon Hégélianisme.\n\n\nSa crasse.\n\n\nSes idées en art.\n\n\nSon fiel.\n\n\nSa jalousie.\n\n\nUn joli tableau de la jeunesse moderne.\n\n\n32.\n\n\nELIEN (?)\n\n\n[Texte en grec].\n\n\n[Image texte grec]\n\n\nElien, _Histoire des animaux_ (IX, 62)\n\n\n«Pourquoi le poète ne serait-il pas un broyeur de poisons aussi\n\nbien qu’un confiseur, un éleveur de serpents pour miracles et\n\nspectacles?»\n\n\nBaudelaire, lettre à Jules Janin"
+    },
+    {
+      "title": "XX",
+      "content": "33.\n\n\nLa Théologie.\n\n\nQu'est-ce que la chute?\n\n\nSi c'est l'unité devenue dualité, c'est Dieu qui a chuté.\n\n\nAu moins aurait-il pu deviner dans cette localisation une malice\n\nou une satire de la providence contre l’amour, et, dans le mode de\n\nla génération, un signe du péché originel. De fait, nous ne\n\npouvons faire l’amour qu’avec des organes excrémentiels.\n\n\nEn d'autres termes, la création ne serait-elle pas la chute de\n\nDieu?\n\n\n------------\n\n\n_Dandysme._\n\n\nQu'est-ce que l'homme supérieur?\n\n\nCe n'est pas le spécialiste.\n\n\nC'est l'homme de Loisir et d'Éducation générale.\n\n\nÊtre riche et aimer le travail.\n\n\n34.\n\n\nPourquoi l'homme d'esprit aime les filles plus que les femmes du\n\nmonde, malgré qu'elles soient également bêtes? - A trouver."
+    },
+    {
+      "title": "XXI",
+      "content": "35.\n\n\nIl y a de certaines femmes qui ressemblent au ruban de la Légion\n\nd'honneur. On n'en veut plus parce qu'elles se sont salies à de\n\ncertains hommes.\n\n\nC'est par la même raison que je ne chausserais pas les culottes\n\nd'un galeux.\n\n\nCe qu'il y a d'ennuyeux dans l'amour, c'est que c'est un crime où\n\nl'on ne peut pas se passer d'un complice.\n\n\n36.\n\nÉtude de la grande Maladie de l'horreur du Domicile. Raisons de la\n\nMaladie. Accroissement progressif de la Maladie.\n\n\n------------\n\n\nIndignation causée par la fatuité universelle, de toutes les\n\nclasses, de tous les êtres, dans les deux sexes, dans tous les\n\nâges.\n\n\n------------\n\n\nL'homme aime tant l'homme que quand il fuit la ville, c'est encore\n\npour chercher la foule, c'est-à-dire pour refaire la ville à la\n\ncampagne."
+    },
+    {
+      "title": "XXII",
+      "content": "37.\n\n\nDiscours de Durandeau sur les Japonais. (Moi! je suis Français\n\navant tout). Les Japonais sont des singes. C'est Darjou qui me l'a\n\ndit.\n\n\n------------\n\n\nDiscours du médecin, l'ami de Mathieu, sur l'art de ne pas faire\n\nd'enfants, sur Moïse et sur l'immortalité de l'âme.\n\n\n------------\n\n\nL'art est un agent civilisateur (Castagnary).\n\n\n38.\n\n\nPhysionomie d'un sage et de sa famille au cinquième étage, buvant\n\nle café au lait.\n\n\n------------\n\n\nLe sieur Nacquart père et le sieur Nacquart fils.\n\n\nComment le Nacquart fils est devenu conseiller en Cour d'appel."
+    },
+    {
+      "title": "XXIII",
+      "content": "39.\n\n\nDe l'amour, de la prédilection des Français pour les métaphores\n\nmilitaires. Toute métaphore ici porte des moustaches.\n\n\nLittérature militante.\n\n\nRester sur la brèche.\n\n\nPorter haut le drapeau.\n\n\nTenir le drapeau haut et ferme.\n\n\nSe jeter dans la mêlée.\n\n\nUn des vétérans.\n\n\nToutes ces glorieuses phraséologies s'appliquent généralement à\n\ndes cuistres et à des fainéants d'estaminet.\n\n\n------------\n\n\n40.\n\n\nMétaphores françaises.\n\n\nSoldat de la presse judiciaire (Bertin).\n\n\nLa presse militante.\n\n\n------------\n\n\n41.\n\n\nA ajouter aux métaphores militaires:\n\n\nLes poètes de combat.\n\n\nLes littérateurs d'avant-garde.\n\n\nCes habitudes de métaphores militaires dénotent des esprits, non\n\npas militants, mais faits pour la discipline, c'est-à-dire pour la\n\nconformité, des esprits nés domestiques, des esprits belges, qui\n\nne peuvent penser qu'en société."
+    },
+    {
+      "title": "XXIV",
+      "content": "42.\n\n\nLe goût du plaisir nous attache au présent. Le soin de notre salut\n\nnous suspend à l'avenir.\n\n\nCelui qui s'attache au plaisir, c'est-à-dire au présent, me fait\n\nl'effet d'un homme roulant sur une pente, et qui voulant se\n\nraccrocher aux arbustes, les arracherait et les emporterait dans\n\nsa chute.\n\n\n_Avant tout_, Etre _un grand homme_ et _un Saint_ pour soi-même.\n\n\n43.\n\n\nDe la haine du peuple contre la beauté.\n\n\nDes exemples.\n\n\nJeanne et Mme Muller."
+    },
+    {
+      "title": "XXV",
+      "content": "44.\n\n\nPOLITIQUE.\n\n\nEn somme, devant l'histoire et devant le peuple français, la\n\ngrande gloire de Napoléon III aura été de prouver que le premier\n\nvenu peut, en s'emparant du télégraphe et de l'Imprimerie\n\nnationale, gouverner une grande nation.\n\n\nImbéciles sont ceux qui croient que de pareilles choses peuvent\n\ns'accomplir sans la permission du peuple, - et ceux qui croient\n\nque la gloire ne peut être appuyée que sur la vertu!\n\n\nLes dictateurs sont les domestiques du peuple, - rien de plus, -\n\nun foutu rôle d'ailleurs, - et la gloire est le résultat de\n\nl'adaptation d'un esprit avec la sottise nationale.\n\n\n45.\n\n\nQu'est-ce que l'amour?\n\n\nLe besoin de sortir de soi.\n\n\nL'homme est un animal adorateur.\n\n\nAdorer, c'est se sacrifier et se prostituer.\n\n\nAussi tout amour est-il prostitution.\n\n\n------------\n\n\n[fragment non numéroté]\n\n\nL'être le plus prostitué, c'est l'être par excellence, c'est Dieu,\n\npuisqu'il est l'ami suprême pour chaque individu, puisqu'il est le\n\nréservoir commun, inépuisable, de l'amour.\n\n\n[Fragment non numéroté]\n\n\nPRIÈRE\n\n\nNe me châtiez pas dans ma mère et ne châtiez pas ma mère à cause\n\nde moi. - Je vous recommande les âmes de mon père et de Mariette.\n\n- Donnez-moi la force de faire immédiatement mon devoir tous les\n\njours et de devenir ainsi un héros et un Saint."
+    },
+    {
+      "title": "XXVI",
+      "content": "46.\n\n\nUn chapitre sur l'indestructible, éternelle, universelle et\n\ningénieuse férocité humaine.\n\n\nDe l'amour du sang.\n\n\nDe l'ivresse du sang.\n\n\nDe l'ivresse des foules.\n\n\nDe l'ivresse du supplicié (Damiens).\n\n\n47.\n\n\nIl n'y a de grand parmi les hommes que le poète, le prêtre et le\n\nsoldat, l'homme qui chante, l’homme qui bénit, l'homme qui\n\nsacrifie et se sacrifie.\n\n\nLe reste est fait pour le fouet.\n\n\n------------\n\n\nDéfions-nous du peuple, du bon sens, du coeur, de l'inspiration,\n\net de l'évidence."
+    },
+    {
+      "title": "XXVII",
+      "content": "48.\n\n\nJ'ai toujours été étonné qu'on laissât les femmes entrer dans les\n\néglises. Quelle conversation peuvent-elles tenir avec Dieu?\n\n\n------------\n\n\nL'éternelle Vénus (caprice, hystérie, fantaisie) est une des\n\nformes séduisantes du Diable.\n\n\n------------\n\n\nLe jour où le jeune écrivain corrige sa première épreuve, il est\n\nfier comme un écolier qui vient de gagner sa première vérole.\n\n\n------------\n\n\nNe pas oublier un grand chapitre sur l'art de la divination, par\n\nl'eau, les cartes, l'inspection de la main, etc.\n\n\n49.\n\n\nLa femme ne sait pas séparer l'âme du corps. Elle est simpliste,\n\ncomme les animaux. - Un satirique dirait que c'est parce qu'elle\n\nn'a que le corps.\n\n\n------------\n\n\nUn chapitre sur\n\n\nLa _Toilette_.\n\n\nMoralité de la Toilette\n\n\nLes bonheurs de la Toilette."
+    },
+    {
+      "title": "XXVIII",
+      "content": "50.\n\n\nDe la cuistrerie.\n\n\ndes professeurs\n\ndes juges\n\ndes prêtres\n\n\net des ministres.\n\n\n------------\n\n\nLes jolis grands hommes du jour.\n\n\nRenan.\n\nFeydeau.\n\nOctave Feuillet.\n\nScholl.\n\n\n------------\n\n\nLes directeurs de journaux, François Buloz, Houssaye, Rouy,\n\nGirardin, Texier, de Calonne, Solar, Turgan, Dalloz.\n\n\n- Liste de canailles, Solar en tête.\n\n\n------------\n\n\n51.\n\n\nÊtre un grand homme et un saint _pour soi-même_, voilà l'unique\n\nchose importante."
+    },
+    {
+      "title": "XXIX",
+      "content": "52.\n\n\nNadar, c'est la plus étonnante expression de vitalité. Adrien me\n\ndisait que son frère Félix avait tous les viscères en double. J'ai\n\nété jaloux de lui à le voir si bien réussir dans tout ce qui n'est\n\npas l'abstrait.\n\n\n------------\n\n\nVeuillot est si grossier et si ennemi des arts qu'on dirait que\n\ntoute la Démocratie du monde s'est réfugiée dans son sein.\n\n\nDéveloppement du portrait.\n\n\nSuprématie de l'idée pure, chez le chrétien comme chez le\n\ncommuniste babouviste.\n\n\nFanatisme de l'humilité. Ne pas même aspirer à comprendre la\n\nReligion.\n\n\n53.\n\nMusique.\n\n\nDe l'esclavage.\n\n\nDes femmes du monde.\n\n\nDes filles.\n\n\nDes magistrats.\n\n\nDes sacrements.\n\n\nL'homme de lettres est l'ennemi du monde.\n\n\nDes bureaucrates."
+    },
+    {
+      "title": "XXX",
+      "content": "54.\n\n\nDans l'amour comme dans presque toutes les affaires humaines,\n\nl'entente cordiale est le résultat d'un malentendu. Ce malentendu,\n\nc'est le plaisir. L'homme crie: «O! mon ange!» La femme roucoule:\n\n«Maman! maman! Et ces deux imbéciles sont persuadés qu'ils pensent\n\nde concert. - Le gouffre infranchissable, qui fait\n\nl'incommunicabilité, reste infranchi.\n\n\n55.\n\n\nPourquoi le spectacle de la mer est-il si infiniment et si\n\néternellement agréable?\n\n\nParce que la mer offre à la fois l'idée de l'immensité et du\n\nmouvement. Six ou sept lieues représentent pour l'homme le rayon\n\nde l'infini. Voilà un infini diminutif. Qu'importe s'il suffit à\n\nsuggérer l'idée de l'infini total? Douze ou quatorze lieues (sur\n\nle diamètre), douze ou quatorze de liquide en mouvement suffisent\n\npour donner la plus haute idée de beauté qui soit offerte à\n\nl'homme sur son habitacle transitoire."
+    },
+    {
+      "title": "XXXI",
+      "content": "56.\n\n\nIl n'y a rien d'intéressant sur la terre que les religions.\n\n\nQu'est-ce que la Religion universelle? (Chateaubriand, de Maistre,\n\nles Alexandrins, Capé).\n\n\nIl y a une Religion Universelle faite pour les Alchimistes de la\n\nPensée, une Religion qui se dégage de l'homme, considéré comme\n\nmémento divin.\n\n\n57.\n\n\nSaint-Marc Girardin a dit un mot qui restera: _Soyons médiocres_.\n\n\nRapprochons ce mot de celui de Robespierre: Ceux qui ne croient\n\npas à l'immortalité de leur être se rendent justice».\n\n\nLe mot de Saint-Marc G[irardin] implique une immense haine contre\n\nle sublime.\n\n\nQui a vu S[ain]t-M[arc] G[irardin] marcher dans la rue a conçu\n\ntout de suite l'idée d'une grande oie infatuée d'elle-même, mais\n\neffarée et courant sur la grande route, devant la diligence."
+    },
+    {
+      "title": "XXXII",
+      "content": "58.\n\n\nThéorie de la vraie civilisation.\n\n\nElle n'est pas dans le gaz, ni dans la vapeur, ni dans les tables\n\ntournantes, elle est dans la diminution des traces du péché\n\noriginel.\n\n\nPeuples nomades, pasteurs, chasseurs, agricoles et même\n\nanthropophages, _tous_ peuvent être supérieurs par l'énergie, par\n\nla dignité personnelles, à nos races d'Occident.\n\n\nCelles-ci peut-être seront détruites.\n\n\nThéocratie et communisme.\n\n\n59.\n\n\nC'est par le loisir que j'ai, en partie, grandi.\n\n\nA mon grand détriment; car le loisir, sans fortune, augmente les\n\ndettes, les avanies résultant des dettes.\n\n\nMais à mon grand profit, relativement à la sensibilité, à la\n\nméditation, et à la faculté du dandysme et du dilettantisme.\n\n\nLes autres hommes de lettres sont, pour la plupart, de vils\n\npiocheurs très ignorants."
+    },
+    {
+      "title": "XXXIII",
+      "content": "60.\n\n\nLa jeune fille des éditeurs.\n\n\nLa jeune fille des rédacteurs en chef.\n\n\nLa jeune fille épouvantail, monstre, assassin de l'art.\n\n\nLa jeune fille, ce qu'elle est en réalité.\n\n\nUne petite sotte et une petite salope; la plus grande imbécillité\n\nunie à la plus grande dépravation.\n\n\nIl y a dans la jeune fille toute l'abjection du voyou et du\n\ncollégien.\n\n\n61.\n\n\nAvis aux non-communistes:\n\n\nTout est commun, même Dieu."
+    },
+    {
+      "title": "XXXIV",
+      "content": "62.\n\n\nLe Français est un animal de basse-cour, si bien domestiqué qu'il\n\nn'ose franchir aucune palissade. Voir ses goûts en art et en\n\nlittérature.\n\n\nC'est un animal de race latine; l'ordure ne lui déplaît pas dans\n\nson domicile, et en littérature, il est scatophage. Il raffole des\n\nexcréments. Les littérateurs d'estaminet appellent cela le _sel\n\ngaulois_.\n\n\n_Bel exemple de la bassesse française, de la nation qui se prétend\n\nindépendante avant toutes les autres._\n\n\nL'extrait suivant du beau livre de M. de Vaulabelle suffira pour\n\ndonner une idée de l'impression que fit l'évasion de Lavalette sur\n\nla portion la moins éclairée du parti royaliste:\n\n«L'emportement royaliste, à ce moment de la seconde Restauration,\n\nallait pour ainsi dire, jusqu'à la folie. La jeune Joséphine de\n\nLavalette faisait son éducation dans l'un des principaux couvents\n\nde Paris (l'Abbaye-aux-Bois); elle ne l'avait quitté que pour\n\nvenir embrasser son père. Lorsqu'elle rentra après l'évasion et\n\nque l'on connut la part bien modeste qu'elle y avait prise, une\n\nimmense clameur s'éleva contre cette enfant; les religieuses et\n\nses compagnes la fuyaient, et bon nombre de parents déclarèrent\n\nqu'ils retireraient leurs filles si on la gardait. Ils ne\n\nvoulaient pas, disaient-ils, laisser leurs enfants en contact avec\n\nune jeune personne qui avait tenu une pareille conduite et donné\n\nun pareil exemple. Quand Mme de Lavalette, six semaines après,\n\nrecouvra la liberté, elle fut obligée de reprendre sa fille»."
+    },
+    {
+      "title": "XXXV",
+      "content": "63.\n\n\n_Princes et générations._\n\n\nIl y a une égale injustice à attribuer aux princes régnants les\n\nmérites et les vices du peuple actuel qu'ils gouvernent.\n\n\nCes mérites et ces vices sont presque toujours, comme la\n\nstatistique et la logique le pourraient démontrer, attribuables à\n\nl'atmosphère du gouvernement précédent.\n\n\nLouis XIV hérite des hommes de Louis XIII.. Gloire.\n\n\nNapoléon Ier hérite des hommes de la République. Gloire.\n\n\nLouis-Philippe hérite des hommes de Charles X. Gloire.\n\n\nNapoléon III hérite des hommes de Louis-Philippe. Déshonneur.\n\n\nC'est toujours le gouvernement précédent qui est responsable des\n\nmoeurs du suivant, en tant qu'un gouvernement puisse être\n\nresponsable de quoi que ce soit.\n\n\nLes coupures brusques que les circonstances font dans les règnes\n\nne permettent pas que cette loi soit absolument exacte,\n\nrelativement au temps. On ne peut pas marquer exactement où finit\n\nune influence - mais cette influence subsistera dans toute la\n\ngénération qui l'a subie dans sa jeunesse."
+    },
+    {
+      "title": "XXXVI",
+      "content": "64.\n\n\nDe la haine de la jeunesse contre les citateurs. Le citateur est\n\npour eux un ennemi.\n\n\nJe mettrai l'orthographe même sous la main du bourreau. (Th.\n\nGautier).\n\n\n------------\n\n\nBeau tableau à faire: la Canaille Littéraire.\n\n\n------------\n\n\nNe pas oublier un portrait de Forgues, le Pirate, l'Ecumeur de\n\nLettres.\n\n\n------------\n\n\nGoût invincible de la prostitution dans le coeur de l'homme, d'où\n\nnaît son horreur de la solitude. - Il veut être _deux_. L'homme de\n\ngénie veut être _un_, donc solitaire.\n\n\nLa gloire, c'est rester _un_, et se prostituer d'une manière\n\nparticulière.\n\n\nC'est cette horreur de la solitude, le besoin d'oublier son _moi_\n\ndans la chair extérieure, que l'homme appelle noblement _besoin\n\nd'aimer_.\n\n\n------------\n\nDeux belles religions, immortelles sur les murs, éternelles\n\nobsessions du peuple: une pine (le phallus antique) - et «Vive\n\nBarbès!» ou «A bas Philippe!» ou «Vive la République!»."
+    },
+    {
+      "title": "XXXVII",
+      "content": "65.\n\n\nÉtudier dans tous ses modes, dans les oeuvres de la nature et dans\n\nles oeuvres de l'homme, l'universelle et éternelle loi de la\n\ngradation, du _peu à peu_, du _petit à petit_, avec les forces\n\nprogressivement croissantes, comme les intérêts composés, en\n\nmatière de finances.\n\n\nIl en est de même dans _l'habileté artistique et littéraire_, il\n\nen est de même dans le trésor variable de la _volonté_.\n\n\n66.\n\n\nLa cohue des petits littérateurs, qu'on voit aux enterrements,\n\ndistribuant des poignées de mains, et se recommandant à la mémoire\n\ndu faiseur de _courriers_.\n\n\nDe l'enterrement des hommes célèbres.\n\n\n67.\n\n\nMolière. Mon opinion sur _Tartuffe_ est que ce n'est pas une\n\ncomédie, mais un pamphlet. Un athée, s'il est simplement un homme\n\nbien élevé, pensera, à propos de cette pièce, qu'il ne faut jamais\n\nlivrer certaines questions graves à la canaille."
+    },
+    {
+      "title": "XXXVIII",
+      "content": "68.\n\n\nGlorifier le culte des images (ma grande, mon unique, ma primitive\n\npassion).\n\n\nGlorifier le vagabondage et ce qu'on peut appeler le Bohémianisme,\n\nculte de la sensation multipliée, s'exprimant par la musique. En\n\nréférer à Liszt.\n\n\n------------\n\n\nDe la nécessité de battre les femmes.\n\n\nOn peut châtier ce que l'on aime. Ainsi les enfants. Mais cela\n\nimplique la douleur de mépriser ce que l'on aime.\n\n\n------------\n\n\nDu cocuage et des cocus.\n\n\nLa douleur du cocu.\n\n\nElle naît de son orgueil, d'un raisonnement faux sur l'honneur et\n\nsur le bonheur, et d'un amour niaisement détourné de Dieu pour\n\nêtre attribué aux créatures.\n\n\nC'est toujours l'animal adorateur se trompant d'idole.\n\n\n69.\n\n\nAnalyse de l'imbécillité insolente. Clément de Ris et Paul\n\nPérignon."
+    },
+    {
+      "title": "XXXIX",
+      "content": "70.\n\n\nPlus l'homme cultive les arts, moins il bande.\n\n\nIl se fait un divorce de plus en plus sensible entre l'esprit et\n\nla brute.\n\n\nLa brute seule bande bien, et la fouterie est le lyrisme du\n\npeuple.\n\n\n----------\n\n\nFoutre, c'est aspirer à entrer dans un autre, et l'artiste ne sort\n\njamais de lui-même.\n\n\n----------\n\n\nJ'ai oublié le nom de cette salope... ah! bah! je le retrouverai\n\nau jugement dernier.\n\n----------\n\n\nLa musique donne l'idée de l'espace.\n\n\nTous les arts, plus ou moins; puisqu'ils sont _nombre_ et que le\n\nnombre est une traduction de l'espace.\n\n\n------------\n\n\n_Vouloir tous les jours être le plus grand des hommes!!!_\n\n\n71.\n\n\nÉtant enfant, je voulais être tantôt pape, mais pape militaire,\n\ntantôt comédien.\n\n\nJouissances que je tirais de ces deux hallucinations."
+    },
+    {
+      "title": "XL",
+      "content": "72.\n\n\nTout enfant, j'ai senti dans mon coeur deux sentiments\n\ncontradictoires, l'horreur de la vie et l'extase de la vie.\n\n\nC'est bien le fait d'un paresseux nerveux.\n\n\n73.\n\n\nLes nations n'ont de grands hommes que malgré elles.\n\n\n------------\n\n\nA propos du comédien et de mes rêves d'enfance, un chapitre sur ce\n\nqui constitue, dans l'âme humaine, la vocation du comédien, la\n\ngloire du comédien, l'art du comédien, et sa situation dans le\n\nmonde.\n\n\nLa théorie de Legouvé. Legouvé est-il un farceur froid, un Swift,\n\nqui a essayé si la France pouvait avaler une nouvelle absurdité?\n\nSon choix. Bon, en ce sens que Samson n'est pas un comédien.\n\n\nDe la vraie grandeur des parias.\n\n\n------------\n\n\nPeut-être même, la vertu nuit-elle aux talents des parias."
+    },
+    {
+      "title": "XLI",
+      "content": "74.\n\n\nLe commerce est, par son essence, _satanique_.\n\n\n- Le commerce, c'est le prêté-rendu, c'est le prêt avec le sous-\n\nentendu: _Rends-moi plus que je ne te donne_.\n\n- L'esprit de tout commerçant est complètement vicié.\n\n- Le commerce est _naturel_, _donc_ il est _infâme_.\n\n- Le moins infâme de tous les commerçants, c'est celui qui dit:\n\nSoyons vertueux pour gagner beaucoup plus d'argent que les sots\n\nqui sont vicieux.\n\n- Pour le commerçant, l'honnêteté elle-même est une spéculation de\n\nlucre.\n\n- Le commerce est satanique, parce qu'il est une des formes de\n\nl'égoïsme, et la plus basse et la plus vile.\n\n\n75.\n\n\nQuand Jésus-Christ dit: «Heureux ceux qui sont affamés, car ils\n\nseront rassasiés», Jésus-Christ fait un calcul de probabilités."
+    },
+    {
+      "title": "XLII",
+      "content": "76.\n\n\nLe monde ne marche que par le Malentendu.\n\n\n- C'est par le Malentendu universel que tout le monde s'accorde.\n\n- Car si, par malheur, on se comprenait, on ne pourrait jamais\n\ns'accorder.\n\n\n------------\n\n\nL'homme d'esprit, celui qui ne s'accordera jamais avec personne,\n\ndoit s'appliquer à aimer la conversation des imbéciles et la\n\nlecture des mauvais livres. Il en tirera des jouissances amères\n\nqui compenseront largement sa fatigue.\n\n\n77.\n\n\nUn fonctionnaire quelconque, un ministre, un directeur de théâtre\n\nou de journal, peuvent être quelquefois des êtres estimables, mais\n\nils ne sont jamais divins. Ce sont des personnes sans\n\npersonnalité, des êtres sans originalité, nés pour la fonction,\n\nc'est-à-dire pour la domesticité publique."
+    },
+    {
+      "title": "XLIII",
+      "content": "78.\n\n\nDieu et sa profondeur.\n\n\nOn peut ne pas manquer d'esprit et chercher dans Dieu le complice\n\net l'ami qui manquent toujours. Dieu est l'éternel confident dans\n\ncette tragédie dont chacun est le héros. Il y a peut-être des\n\nusuriers et des assassins qui disent à Dieu: «Seigneur, faites que\n\nma prochaine opération réussisse!» Mais la prière de ces vilaines\n\ngens ne gâte pas l'honneur et le plaisir de la mienne.\n\n\n79.\n\n\nToute idée est, par elle-même, douée d'une vie immortelle, comme\n\nune personne.\n\n\nToute forme créée, même par l'homme, est immortelle. Car la forme\n\nest indépendante de la matière, et ce ne sont pas les molécules\n\nqui constituent la forme.\n\n\n------------\n\n\nAnecdotes relatives à Émile Douay et à Constantin Guys, détruisant\n\nou plutôt croyant détruire leurs oeuvres."
+    },
+    {
+      "title": "XLIV",
+      "content": "80.\n\n\nIl est impossible de parcourir une gazette quelconque, de\n\nn'importe quel jour ou quel mois ou quelle année, sans y trouver à\n\nchaque ligne les signes de la perversité humaine la plus\n\népouvantable, en même temps que les _vanteries_ les plus\n\nsurprenantes de probité, de bonté, de charité, et les affirmations\n\nles plus effrontées relatives au progrès et à la civilisation.\n\n\nTout journal, de la première ligne à la dernière, n'est qu'un\n\ntissu d'horreurs. Guerres, crimes, vols, impudicités, tortures,\n\ncrimes des princes, crimes des nations, crimes des particuliers,\n\nune ivresse d'atrocité universelle.\n\n\nEt c'est de ce dégoûtant apéritif que l'homme civilisé accompagne\n\nson repas de chaque matin. Tout, en ce monde, sue le crime: le\n\njournal, la muraille et le visage de l'homme.\n\n\nJe ne comprends pas qu'une main puisse toucher un journal sans une\n\nconvulsion de dégoût."
+    },
+    {
+      "title": "XLV",
+      "content": "81.\n\n\nLa force de l'amulette démontrée par la philosophie. Les sols\n\npercés, les talismans, les souvenirs de chacun.\n\n\nTraité de Dynamique morale.\n\nDe la vertu des sacrements.\n\n\nDès mon enfance, tendance à la mysticité. Mes conversations avec\n\nDieu.\n\n\n82.\n\n\nDe l'Obsession, de la Possession, de la prière et de la Foi.\n\n\nDynamique morale de Jésus.\n\n\n(Renan trouve ridicule que Jésus croie à la toute-puissance, même\n\nmatérielle, de la Prière et de la Foi).\n\n\nLes sacrements sont les moyens de cette Dynamique.\n\n\n------------\n\n\nDe l'infamie de l'imprimerie, grand obstacle au développement du\n\nBeau.\n\n\n------------\n\n\nBelle conspiration à organiser pour l'extermination de la Race\n\nJuive.\n\n\nLes Juifs, _Bibliothécaires_ et témoins de la _Rédemption_."
+    },
+    {
+      "title": "XLVI",
+      "content": "83.\n\n\nTous les imbéciles de la Bourgeoisie qui prononcent sans cesse les\n\nmots: «immoral, immoralité, moralité dans l'art» et autres bêtises\n\nme font penser à Louise Villedieu, putain à cinq francs, qui\n\nm'accompagnant une fois au Louvre, où elle n'était jamais allée,\n\nse mit à rougir, à se couvrir le visage, et me tirant à chaque\n\ninstant par la manche, me demandait, devant les statues et les\n\ntableaux immortels, comment on pouvait étaler publiquement de\n\npareilles indécences.\n\n\n------------\n\n\nLes feuilles de vigne du sieur Nieuwerkerke."
+    },
+    {
+      "title": "XLVII",
+      "content": "84.\n\n\nPour que la loi du progrès existât, il faudrait que chacun voulût\n\nla créer; c'est-à-dire que quand tous les individus s'appliqueront\n\nà progresser, alors, et seulement alors, l'humanité sera en\n\nprogrès.\n\n\nCette hypothèse peut servir à expliquer l'identité des deux idées\n\ncontradictoires, liberté et fatalité. - Non seulement il y aura,\n\ndans le cas de progrès, identité entre la liberté et la fatalité,\n\nmais cette identité a toujours existé. Cette identité c'est\n\nl'_histoire_, histoire des nations et des individus."
+    },
+    {
+      "title": "XLVIII",
+      "content": "85.\n\n\nSonnet à citer dans _Mon coeur mis à nu_.\n\n\nCiter également la pièce sur _Roland_.\n\n\n_Je songeais cette nuit que Philis revenue,_\n\n_Belle comme elle était à la clarté du jour,_\n\n_Voulait que son fantôme encore fît l'amour,_\n\n_Et que, comme Ixion, j'embrassasse une nue._\n\n\n_Son ombre dans mon lit se glisse toute nue,_\n\n_Et me dit: «Cher Damon, me voici de retour;_\n\n_Je n'ai fait qu'embellir en ce triste séjour_\n\n_Où depuis mon départ le Sort m'a retenue._\n\n\n_»Je viens pour rebaiser le plus beau des amants;_\n\n_Je viens pour remourir dans tes embrassements!»_\n\n_Alors, quand cette idole eut abusé ma flamme,_\n\n\n_Elle me dit: «Adieu! Je m'en vais chez les morts._\n\n_Comme tu t'es vanté d'avoir foutu mon corps,_\n\n_Tu pourras te vanter d'avoir foutu mon âme.»_\n\n\nParnasse satyrique.\n\n\nJe crois que ce sonnet est de Maynard.\n\n\nMalassis prétend qu'il est de Racan."
+    }
+  ]
+}
