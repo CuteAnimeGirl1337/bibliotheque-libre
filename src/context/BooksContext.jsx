@@ -8,7 +8,7 @@ export function BooksProvider({ children }) {
   const [error, setError] = useState(null)
 
   useEffect(() => {
-    fetch('/data/books_db.json')
+    fetch(`${import.meta.env.BASE_URL}data/books_db.json`)
       .then(res => {
         if (!res.ok) throw new Error('Failed to load books catalog')
         return res.json()
